@@ -15,21 +15,16 @@ from time import sleep
 START_URL = 'https://www.timeanddate.com/weather/'
 CITY_NAME = 'Los Angeles'
 DRIVER = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
-NAME_MAP = {
-    'date': 'Date',
-    'tempLow low': 'Min Temp',
-    'time': 'Time',
-    'wicon': 'Weather',
-    'temp low': 'Max Temp',
-    'wind': 'Wind'
-}
 
 def get_city_link():
     body = DRIVER.find_element(By.CSS_SELECTOR, 'body[class="tpl-fluid "]')
     if body:
         weather_table = body.find_element(By.CSS_SELECTOR, 'table[class="zebra fw tb-theme"]')
-        city_link = weather_table.find_element(By.XPATH, f'.//td/a[text()="{CITY_NAME}"]').get_attribute('href')
-        print(f'{CITY_NAME} weather page link: {city_link}')
+        try: 
+            city_link = weather_table.find_element(By.XPATH, f'.//td/a[text()="{CITY_NAME}"]').get_attribute('href')
+        except NoSuchElementException:
+            print('City name error, no such city exist.')
+        # print(f'{CITY_NAME} weather page link: {city_link}') # For debug
     return city_link
 
 def get_past_weather_link():
@@ -37,7 +32,7 @@ def get_past_weather_link():
     if nav_bar:
         nav_div = nav_bar.find_element(By.CSS_SELECTOR, 'div[class="fixed"]')
         past_link = nav_div.find_element(By.XPATH, './/a[text()="Yesterday/Past Weather"]').get_attribute('href')
-        print(f'{CITY_NAME} Past Weather Link: {past_link}')
+        # print(f'{CITY_NAME} Past Weather Link: {past_link}') # For debug
     return past_link
 
 def get_date_columns():
@@ -53,7 +48,7 @@ def get_weather_data(div_block):
     weather_data['Weekday'] = full_date[0]
     weather_data['Date'] = ', '.join([full_date[1], full_date[2]])
     weather_data['Time'] = full_date[3]
-    print(weather_data['Date'] + ' ' + weather_data['Time'])
+    # print(weather_data['Date'] + ' ' + weather_data['Time']) # For debug
 
     # Get to the blocks
     inner_block = div_block.find_element(By.CSS_SELECTOR, 'div[class="inner__block"]')
@@ -76,13 +71,17 @@ def get_weather_data(div_block):
     # Get right block info
     wind_dir_block = right_block.find_element(By.CSS_SELECTOR, 'div[class="windDirection"]')
     weather_data['Wind Direction'] = wind_dir_block.get_attribute('textContent')
-    weather_data['Wind Degree'] = float(
-        right_block
+    rotation = (right_block
         .find_element(By.CSS_SELECTOR, 'canvas[id="tt-wind"]')
-        .get_attribute('style')
-        .split('(')[1]
-        .split('deg')[0]
-        )
+        .get_attribute('style'))
+    if rotation:
+        weather_data['Wind Degree'] = float(
+            rotation
+            .split('(')[1]
+            .split('deg')[0]
+            )
+    else:
+        weather_data['Wind Degree'] = np.nan
     weather_data['Wind Speed'] = float(
         wind_dir_block.find_element(By.XPATH, 'following-sibling::div')
         .get_attribute('textContent')
@@ -103,11 +102,23 @@ def get_past_weather():
         WebDriverWait(DRIVER, 5).until(lambda d: div_block.text.strip() != "") # Wait for Tooltip to update
         weather_data = get_weather_data(div_block)
         past_weather.append(weather_data)
-    print(pd.DataFrame(past_weather, columns=[
+        past_weather_df = pd.DataFrame(past_weather, columns=[
         'Weekday', 'Date', 'Time', 'Temp High', 'Temp Low', 
         'Condition', 'Humidity', 'Barometer', 'Wind Direction', 
-        'Wind Degree', 'Wind Speed']).head())
-    return
+        'Wind Degree', 'Wind Speed'])
+    return past_weather_df
+
+def save(data: pd.DataFrame, filename: str, filetype: str):
+    if filetype == 'csv':
+        if filename[-4:] != '.csv':
+            filename += '.csv'
+        data.to_csv('csv/' + filename, index=False)
+    elif filetype == 'json':
+        if filename[-5:] != '.json':
+            filename += '.json'
+        data.to_json('json/' + filename, index=False) 
+    else:
+        raise TypeError('Only support saving to csv or json files.')
 
 def main():
     # Loading the webpage    
@@ -127,6 +138,10 @@ def main():
     sleep(2)
     DRIVER.get(past_link)
     data = get_past_weather()
+
+    # Save the data
+    save(data, CITY_NAME.replace(' ', '_') + 'past_weather_data.csv', 'csv')
+    save(data, CITY_NAME.replace(' ', '_') + 'past_weather_data.json', 'json')
 
     # Close session
     DRIVER.quit()
