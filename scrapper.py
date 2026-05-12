@@ -140,8 +140,8 @@ def main():
     data = get_past_weather()
 
     # Save the data
-    save(data, CITY_NAME.replace(' ', '_') + 'past_weather_data.csv', 'csv')
-    save(data, CITY_NAME.replace(' ', '_') + 'past_weather_data.json', 'json')
+    save(data, CITY_NAME.replace(' ', '_') + '_past_weather_data.csv', 'csv')
+    save(data, CITY_NAME.replace(' ', '_') + '_past_weather_data.json', 'json')
 
     # Close session
     DRIVER.quit()
