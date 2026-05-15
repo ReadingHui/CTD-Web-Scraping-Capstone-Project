@@ -1,13 +1,5 @@
 Weekday,Date,Time,Temp High,Temp Low,Condition,Humidity,Barometer,Wind Direction,Wind Degree,Wind Speed
-Monday,"April 27, 2026",12:00 pm — 6:00 pm,66.0,64.0,Sunny,47.0,30.01,W,360.0,11.807
-Monday,"April 27, 2026",6:00 pm — 12:00 am,63.0,61.0,Clear,62.0,30.04,WSW,340.0,5.593
-Tuesday,"April 28, 2026",12:00 am — 6:00 am,59.0,55.0,Clear,72.0,30.04,N,,0.0
-Tuesday,"April 28, 2026",6:00 am — 12:00 pm,70.0,55.0,Sunny,52.0,30.06,W,350.0,2.486
-Tuesday,"April 28, 2026",12:00 pm — 6:00 pm,70.0,64.0,Sunny,48.0,30.02,W,360.0,14.293
-Tuesday,"April 28, 2026",6:00 pm — 12:00 am,64.0,61.0,Clear,66.0,30.03,W,370.0,5.593
-Wednesday,"April 29, 2026",12:00 am — 6:00 am,61.0,55.0,Clear,83.0,30.04,N,,0.0
-Wednesday,"April 29, 2026",6:00 am — 12:00 pm,70.0,57.0,Sunny,61.0,30.03,ESE,210.0,2.486
-Wednesday,"April 29, 2026",12:00 pm — 6:00 pm,70.0,66.0,Sunny,56.0,29.98,W,350.0,13.05
+Wednesday,"April 29, 2026",12:00 pm — 6:00 pm,68.0,66.0,Sunny,59.0,29.96,W,350.0,12.428
 Wednesday,"April 29, 2026",6:00 pm — 12:00 am,64.0,61.0,Clear,76.0,29.98,W,360.0,4.971
 Thursday,"April 30, 2026",12:00 am — 6:00 am,61.0,61.0,Passing clouds,83.0,29.94,WSW,330.0,1.864
 Thursday,"April 30, 2026",6:00 am — 12:00 pm,70.0,61.0,Overcast,66.0,29.91,ESE,210.0,4.35
@@ -59,4 +51,12 @@ Monday,"May 11, 2026",12:00 pm — 6:00 pm,70.0,66.0,Sunny,67.0,29.95,WNW,390.0,
 Monday,"May 11, 2026",6:00 pm — 12:00 am,64.0,59.0,Fog,87.0,29.94,WNW,390.0,7.457
 Tuesday,"May 12, 2026",12:00 am — 6:00 am,59.0,57.0,Low clouds,90.0,29.94,SW,320.0,3.728
 Tuesday,"May 12, 2026",6:00 am — 12:00 pm,64.0,59.0,Overcast,77.0,30.01,S,260.0,2.486
-Tuesday,"May 12, 2026",12:00 pm — 6:00 pm,68.0,64.0,Overcast,64.0,30.03,SW,320.0,4.35
+Tuesday,"May 12, 2026",12:00 pm — 6:00 pm,68.0,64.0,Overcast,64.0,30.02,W,370.0,5.593
+Tuesday,"May 12, 2026",6:00 pm — 12:00 am,64.0,63.0,Clear,72.0,30.04,WNW,380.0,6.214
+Wednesday,"May 13, 2026",12:00 am — 6:00 am,63.0,61.0,Mostly cloudy,75.0,30.06,WSW,340.0,4.35
+Wednesday,"May 13, 2026",6:00 am — 12:00 pm,68.0,63.0,Partly sunny,62.0,30.1,W,360.0,6.214
+Wednesday,"May 13, 2026",12:00 pm — 6:00 pm,70.0,66.0,Sunny,55.0,30.06,W,350.0,12.428
+Wednesday,"May 13, 2026",6:00 pm — 12:00 am,63.0,63.0,Clear,72.0,30.02,WNW,390.0,4.35
+Thursday,"May 14, 2026",12:00 am — 6:00 am,61.0,61.0,Clear,76.0,30.01,ESE,200.0,1.864
+Thursday,"May 14, 2026",6:00 am — 12:00 pm,64.0,61.0,Overcast,71.0,30.03,ESE,210.0,3.107
+Thursday,"May 14, 2026",12:00 pm — 6:00 pm,70.0,66.0,Sunny,60.0,29.99,W,350.0,6.836
