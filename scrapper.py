@@ -7,34 +7,36 @@ from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.chrome.service import Service as ChromeService
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support.select import Select
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.common.exceptions import NoSuchElementException
 
 from time import sleep
 
 START_URL = 'https://www.timeanddate.com/weather/'
+CITIES = ['Los Angeles', 'Houston', 'New York']
 CITY_NAME = 'Los Angeles'
 DRIVER = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
 
-def get_city_link():
+def get_city_link(city: str=CITY_NAME):
     body = DRIVER.find_element(By.CSS_SELECTOR, 'body[class="tpl-fluid "]')
     if body:
         weather_table = body.find_element(By.CSS_SELECTOR, 'table[class="zebra fw tb-theme"]')
         try: 
-            city_link = weather_table.find_element(By.XPATH, f'.//td/a[text()="{CITY_NAME}"]').get_attribute('href')
+            city_link = weather_table.find_element(By.XPATH, f'.//td/a[text()="{city}"]').get_attribute('href')
         except NoSuchElementException:
             print('City name error, no such city exist.')
-        # print(f'{CITY_NAME} weather page link: {city_link}') # For debug
+        # print(f'{city} weather page link: {city_link}') # For debug
     return city_link
 
-def get_weather_links():
+def get_weather_links(city: str=CITY_NAME):
     nav_bar = DRIVER.find_element(By.CSS_SELECTOR, 'nav[class="nav-3"]')
     if nav_bar:
         nav_div = nav_bar.find_element(By.CSS_SELECTOR, 'div[class="fixed"]')
         forecast_link = nav_div.find_element(By.XPATH, './/a[text()="14 Day Forecast"]').get_attribute('href')
         past_link = nav_div.find_element(By.XPATH, './/a[text()="Yesterday/Past Weather"]').get_attribute('href')
         climate_link = nav_div.find_element(By.XPATH, './/a[text()="Climate (Averages)"]').get_attribute('href')
-        # print(f'{CITY_NAME} Past Weather Link: {past_link}') # For debug
+        # print(f'{city} Past Weather Link: {past_link}') # For debug
 
     return forecast_link, past_link, climate_link
 
@@ -114,6 +116,18 @@ def get_past_weather_data(div_block):
     middle_block = blocks[1]
     right_block = blocks[2]
 
+    # Check if data is available, if not, assign NaN to all the fields and return
+    if 'No weather data available' in left_block.get_attribute('textContent'):
+        weather_data['Temp High'] = np.nan
+        weather_data['Temp Low'] = np.nan
+        weather_data['Condition'] = np.nan
+        weather_data['Humidity'] = np.nan
+        weather_data['Barometer'] = np.nan
+        weather_data['Wind Direction'] = np.nan
+        weather_data['Wind Degree'] = np.nan
+        weather_data['Wind Speed'] = np.nan
+        return weather_data
+
     # Get left block info
     temp = left_block.find_element(By.CSS_SELECTOR, 'div[class="temp"]').get_attribute('textContent').rstrip(' °F').split(' / ')
     weather_data['Temp High'] = float(temp[0])
@@ -169,7 +183,7 @@ def get_climate_data(div_block):
     return weather_data
 
 
-def get_forecast_weather():
+def get_forecast_weather(city: str=CITY_NAME):
     columns = get_date_columns()
     div_block = DRIVER.find_element(By.CSS_SELECTOR, 'div[class="weatherTooltip"]')
     actions = ActionChains(DRIVER)
@@ -183,25 +197,36 @@ def get_forecast_weather():
         'Weekday', 'Date', 'Temp High', 'Temp Low', 
         'Condition', 'Feels Like', 'Humidity', 'Precipitation_Rain', 'Precipitation_Snow', 'Precipitation Chance', 'Wind Direction', 
         'Wind Degree', 'Wind Speed'])
+        forecast_weather_df['City'] = city
     return forecast_weather_df
 
-def get_past_weather():
-    columns = get_date_columns()
-    div_block = DRIVER.find_element(By.CSS_SELECTOR, 'div[class="weatherTooltip"]')
-    actions = ActionChains(DRIVER)
-    past_weather = []
-    for col in columns:
-        actions.move_to_element(col).perform()  # Move cursor to columns to update Tooltip
-        WebDriverWait(DRIVER, 5).until(lambda d: div_block.text.strip() != "") # Wait for Tooltip to update
-        weather_data = get_past_weather_data(div_block)
-        past_weather.append(weather_data)
-        past_weather_df = pd.DataFrame(past_weather, columns=[
-        'Weekday', 'Date', 'Time', 'Temp High', 'Temp Low', 
-        'Condition', 'Humidity', 'Barometer', 'Wind Direction', 
-        'Wind Degree', 'Wind Speed'])
+def get_past_weather(city: str=CITY_NAME):
+    months = ['2026-05', '2026-04', '2026-03', '2026-02', '2026-01']
+    past_weather_dfs = []    
+    for month in months: 
+        month_dropdown = DRIVER.find_element(By.CSS_SELECTOR, 'select[id="month"]')
+        select = Select(month_dropdown)
+        select.select_by_value(month) # Select months one by one to get the months weather data
+
+        columns = get_date_columns()
+        div_block = DRIVER.find_element(By.CSS_SELECTOR, 'div[class="weatherTooltip"]')
+        actions = ActionChains(DRIVER)
+        past_weather = []
+        for col in columns:
+            actions.move_to_element(col).perform()  # Move cursor to columns to update Tooltip
+            WebDriverWait(DRIVER, 5).until(lambda d: div_block.text.strip() != "") # Wait for Tooltip to update
+            weather_data = get_past_weather_data(div_block)
+            past_weather.append(weather_data)
+        past_weather_dfs.append(
+            pd.DataFrame(past_weather, columns=[
+            'Weekday', 'Date', 'Time', 'Temp High', 'Temp Low', 
+            'Condition', 'Humidity', 'Barometer', 'Wind Direction', 
+            'Wind Degree', 'Wind Speed']))
+    past_weather_df = pd.concat(past_weather_dfs, ignore_index=True)
+    past_weather_df['City'] = city
     return past_weather_df
 
-def get_climate():
+def get_climate(city: str=CITY_NAME):
     months = ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
     div_blocks = [DRIVER.find_element(By.CSS_SELECTOR, f'div[class="climate-month climate-month--{m}"]') for m in months]
     climate = []
@@ -211,6 +236,7 @@ def get_climate():
         climate_df = pd.DataFrame(climate, columns=[
         'Month', 'High Temp', 'Low Temp', 'Mean Temp', 'Precipitation', 
         'Humidity', 'Dew Point', 'Wind', 'Pressure', 'Visibility'])
+    climate_df['City'] = city
     return climate_df
 
 def save(data: pd.DataFrame, filename: str, filetype: str):
@@ -226,47 +252,57 @@ def save(data: pd.DataFrame, filename: str, filetype: str):
         raise TypeError('Only support saving to csv or json files.')
 
 def main():
-    # Loading the webpage    
-    sleep(2)
-    DRIVER.get(START_URL)
+    forecast_data_list = []
+    past_data_list = []
+    climate_data_list = []
 
-    # Get Los Angeles weather url
-    city_link = get_city_link()
-    
-    # Get Past Weather link
-    sleep(2)
-    DRIVER.get(city_link)
-    forecast_link, past_link, climate_link = get_weather_links()
+    for city in CITIES:
+        # Loading the starting webpage    
+        sleep(2)
+        DRIVER.get(START_URL)
 
-    # Get forecast weather data
-    sleep(2)
-    DRIVER.get(forecast_link)
-    print('Scrapping Weather Forecast...')
-    forecast_data = get_forecast_weather()
+        # Get city weather url
+        city_link = get_city_link(city)
+        
+        # Get Past Weather link
+        sleep(2)
+        DRIVER.get(city_link)
+        forecast_link, past_link, climate_link = get_weather_links(city)
 
-    # Get past weather data
-    sleep(2)
-    DRIVER.get(past_link)
-    print('Scrapping Weather History...')
-    past_data = get_past_weather()
+        # Get forecast weather data
+        sleep(2)
+        DRIVER.get(forecast_link)
+        print('Scrapping Weather Forecast...')
+        forecast_data_list.append(get_forecast_weather(city))
 
-    # Get climate data
-    sleep(2)
-    DRIVER.get(climate_link)
-    print('Scrapping climate data...')
-    climate_data = get_climate()
+        # Get past weather data
+        sleep(2)
+        DRIVER.get(past_link)
+        print('Scrapping Weather History...')
+        past_data_list.append(get_past_weather(city))
+
+        # Get climate data
+        sleep(2)
+        DRIVER.get(climate_link)
+        print('Scrapping climate data...')
+        climate_data_list.append(get_climate(city))
 
     # Close session
     DRIVER.quit()
 
+    # Join the dfs
+    forecast_data = pd.concat(forecast_data_list, ignore_index=True)
+    past_data = pd.concat(past_data_list, ignore_index=True)
+    climate_data = pd.concat(climate_data_list, ignore_index=True)
+
     # Save the data
     print('Saving data...')
-    save(forecast_data, CITY_NAME.replace(' ', '_') + '_forecast_weather_data.csv', 'csv')
-    save(forecast_data, CITY_NAME.replace(' ', '_') + '_forecast_weather_data.json', 'json')
-    save(past_data, CITY_NAME.replace(' ', '_') + '_past_weather_data.csv', 'csv')
-    save(past_data, CITY_NAME.replace(' ', '_') + '_past_weather_data.json', 'json')
-    save(climate_data, CITY_NAME.replace(' ', '_') + '_climate_data.csv', 'csv')
-    save(climate_data, CITY_NAME.replace(' ', '_') + '_climate_data.json', 'json')
+    save(forecast_data, 'forecast_weather_data.csv', 'csv')
+    save(forecast_data, 'forecast_weather_data.json', 'json')
+    save(past_data, 'past_weather_data.csv', 'csv')
+    save(past_data, 'past_weather_data.json', 'json')
+    save(climate_data, 'climate_data.csv', 'csv')
+    save(climate_data, 'climate_data.json', 'json')
     print('Data saved.')
 
 if __name__ == "__main__":
