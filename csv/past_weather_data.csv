@@ -1,0 +1,1740 @@
+Weekday,Date,Time,Temp High,Temp Low,Condition,Humidity,Barometer,Wind Direction,Wind Degree,Wind Speed,City
+Friday,"May 1, 2026",12:00 am — 6:00 am,63.0,63.0,Overcast,76.0,29.93,SSE,250.0,4.35,Los Angeles
+Friday,"May 1, 2026",6:00 am — 12:00 pm,68.0,63.0,Overcast,68.0,29.97,ESE,200.0,3.728,Los Angeles
+Friday,"May 1, 2026",12:00 pm — 6:00 pm,70.0,66.0,Sunny,62.0,29.9,W,350.0,11.185,Los Angeles
+Friday,"May 1, 2026",6:00 pm — 12:00 am,64.0,61.0,Passing clouds,79.0,29.93,WNW,380.0,6.836,Los Angeles
+Saturday,"May 2, 2026",12:00 am — 6:00 am,61.0,59.0,Low clouds,85.0,29.93,WSW,330.0,3.728,Los Angeles
+Saturday,"May 2, 2026",6:00 am — 12:00 pm,66.0,61.0,Overcast,79.0,29.97,SSE,250.0,1.864,Los Angeles
+Saturday,"May 2, 2026",12:00 pm — 6:00 pm,66.0,64.0,Passing clouds,68.0,29.89,W,350.0,10.564,Los Angeles
+Saturday,"May 2, 2026",6:00 pm — 12:00 am,63.0,61.0,Overcast,80.0,29.89,W,360.0,7.457,Los Angeles
+Sunday,"May 3, 2026",12:00 am — 6:00 am,61.0,61.0,Overcast,73.0,29.92,SW,320.0,3.107,Los Angeles
+Sunday,"May 3, 2026",6:00 am — 12:00 pm,64.0,61.0,Overcast,66.0,29.95,W,370.0,6.836,Los Angeles
+Sunday,"May 3, 2026",12:00 pm — 6:00 pm,66.0,64.0,Overcast,56.0,29.93,W,370.0,10.564,Los Angeles
+Sunday,"May 3, 2026",6:00 pm — 12:00 am,63.0,61.0,Overcast,65.0,29.96,W,360.0,8.7,Los Angeles
+Monday,"May 4, 2026",12:00 am — 6:00 am,61.0,59.0,Overcast,69.0,29.97,WNW,380.0,6.836,Los Angeles
+Monday,"May 4, 2026",6:00 am — 12:00 pm,66.0,59.0,Sunny,60.0,29.99,WNW,390.0,10.564,Los Angeles
+Monday,"May 4, 2026",12:00 pm — 6:00 pm,68.0,64.0,Overcast,57.0,29.98,W,370.0,14.293,Los Angeles
+Monday,"May 4, 2026",6:00 pm — 12:00 am,64.0,61.0,Mostly cloudy,74.0,29.97,W,360.0,7.457,Los Angeles
+Tuesday,"May 5, 2026",12:00 am — 6:00 am,61.0,57.0,Light rain. Overcast,78.0,29.95,WNW,380.0,4.971,Los Angeles
+Tuesday,"May 5, 2026",6:00 am — 12:00 pm,64.0,57.0,Sunny,64.0,29.96,W,360.0,9.321,Los Angeles
+Tuesday,"May 5, 2026",12:00 pm — 6:00 pm,66.0,64.0,More clouds than sun,50.0,29.96,W,370.0,11.807,Los Angeles
+Tuesday,"May 5, 2026",6:00 pm — 12:00 am,64.0,61.0,Clear,66.0,30.01,WSW,330.0,3.728,Los Angeles
+Wednesday,"May 6, 2026",12:00 am — 6:00 am,61.0,57.0,Clear,78.0,30.05,N,,0.0,Los Angeles
+Wednesday,"May 6, 2026",6:00 am — 12:00 pm,68.0,57.0,Sunny,66.0,30.07,N,90.0,3.728,Los Angeles
+Wednesday,"May 6, 2026",12:00 pm — 6:00 pm,70.0,66.0,Sunny,58.0,30.02,W,370.0,11.807,Los Angeles
+Wednesday,"May 6, 2026",6:00 pm — 12:00 am,64.0,61.0,Clear,76.0,30.03,WNW,390.0,6.836,Los Angeles
+Thursday,"May 7, 2026",12:00 am — 6:00 am,61.0,59.0,Clear,82.0,30.01,W,,0.621,Los Angeles
+Thursday,"May 7, 2026",6:00 am — 12:00 pm,70.0,61.0,Sunny,73.0,30.02,W,370.0,3.728,Los Angeles
+Thursday,"May 7, 2026",12:00 pm — 6:00 pm,70.0,66.0,Sunny,65.0,29.96,W,350.0,11.185,Los Angeles
+Thursday,"May 7, 2026",6:00 pm — 12:00 am,64.0,61.0,Clear,82.0,29.99,W,350.0,3.728,Los Angeles
+Friday,"May 8, 2026",12:00 am — 6:00 am,63.0,61.0,Overcast,81.0,30.0,SSE,240.0,1.864,Los Angeles
+Friday,"May 8, 2026",6:00 am — 12:00 pm,66.0,63.0,Overcast,77.0,30.01,N,90.0,3.728,Los Angeles
+Friday,"May 8, 2026",12:00 pm — 6:00 pm,70.0,64.0,Sunny,69.0,29.95,W,370.0,10.564,Los Angeles
+Friday,"May 8, 2026",6:00 pm — 12:00 am,64.0,61.0,Low clouds,81.0,29.95,WNW,390.0,4.971,Los Angeles
+Saturday,"May 9, 2026",12:00 am — 6:00 am,63.0,61.0,Low clouds,84.0,29.93,SSE,240.0,3.107,Los Angeles
+Saturday,"May 9, 2026",6:00 am — 12:00 pm,70.0,61.0,Overcast,77.0,29.94,SE,220.0,3.728,Los Angeles
+Saturday,"May 9, 2026",12:00 pm — 6:00 pm,72.0,64.0,Sunny,66.0,29.9,W,360.0,9.943,Los Angeles
+Saturday,"May 9, 2026",6:00 pm — 12:00 am,63.0,61.0,Low clouds,84.0,29.91,WNW,380.0,4.971,Los Angeles
+Sunday,"May 10, 2026",12:00 am — 6:00 am,63.0,61.0,Low clouds,85.0,29.91,SE,,0.621,Los Angeles
+Sunday,"May 10, 2026",6:00 am — 12:00 pm,72.0,61.0,Overcast,73.0,29.93,SE,230.0,3.107,Los Angeles
+Sunday,"May 10, 2026",12:00 pm — 6:00 pm,70.0,68.0,Sunny,64.0,29.92,W,350.0,9.321,Los Angeles
+Sunday,"May 10, 2026",6:00 pm — 12:00 am,66.0,63.0,Overcast,81.0,29.96,W,370.0,4.35,Los Angeles
+Monday,"May 11, 2026",12:00 am — 6:00 am,63.0,61.0,Overcast,86.0,29.96,WNW,,0.621,Los Angeles
+Monday,"May 11, 2026",6:00 am — 12:00 pm,66.0,61.0,Sunny,77.0,29.96,WNW,390.0,6.836,Los Angeles
+Monday,"May 11, 2026",12:00 pm — 6:00 pm,70.0,66.0,Sunny,67.0,29.95,WNW,390.0,9.321,Los Angeles
+Monday,"May 11, 2026",6:00 pm — 12:00 am,64.0,59.0,Fog,87.0,29.94,WNW,390.0,7.457,Los Angeles
+Tuesday,"May 12, 2026",12:00 am — 6:00 am,59.0,57.0,Low clouds,90.0,29.94,SW,320.0,3.728,Los Angeles
+Tuesday,"May 12, 2026",6:00 am — 12:00 pm,64.0,59.0,Overcast,77.0,30.01,S,260.0,2.486,Los Angeles
+Tuesday,"May 12, 2026",12:00 pm — 6:00 pm,68.0,64.0,Overcast,64.0,30.02,W,370.0,5.593,Los Angeles
+Tuesday,"May 12, 2026",6:00 pm — 12:00 am,64.0,63.0,Clear,72.0,30.04,WNW,380.0,6.214,Los Angeles
+Wednesday,"May 13, 2026",12:00 am — 6:00 am,63.0,61.0,Mostly cloudy,75.0,30.06,WSW,340.0,4.35,Los Angeles
+Wednesday,"May 13, 2026",6:00 am — 12:00 pm,68.0,63.0,Partly sunny,62.0,30.1,W,360.0,6.214,Los Angeles
+Wednesday,"May 13, 2026",12:00 pm — 6:00 pm,70.0,66.0,Sunny,55.0,30.06,W,350.0,12.428,Los Angeles
+Wednesday,"May 13, 2026",6:00 pm — 12:00 am,63.0,63.0,Clear,72.0,30.02,WNW,390.0,4.35,Los Angeles
+Thursday,"May 14, 2026",12:00 am — 6:00 am,61.0,61.0,Clear,76.0,30.01,ESE,200.0,1.864,Los Angeles
+Thursday,"May 14, 2026",6:00 am — 12:00 pm,64.0,61.0,Overcast,71.0,30.03,ESE,210.0,3.107,Los Angeles
+Thursday,"May 14, 2026",12:00 pm — 6:00 pm,70.0,66.0,Sunny,60.0,29.99,W,350.0,6.836,Los Angeles
+Thursday,"May 14, 2026",6:00 pm — 12:00 am,,,,,,,,,Los Angeles
+Friday,"May 15, 2026",12:00 am — 6:00 am,,,,,,,,,Los Angeles
+Friday,"May 15, 2026",6:00 am — 12:00 pm,,,,,,,,,Los Angeles
+Friday,"May 15, 2026",12:00 pm — 6:00 pm,68.0,66.0,Overcast,67.0,29.96,WSW,340.0,6.836,Los Angeles
+Friday,"May 15, 2026",6:00 pm — 12:00 am,64.0,61.0,Clear,79.0,29.94,WNW,390.0,4.971,Los Angeles
+Saturday,"May 16, 2026",12:00 am — 6:00 am,63.0,61.0,Overcast,80.0,29.92,W,370.0,3.728,Los Angeles
+Saturday,"May 16, 2026",6:00 am — 12:00 pm,70.0,63.0,Overcast,70.0,29.92,W,350.0,6.836,Los Angeles
+Saturday,"May 16, 2026",12:00 pm — 6:00 pm,70.0,66.0,Sunny,60.0,29.87,W,350.0,12.428,Los Angeles
+Saturday,"May 16, 2026",6:00 pm — 12:00 am,66.0,63.0,Clear,66.0,29.84,S,260.0,3.107,Los Angeles
+Sunday,"May 17, 2026",12:00 am — 6:00 am,63.0,61.0,Passing clouds,76.0,29.81,ESE,200.0,1.864,Los Angeles
+Sunday,"May 17, 2026",6:00 am — 12:00 pm,68.0,63.0,Mostly cloudy,68.0,29.81,SE,230.0,4.971,Los Angeles
+Sunday,"May 17, 2026",12:00 pm — 6:00 pm,70.0,66.0,Sunny,61.0,29.75,WSW,340.0,9.321,Los Angeles
+Sunday,"May 17, 2026",6:00 pm — 12:00 am,64.0,63.0,Scattered clouds,74.0,29.74,W,360.0,6.836,Los Angeles
+Monday,"May 18, 2026",12:00 am — 6:00 am,63.0,61.0,Passing clouds,76.0,29.82,ESE,200.0,3.107,Los Angeles
+Monday,"May 18, 2026",6:00 am — 12:00 pm,72.0,63.0,Scattered clouds,63.0,29.88,N,90.0,3.107,Los Angeles
+Monday,"May 18, 2026",12:00 pm — 6:00 pm,72.0,70.0,Sunny,55.0,29.87,W,360.0,14.293,Los Angeles
+Monday,"May 18, 2026",6:00 pm — 12:00 am,66.0,64.0,Clear,68.0,29.93,WSW,340.0,3.728,Los Angeles
+Tuesday,"May 19, 2026",12:00 am — 6:00 am,63.0,61.0,Clear,82.0,29.94,N,,0.0,Los Angeles
+Tuesday,"May 19, 2026",6:00 am — 12:00 pm,75.0,61.0,Sunny,60.0,29.97,W,370.0,4.35,Los Angeles
+Tuesday,"May 19, 2026",12:00 pm — 6:00 pm,75.0,73.0,Sunny,49.0,29.92,W,360.0,13.671,Los Angeles
+Tuesday,"May 19, 2026",6:00 pm — 12:00 am,73.0,72.0,Clear,41.0,29.9,NW,410.0,5.593,Los Angeles
+Wednesday,"May 20, 2026",12:00 am — 6:00 am,66.0,63.0,Clear,54.0,29.91,SE,220.0,1.243,Los Angeles
+Wednesday,"May 20, 2026",6:00 am — 12:00 pm,79.0,64.0,Sunny,57.0,29.91,E,190.0,3.728,Los Angeles
+Wednesday,"May 20, 2026",12:00 pm — 6:00 pm,79.0,75.0,Sunny,39.0,29.85,W,350.0,12.428,Los Angeles
+Wednesday,"May 20, 2026",6:00 pm — 12:00 am,73.0,64.0,Clear,60.0,29.83,W,350.0,6.214,Los Angeles
+Thursday,"May 21, 2026",12:00 am — 6:00 am,64.0,63.0,Clear,75.0,29.86,W,370.0,1.243,Los Angeles
+Thursday,"May 21, 2026",6:00 am — 12:00 pm,73.0,64.0,Sunny,73.0,29.89,SE,230.0,4.971,Los Angeles
+Thursday,"May 21, 2026",12:00 pm — 6:00 pm,72.0,66.0,Sunny,65.0,29.85,W,360.0,9.943,Los Angeles
+Thursday,"May 21, 2026",6:00 pm — 12:00 am,64.0,61.0,Passing clouds,79.0,29.85,WNW,380.0,5.593,Los Angeles
+Friday,"May 22, 2026",12:00 am — 6:00 am,63.0,61.0,Overcast,79.0,29.85,W,360.0,2.486,Los Angeles
+Friday,"May 22, 2026",6:00 am — 12:00 pm,66.0,63.0,Overcast,70.0,29.87,ESE,210.0,4.35,Los Angeles
+Friday,"May 22, 2026",12:00 pm — 6:00 pm,68.0,64.0,Sunny,64.0,29.86,W,350.0,10.564,Los Angeles
+Friday,"May 22, 2026",6:00 pm — 12:00 am,64.0,61.0,Clear,76.0,29.9,W,350.0,4.971,Los Angeles
+Saturday,"May 23, 2026",12:00 am — 6:00 am,63.0,63.0,Overcast,73.0,29.91,N,90.0,1.864,Los Angeles
+Saturday,"May 23, 2026",6:00 am — 12:00 pm,66.0,63.0,Overcast,71.0,29.97,WSW,340.0,4.35,Los Angeles
+Saturday,"May 23, 2026",12:00 pm — 6:00 pm,70.0,64.0,Partly sunny,66.0,29.96,W,360.0,11.807,Los Angeles
+Saturday,"May 23, 2026",6:00 pm — 12:00 am,64.0,63.0,Overcast,75.0,29.99,W,370.0,8.7,Los Angeles
+Sunday,"May 24, 2026",12:00 am — 6:00 am,63.0,61.0,Overcast,76.0,30.0,WNW,380.0,3.107,Los Angeles
+Sunday,"May 24, 2026",6:00 am — 12:00 pm,64.0,61.0,Overcast,71.0,30.03,W,350.0,6.214,Los Angeles
+Sunday,"May 24, 2026",12:00 pm — 6:00 pm,68.0,64.0,Sunny,60.0,29.99,W,360.0,11.807,Los Angeles
+Sunday,"May 24, 2026",6:00 pm — 12:00 am,64.0,63.0,Clear,67.0,29.96,W,350.0,8.7,Los Angeles
+Monday,"May 25, 2026",12:00 am — 6:00 am,61.0,57.0,Clear,76.0,29.96,W,360.0,1.864,Los Angeles
+Monday,"May 25, 2026",6:00 am — 12:00 pm,68.0,59.0,Passing clouds,65.0,29.98,SW,320.0,4.971,Los Angeles
+Monday,"May 25, 2026",12:00 pm — 6:00 pm,70.0,66.0,Sunny,57.0,29.92,W,350.0,13.05,Los Angeles
+Wednesday,"April 1, 2026",12:00 am — 6:00 am,64.0,61.0,Light rain. Mostly cloudy,90.0,29.94,W,360.0,3.728,Los Angeles
+Wednesday,"April 1, 2026",6:00 am — 12:00 pm,66.0,61.0,Broken clouds,74.0,29.98,N,90.0,4.35,Los Angeles
+Wednesday,"April 1, 2026",12:00 pm — 6:00 pm,68.0,66.0,Sunny,56.0,29.97,W,360.0,11.185,Los Angeles
+Wednesday,"April 1, 2026",6:00 pm — 12:00 am,66.0,63.0,Clear,73.0,29.98,WNW,380.0,9.321,Los Angeles
+Thursday,"April 2, 2026",12:00 am — 6:00 am,61.0,61.0,Passing clouds,79.0,29.97,WNW,380.0,4.971,Los Angeles
+Thursday,"April 2, 2026",6:00 am — 12:00 pm,66.0,61.0,Overcast,66.0,29.99,WNW,390.0,3.728,Los Angeles
+Thursday,"April 2, 2026",12:00 pm — 6:00 pm,68.0,66.0,Sunny,59.0,29.94,W,350.0,11.185,Los Angeles
+Thursday,"April 2, 2026",6:00 pm — 12:00 am,64.0,63.0,Overcast,73.0,29.94,WSW,340.0,6.214,Los Angeles
+Friday,"April 3, 2026",12:00 am — 6:00 am,61.0,57.0,Clear,83.0,29.95,N,,0.0,Los Angeles
+Friday,"April 3, 2026",6:00 am — 12:00 pm,72.0,57.0,Sunny,66.0,30.0,N,,0.621,Los Angeles
+Friday,"April 3, 2026",12:00 pm — 6:00 pm,79.0,72.0,Sunny,49.0,29.97,W,370.0,8.078,Los Angeles
+Friday,"April 3, 2026",6:00 pm — 12:00 am,70.0,66.0,Clear,63.0,30.0,W,350.0,1.864,Los Angeles
+Saturday,"April 4, 2026",12:00 am — 6:00 am,64.0,57.0,Clear,83.0,30.01,N,,0.0,Los Angeles
+Saturday,"April 4, 2026",6:00 am — 12:00 pm,84.0,57.0,Sunny,31.0,30.03,N,,0.621,Los Angeles
+Saturday,"April 4, 2026",12:00 pm — 6:00 pm,86.0,79.0,Sunny,19.0,29.96,WNW,380.0,10.564,Los Angeles
+Saturday,"April 4, 2026",6:00 pm — 12:00 am,75.0,66.0,Clear,38.0,29.97,WNW,380.0,3.728,Los Angeles
+Sunday,"April 5, 2026",12:00 am — 6:00 am,64.0,61.0,Clear,50.0,29.98,N,,0.0,Los Angeles
+Sunday,"April 5, 2026",6:00 am — 12:00 pm,81.0,59.0,Sunny,38.0,30.0,W,360.0,1.243,Los Angeles
+Sunday,"April 5, 2026",12:00 pm — 6:00 pm,77.0,73.0,Sunny,36.0,29.97,W,360.0,9.321,Los Angeles
+Sunday,"April 5, 2026",6:00 pm — 12:00 am,70.0,64.0,Clear,63.0,29.97,WNW,380.0,3.107,Los Angeles
+Monday,"April 6, 2026",12:00 am — 6:00 am,64.0,64.0,Clear,81.0,29.98,W,350.0,1.243,Los Angeles
+Monday,"April 6, 2026",6:00 am — 12:00 pm,75.0,64.0,Sunny,63.0,30.02,SE,220.0,2.486,Los Angeles
+Monday,"April 6, 2026",12:00 pm — 6:00 pm,73.0,70.0,Sunny,56.0,29.99,W,360.0,11.807,Los Angeles
+Monday,"April 6, 2026",6:00 pm — 12:00 am,64.0,63.0,Clear,77.0,30.0,W,350.0,6.836,Los Angeles
+Tuesday,"April 7, 2026",12:00 am — 6:00 am,63.0,61.0,Clear,82.0,30.0,N,,0.0,Los Angeles
+Tuesday,"April 7, 2026",6:00 am — 12:00 pm,72.0,61.0,Passing clouds,73.0,30.01,SSE,250.0,1.864,Los Angeles
+Tuesday,"April 7, 2026",12:00 pm — 6:00 pm,72.0,68.0,Sunny,59.0,29.93,W,360.0,11.185,Los Angeles
+Tuesday,"April 7, 2026",6:00 pm — 12:00 am,66.0,63.0,Clear,80.0,29.92,W,350.0,3.107,Los Angeles
+Wednesday,"April 8, 2026",12:00 am — 6:00 am,63.0,61.0,Clear,86.0,29.91,N,,0.0,Los Angeles
+Wednesday,"April 8, 2026",6:00 am — 12:00 pm,73.0,61.0,Overcast,76.0,29.94,S,280.0,2.486,Los Angeles
+Wednesday,"April 8, 2026",12:00 pm — 6:00 pm,73.0,68.0,Sunny,62.0,29.89,W,350.0,10.564,Los Angeles
+Wednesday,"April 8, 2026",6:00 pm — 12:00 am,66.0,64.0,Clear,80.0,29.9,WSW,340.0,3.107,Los Angeles
+Thursday,"April 9, 2026",12:00 am — 6:00 am,63.0,63.0,Passing clouds,85.0,29.91,E,,0.621,Los Angeles
+Thursday,"April 9, 2026",6:00 am — 12:00 pm,72.0,63.0,Overcast,76.0,29.95,ESE,200.0,4.35,Los Angeles
+Thursday,"April 9, 2026",12:00 pm — 6:00 pm,72.0,66.0,Sunny,69.0,29.93,W,350.0,9.321,Los Angeles
+Thursday,"April 9, 2026",6:00 pm — 12:00 am,66.0,63.0,Passing clouds,84.0,29.95,WSW,330.0,5.593,Los Angeles
+Friday,"April 10, 2026",12:00 am — 6:00 am,63.0,61.0,Passing clouds,84.0,29.94,WNW,390.0,2.486,Los Angeles
+Friday,"April 10, 2026",6:00 am — 12:00 pm,66.0,61.0,Scattered clouds,76.0,29.97,W,350.0,4.971,Los Angeles
+Friday,"April 10, 2026",12:00 pm — 6:00 pm,68.0,64.0,Scattered clouds,67.0,29.95,W,350.0,9.943,Los Angeles
+Friday,"April 10, 2026",6:00 pm — 12:00 am,64.0,63.0,Clear,75.0,29.95,W,370.0,10.564,Los Angeles
+Saturday,"April 11, 2026",12:00 am — 6:00 am,63.0,61.0,Passing clouds,82.0,29.96,WNW,380.0,1.864,Los Angeles
+Saturday,"April 11, 2026",6:00 am — 12:00 pm,68.0,61.0,Sunny,68.0,30.01,W,360.0,3.728,Los Angeles
+Saturday,"April 11, 2026",12:00 pm — 6:00 pm,70.0,66.0,Sunny,57.0,29.97,W,350.0,13.671,Los Angeles
+Saturday,"April 11, 2026",6:00 pm — 12:00 am,64.0,63.0,Passing clouds,70.0,29.97,W,360.0,7.457,Los Angeles
+Sunday,"April 12, 2026",12:00 am — 6:00 am,63.0,61.0,Overcast,72.0,29.94,S,260.0,4.35,Los Angeles
+Sunday,"April 12, 2026",6:00 am — 12:00 pm,66.0,59.0,Mostly cloudy,77.0,29.98,W,360.0,8.078,Los Angeles
+Sunday,"April 12, 2026",12:00 pm — 6:00 pm,70.0,64.0,Overcast,43.0,29.99,W,370.0,13.671,Los Angeles
+Sunday,"April 12, 2026",6:00 pm — 12:00 am,64.0,61.0,Clear,63.0,30.03,W,370.0,6.214,Los Angeles
+Monday,"April 13, 2026",12:00 am — 6:00 am,59.0,57.0,Passing clouds,67.0,30.03,N,,0.0,Los Angeles
+Monday,"April 13, 2026",6:00 am — 12:00 pm,64.0,57.0,Passing clouds,59.0,30.05,W,350.0,6.214,Los Angeles
+Monday,"April 13, 2026",12:00 pm — 6:00 pm,66.0,64.0,Scattered clouds,45.0,30.02,W,370.0,14.914,Los Angeles
+Monday,"April 13, 2026",6:00 pm — 12:00 am,64.0,61.0,Clear,66.0,30.05,W,360.0,9.943,Los Angeles
+Tuesday,"April 14, 2026",12:00 am — 6:00 am,59.0,55.0,Clear,74.0,30.08,N,,0.0,Los Angeles
+Tuesday,"April 14, 2026",6:00 am — 12:00 pm,68.0,55.0,Sunny,60.0,30.11,N,90.0,3.107,Los Angeles
+Tuesday,"April 14, 2026",12:00 pm — 6:00 pm,70.0,68.0,Sunny,51.0,30.05,W,360.0,9.943,Los Angeles
+Tuesday,"April 14, 2026",6:00 pm — 12:00 am,64.0,61.0,Clear,71.0,30.03,W,370.0,6.836,Los Angeles
+Wednesday,"April 15, 2026",12:00 am — 6:00 am,61.0,57.0,Clear,84.0,30.02,N,,0.0,Los Angeles
+Wednesday,"April 15, 2026",6:00 am — 12:00 pm,70.0,57.0,Sunny,64.0,30.04,ESE,200.0,2.486,Los Angeles
+Wednesday,"April 15, 2026",12:00 pm — 6:00 pm,70.0,68.0,Sunny,58.0,30.0,W,360.0,11.807,Los Angeles
+Wednesday,"April 15, 2026",6:00 pm — 12:00 am,64.0,61.0,Clear,72.0,29.97,WNW,390.0,3.728,Los Angeles
+Thursday,"April 16, 2026",12:00 am — 6:00 am,61.0,59.0,Clear,79.0,29.92,N,,0.0,Los Angeles
+Thursday,"April 16, 2026",6:00 am — 12:00 pm,72.0,61.0,Sunny,69.0,29.94,SE,220.0,2.486,Los Angeles
+Thursday,"April 16, 2026",12:00 pm — 6:00 pm,70.0,66.0,Sunny,57.0,29.89,W,360.0,10.564,Los Angeles
+Thursday,"April 16, 2026",6:00 pm — 12:00 am,64.0,63.0,Clear,76.0,29.89,W,350.0,3.728,Los Angeles
+Friday,"April 17, 2026",12:00 am — 6:00 am,61.0,59.0,Clear,80.0,29.92,E,170.0,3.107,Los Angeles
+Friday,"April 17, 2026",6:00 am — 12:00 pm,70.0,61.0,Broken clouds,65.0,29.99,ESE,210.0,4.35,Los Angeles
+Friday,"April 17, 2026",12:00 pm — 6:00 pm,73.0,68.0,Sunny,50.0,29.96,W,370.0,9.321,Los Angeles
+Friday,"April 17, 2026",6:00 pm — 12:00 am,68.0,64.0,Clear,63.0,29.94,W,360.0,6.214,Los Angeles
+Saturday,"April 18, 2026",12:00 am — 6:00 am,63.0,59.0,Clear,75.0,29.95,N,,0.0,Los Angeles
+Saturday,"April 18, 2026",6:00 am — 12:00 pm,77.0,61.0,Sunny,57.0,29.96,ESE,200.0,3.728,Los Angeles
+Saturday,"April 18, 2026",12:00 pm — 6:00 pm,79.0,72.0,Sunny,46.0,29.92,W,370.0,10.564,Los Angeles
+Saturday,"April 18, 2026",6:00 pm — 12:00 am,70.0,64.0,Clear,65.0,29.92,W,370.0,3.107,Los Angeles
+Sunday,"April 19, 2026",12:00 am — 6:00 am,64.0,61.0,Clear,78.0,29.89,N,,0.0,Los Angeles
+Sunday,"April 19, 2026",6:00 am — 12:00 pm,73.0,61.0,Sunny,60.0,29.91,N,90.0,1.864,Los Angeles
+Sunday,"April 19, 2026",12:00 pm — 6:00 pm,72.0,70.0,Sunny,52.0,29.9,W,350.0,11.807,Los Angeles
+Sunday,"April 19, 2026",6:00 pm — 12:00 am,66.0,61.0,Clear,75.0,29.92,W,360.0,7.457,Los Angeles
+Monday,"April 20, 2026",12:00 am — 6:00 am,61.0,57.0,Clear,83.0,29.96,W,,0.621,Los Angeles
+Monday,"April 20, 2026",6:00 am — 12:00 pm,70.0,57.0,Sunny,68.0,30.0,N,90.0,1.864,Los Angeles
+Monday,"April 20, 2026",12:00 pm — 6:00 pm,72.0,66.0,Sunny,56.0,29.98,W,370.0,12.428,Los Angeles
+Monday,"April 20, 2026",6:00 pm — 12:00 am,64.0,61.0,Clear,74.0,29.99,WNW,390.0,5.593,Los Angeles
+Tuesday,"April 21, 2026",12:00 am — 6:00 am,61.0,59.0,Passing clouds,79.0,30.01,N,,0.0,Los Angeles
+Tuesday,"April 21, 2026",6:00 am — 12:00 pm,64.0,59.0,Mostly cloudy,71.0,30.03,ESE,210.0,5.593,Los Angeles
+Tuesday,"April 21, 2026",12:00 pm — 6:00 pm,70.0,64.0,Cloudy,62.0,30.05,W,350.0,9.943,Los Angeles
+Tuesday,"April 21, 2026",6:00 pm — 12:00 am,64.0,61.0,Clear,70.0,30.08,W,370.0,8.7,Los Angeles
+Wednesday,"April 22, 2026",12:00 am — 6:00 am,61.0,55.0,Clear,76.0,30.11,N,,0.0,Los Angeles
+Wednesday,"April 22, 2026",6:00 am — 12:00 pm,64.0,57.0,Sunny,58.0,30.15,N,90.0,3.728,Los Angeles
+Wednesday,"April 22, 2026",12:00 pm — 6:00 pm,66.0,66.0,Sunny,46.0,30.09,W,350.0,14.293,Los Angeles
+Wednesday,"April 22, 2026",6:00 pm — 12:00 am,64.0,61.0,Clear,66.0,30.03,W,360.0,8.7,Los Angeles
+Thursday,"April 23, 2026",12:00 am — 6:00 am,61.0,55.0,Clear,76.0,30.0,N,,0.0,Los Angeles
+Thursday,"April 23, 2026",6:00 am — 12:00 pm,70.0,57.0,Sunny,60.0,30.01,N,90.0,3.107,Los Angeles
+Thursday,"April 23, 2026",12:00 pm — 6:00 pm,73.0,70.0,Sunny,46.0,29.93,W,370.0,11.185,Los Angeles
+Thursday,"April 23, 2026",6:00 pm — 12:00 am,66.0,63.0,Clear,65.0,29.92,W,350.0,6.214,Los Angeles
+Friday,"April 24, 2026",12:00 am — 6:00 am,63.0,59.0,Clear,78.0,29.91,ESE,,0.621,Los Angeles
+Friday,"April 24, 2026",6:00 am — 12:00 pm,70.0,61.0,Sunny,61.0,29.93,ESE,210.0,8.7,Los Angeles
+Friday,"April 24, 2026",12:00 pm — 6:00 pm,72.0,66.0,Sunny,52.0,29.87,W,350.0,9.943,Los Angeles
+Friday,"April 24, 2026",6:00 pm — 12:00 am,64.0,61.0,Clear,74.0,29.88,WSW,330.0,7.457,Los Angeles
+Saturday,"April 25, 2026",12:00 am — 6:00 am,61.0,59.0,Passing clouds,77.0,29.88,SW,320.0,1.864,Los Angeles
+Saturday,"April 25, 2026",6:00 am — 12:00 pm,64.0,59.0,Partly sunny,64.0,29.91,SW,310.0,5.593,Los Angeles
+Saturday,"April 25, 2026",12:00 pm — 6:00 pm,64.0,61.0,Mostly cloudy,61.0,29.89,W,360.0,12.428,Los Angeles
+Saturday,"April 25, 2026",6:00 pm — 12:00 am,61.0,55.0,Overcast,82.0,29.9,W,360.0,6.214,Los Angeles
+Sunday,"April 26, 2026",12:00 am — 6:00 am,57.0,55.0,Overcast,86.0,29.89,WNW,390.0,4.971,Los Angeles
+Sunday,"April 26, 2026",6:00 am — 12:00 pm,64.0,57.0,Passing clouds,62.0,29.94,W,360.0,9.321,Los Angeles
+Sunday,"April 26, 2026",12:00 pm — 6:00 pm,66.0,63.0,Sunny,50.0,29.96,W,360.0,16.778,Los Angeles
+Sunday,"April 26, 2026",6:00 pm — 12:00 am,63.0,61.0,Mostly cloudy,61.0,29.99,WSW,340.0,6.214,Los Angeles
+Monday,"April 27, 2026",12:00 am — 6:00 am,61.0,59.0,Overcast,64.0,29.98,W,360.0,6.214,Los Angeles
+Monday,"April 27, 2026",6:00 am — 12:00 pm,64.0,59.0,Sunny,56.0,30.01,W,360.0,8.7,Los Angeles
+Monday,"April 27, 2026",12:00 pm — 6:00 pm,66.0,64.0,Sunny,49.0,30.01,W,360.0,11.185,Los Angeles
+Monday,"April 27, 2026",6:00 pm — 12:00 am,63.0,61.0,Clear,62.0,30.04,WSW,340.0,5.593,Los Angeles
+Tuesday,"April 28, 2026",12:00 am — 6:00 am,59.0,55.0,Clear,72.0,30.04,N,,0.0,Los Angeles
+Tuesday,"April 28, 2026",6:00 am — 12:00 pm,70.0,55.0,Sunny,52.0,30.06,W,350.0,2.486,Los Angeles
+Tuesday,"April 28, 2026",12:00 pm — 6:00 pm,70.0,64.0,Sunny,48.0,30.02,W,360.0,14.293,Los Angeles
+Tuesday,"April 28, 2026",6:00 pm — 12:00 am,64.0,61.0,Clear,66.0,30.03,W,370.0,5.593,Los Angeles
+Wednesday,"April 29, 2026",12:00 am — 6:00 am,61.0,55.0,Clear,83.0,30.04,N,,0.0,Los Angeles
+Wednesday,"April 29, 2026",6:00 am — 12:00 pm,70.0,57.0,Sunny,61.0,30.03,ESE,210.0,2.486,Los Angeles
+Wednesday,"April 29, 2026",12:00 pm — 6:00 pm,70.0,66.0,Sunny,56.0,29.98,W,350.0,13.05,Los Angeles
+Wednesday,"April 29, 2026",6:00 pm — 12:00 am,64.0,61.0,Clear,76.0,29.98,W,360.0,4.971,Los Angeles
+Thursday,"April 30, 2026",12:00 am — 6:00 am,61.0,61.0,Passing clouds,83.0,29.94,WSW,330.0,1.864,Los Angeles
+Thursday,"April 30, 2026",6:00 am — 12:00 pm,70.0,61.0,Overcast,66.0,29.91,ESE,210.0,4.35,Los Angeles
+Thursday,"April 30, 2026",12:00 pm — 6:00 pm,70.0,66.0,Sunny,61.0,29.86,W,350.0,11.807,Los Angeles
+Thursday,"April 30, 2026",6:00 pm — 12:00 am,64.0,61.0,Clear,77.0,29.9,W,370.0,3.728,Los Angeles
+Sunday,"March 1, 2026",12:00 am — 6:00 am,63.0,61.0,Clear,78.0,29.94,N,,0.0,Los Angeles
+Sunday,"March 1, 2026",6:00 am — 12:00 pm,81.0,61.0,Sunny,54.0,29.98,SSW,300.0,1.243,Los Angeles
+Sunday,"March 1, 2026",12:00 pm — 6:00 pm,79.0,68.0,Sunny,51.0,29.94,W,360.0,9.321,Los Angeles
+Sunday,"March 1, 2026",6:00 pm — 12:00 am,66.0,63.0,Clear,70.0,29.97,WSW,330.0,6.214,Los Angeles
+Monday,"March 2, 2026",12:00 am — 6:00 am,61.0,57.0,Clear,89.0,29.96,W,360.0,2.486,Los Angeles
+Monday,"March 2, 2026",6:00 am — 12:00 pm,66.0,59.0,Sunny,77.0,30.0,WSW,330.0,3.728,Los Angeles
+Monday,"March 2, 2026",12:00 pm — 6:00 pm,66.0,63.0,Sunny,61.0,29.96,W,350.0,13.05,Los Angeles
+Monday,"March 2, 2026",6:00 pm — 12:00 am,61.0,59.0,Clear,84.0,29.97,S,260.0,4.971,Los Angeles
+Tuesday,"March 3, 2026",12:00 am — 6:00 am,57.0,55.0,Overcast,85.0,29.99,E,180.0,2.486,Los Angeles
+Tuesday,"March 3, 2026",6:00 am — 12:00 pm,66.0,57.0,Sunny,70.0,30.04,ESE,200.0,1.243,Los Angeles
+Tuesday,"March 3, 2026",12:00 pm — 6:00 pm,68.0,63.0,Sunny,62.0,30.0,W,370.0,8.078,Los Angeles
+Tuesday,"March 3, 2026",6:00 pm — 12:00 am,61.0,59.0,Clear,82.0,30.01,W,360.0,3.728,Los Angeles
+Wednesday,"March 4, 2026",12:00 am — 6:00 am,57.0,55.0,Clear,87.0,30.01,N,,0.0,Los Angeles
+Wednesday,"March 4, 2026",6:00 am — 12:00 pm,63.0,57.0,Overcast,79.0,30.04,N,90.0,2.486,Los Angeles
+Wednesday,"March 4, 2026",12:00 pm — 6:00 pm,64.0,61.0,Sunny,70.0,29.97,W,360.0,6.836,Los Angeles
+Wednesday,"March 4, 2026",6:00 pm — 12:00 am,59.0,57.0,Passing clouds,83.0,29.94,WSW,340.0,3.107,Los Angeles
+Thursday,"March 5, 2026",12:00 am — 6:00 am,57.0,54.0,Fog,86.0,29.91,SW,320.0,1.243,Los Angeles
+Thursday,"March 5, 2026",6:00 am — 12:00 pm,72.0,59.0,Sunny,29.0,29.95,NW,410.0,11.185,Los Angeles
+Thursday,"March 5, 2026",12:00 pm — 6:00 pm,79.0,68.0,Sunny,24.0,29.9,N,100.0,9.321,Los Angeles
+Thursday,"March 5, 2026",6:00 pm — 12:00 am,66.0,59.0,Clear,27.0,29.94,NNW,430.0,4.35,Los Angeles
+Friday,"March 6, 2026",12:00 am — 6:00 am,57.0,54.0,Clear,37.0,29.96,N,,0.0,Los Angeles
+Friday,"March 6, 2026",6:00 am — 12:00 pm,73.0,54.0,Sunny,24.0,30.02,E,190.0,3.107,Los Angeles
+Friday,"March 6, 2026",12:00 pm — 6:00 pm,73.0,66.0,Sunny,21.0,29.98,W,350.0,9.321,Los Angeles
+Friday,"March 6, 2026",6:00 pm — 12:00 am,64.0,59.0,Clear,52.0,30.0,N,,0.0,Los Angeles
+Saturday,"March 7, 2026",12:00 am — 6:00 am,63.0,57.0,Clear,27.0,30.01,N,90.0,1.864,Los Angeles
+Saturday,"March 7, 2026",6:00 am — 12:00 pm,75.0,66.0,Sunny,13.0,30.04,E,170.0,5.593,Los Angeles
+Saturday,"March 7, 2026",12:00 pm — 6:00 pm,79.0,75.0,Sunny,9.0,29.97,N,90.0,5.593,Los Angeles
+Saturday,"March 7, 2026",6:00 pm — 12:00 am,73.0,64.0,Clear,16.0,29.97,N,,0.621,Los Angeles
+Sunday,"March 8, 2026",12:00 am — 6:00 am,66.0,55.0,Clear,26.0,29.93,S,,0.621,Los Angeles
+Sunday,"March 8, 2026",6:00 am — 12:00 pm,84.0,55.0,Sunny,22.0,29.91,N,,0.621,Los Angeles
+Sunday,"March 8, 2026",12:00 pm — 6:00 pm,90.0,88.0,Sunny,8.0,29.79,N,90.0,3.728,Los Angeles
+Sunday,"March 8, 2026",6:00 pm — 12:00 am,84.0,63.0,Clear,44.0,29.8,SE,220.0,5.593,Los Angeles
+Monday,"March 9, 2026",12:00 am — 6:00 am,63.0,61.0,Clear,74.0,29.87,SSE,240.0,5.593,Los Angeles
+Monday,"March 9, 2026",6:00 am — 12:00 pm,68.0,59.0,Sunny,61.0,29.92,SSE,250.0,5.593,Los Angeles
+Monday,"March 9, 2026",12:00 pm — 6:00 pm,72.0,64.0,Sunny,57.0,29.88,WSW,340.0,9.943,Los Angeles
+Monday,"March 9, 2026",6:00 pm — 12:00 am,63.0,61.0,Clear,83.0,29.94,WNW,390.0,6.836,Los Angeles
+Tuesday,"March 10, 2026",12:00 am — 6:00 am,61.0,59.0,Overcast,86.0,29.98,WNW,390.0,4.971,Los Angeles
+Tuesday,"March 10, 2026",6:00 am — 12:00 pm,64.0,59.0,Overcast,71.0,30.08,SW,320.0,1.243,Los Angeles
+Tuesday,"March 10, 2026",12:00 pm — 6:00 pm,66.0,64.0,Sunny,59.0,30.11,W,350.0,7.457,Los Angeles
+Tuesday,"March 10, 2026",6:00 pm — 12:00 am,63.0,59.0,Clear,73.0,30.16,WNW,380.0,3.728,Los Angeles
+Wednesday,"March 11, 2026",12:00 am — 6:00 am,57.0,55.0,Clear,81.0,30.2,N,,0.0,Los Angeles
+Wednesday,"March 11, 2026",6:00 am — 12:00 pm,68.0,55.0,Sunny,69.0,30.25,N,90.0,1.864,Los Angeles
+Wednesday,"March 11, 2026",12:00 pm — 6:00 pm,70.0,66.0,Sunny,57.0,30.21,WNW,390.0,8.7,Los Angeles
+Wednesday,"March 11, 2026",6:00 pm — 12:00 am,63.0,61.0,Clear,80.0,30.2,WNW,390.0,3.728,Los Angeles
+Thursday,"March 12, 2026",12:00 am — 6:00 am,59.0,57.0,Clear,85.0,30.18,N,,0.0,Los Angeles
+Thursday,"March 12, 2026",6:00 am — 12:00 pm,84.0,59.0,Sunny,42.0,30.17,N,90.0,1.243,Los Angeles
+Thursday,"March 12, 2026",12:00 pm — 6:00 pm,90.0,82.0,Sunny,23.0,30.06,W,370.0,8.078,Los Angeles
+Thursday,"March 12, 2026",6:00 pm — 12:00 am,79.0,66.0,Clear,50.0,30.01,W,350.0,2.486,Los Angeles
+Friday,"March 13, 2026",12:00 am — 6:00 am,66.0,63.0,Clear,53.0,29.97,N,,0.0,Los Angeles
+Friday,"March 13, 2026",6:00 am — 12:00 pm,84.0,63.0,Sunny,33.0,29.98,ESE,,0.621,Los Angeles
+Friday,"March 13, 2026",12:00 pm — 6:00 pm,88.0,81.0,Sunny,24.0,29.91,W,370.0,6.836,Los Angeles
+Friday,"March 13, 2026",6:00 pm — 12:00 am,77.0,66.0,Clear,45.0,29.89,WNW,,0.621,Los Angeles
+Saturday,"March 14, 2026",12:00 am — 6:00 am,66.0,61.0,Clear,67.0,29.9,N,,0.0,Los Angeles
+Saturday,"March 14, 2026",6:00 am — 12:00 pm,77.0,61.0,Sunny,58.0,29.93,E,170.0,2.486,Los Angeles
+Saturday,"March 14, 2026",12:00 pm — 6:00 pm,79.0,66.0,Sunny,55.0,29.91,W,350.0,7.457,Los Angeles
+Saturday,"March 14, 2026",6:00 pm — 12:00 am,66.0,61.0,Clear,82.0,29.93,W,370.0,4.971,Los Angeles
+Sunday,"March 15, 2026",12:00 am — 6:00 am,63.0,61.0,Overcast,84.0,29.96,SE,220.0,4.35,Los Angeles
+Sunday,"March 15, 2026",6:00 am — 12:00 pm,70.0,59.0,Sunny,73.0,30.0,S,270.0,1.864,Los Angeles
+Sunday,"March 15, 2026",12:00 pm — 6:00 pm,72.0,68.0,Sunny,62.0,29.96,W,360.0,8.7,Los Angeles
+Sunday,"March 15, 2026",6:00 pm — 12:00 am,66.0,63.0,Clear,78.0,29.97,N,90.0,3.107,Los Angeles
+Monday,"March 16, 2026",12:00 am — 6:00 am,63.0,59.0,Clear,88.0,29.99,N,,0.0,Los Angeles
+Monday,"March 16, 2026",6:00 am — 12:00 pm,72.0,59.0,Sunny,79.0,29.99,WNW,390.0,3.107,Los Angeles
+Monday,"March 16, 2026",12:00 pm — 6:00 pm,79.0,70.0,Sunny,50.0,29.92,WNW,380.0,7.457,Los Angeles
+Monday,"March 16, 2026",6:00 pm — 12:00 am,66.0,64.0,Clear,78.0,29.92,W,370.0,3.728,Los Angeles
+Tuesday,"March 17, 2026",12:00 am — 6:00 am,64.0,63.0,Clear,80.0,29.91,N,,0.0,Los Angeles
+Tuesday,"March 17, 2026",6:00 am — 12:00 pm,93.0,63.0,Sunny,43.0,29.93,SSE,250.0,1.243,Los Angeles
+Tuesday,"March 17, 2026",12:00 pm — 6:00 pm,95.0,84.0,Sunny,25.0,29.89,W,350.0,9.321,Los Angeles
+Tuesday,"March 17, 2026",6:00 pm — 12:00 am,84.0,72.0,Clear,37.0,29.92,NNW,420.0,1.864,Los Angeles
+Wednesday,"March 18, 2026",12:00 am — 6:00 am,72.0,66.0,Clear,70.0,29.97,ESE,200.0,1.864,Los Angeles
+Wednesday,"March 18, 2026",6:00 am — 12:00 pm,84.0,66.0,Sunny,50.0,30.01,N,90.0,1.243,Los Angeles
+Wednesday,"March 18, 2026",12:00 pm — 6:00 pm,84.0,82.0,Sunny,33.0,29.98,WNW,380.0,8.7,Los Angeles
+Wednesday,"March 18, 2026",6:00 pm — 12:00 am,77.0,70.0,Clear,58.0,30.01,WNW,390.0,4.35,Los Angeles
+Thursday,"March 19, 2026",12:00 am — 6:00 am,70.0,64.0,Clear,81.0,30.02,ESE,200.0,3.728,Los Angeles
+Thursday,"March 19, 2026",6:00 am — 12:00 pm,84.0,64.0,Sunny,62.0,30.05,ESE,,0.621,Los Angeles
+Thursday,"March 19, 2026",12:00 pm — 6:00 pm,88.0,79.0,Sunny,42.0,29.97,WNW,380.0,7.457,Los Angeles
+Thursday,"March 19, 2026",6:00 pm — 12:00 am,75.0,70.0,Clear,61.0,29.96,NW,400.0,2.486,Los Angeles
+Friday,"March 20, 2026",12:00 am — 6:00 am,68.0,64.0,Clear,77.0,29.97,N,,0.0,Los Angeles
+Friday,"March 20, 2026",6:00 am — 12:00 pm,86.0,64.0,Sunny,57.0,29.97,N,,0.0,Los Angeles
+Friday,"March 20, 2026",12:00 pm — 6:00 pm,90.0,77.0,Sunny,41.0,29.92,W,370.0,10.564,Los Angeles
+Friday,"March 20, 2026",6:00 pm — 12:00 am,72.0,66.0,Clear,77.0,29.92,WNW,390.0,3.728,Los Angeles
+Saturday,"March 21, 2026",12:00 am — 6:00 am,66.0,63.0,Clear,84.0,29.91,N,,0.0,Los Angeles
+Saturday,"March 21, 2026",6:00 am — 12:00 pm,77.0,63.0,Sunny,72.0,29.94,W,350.0,1.243,Los Angeles
+Saturday,"March 21, 2026",12:00 pm — 6:00 pm,75.0,66.0,Sunny,68.0,29.91,W,350.0,10.564,Los Angeles
+Saturday,"March 21, 2026",6:00 pm — 12:00 am,64.0,63.0,Low clouds,88.0,29.91,WNW,390.0,6.836,Los Angeles
+Sunday,"March 22, 2026",12:00 am — 6:00 am,63.0,61.0,Low clouds,87.0,29.9,W,,0.621,Los Angeles
+Sunday,"March 22, 2026",6:00 am — 12:00 pm,70.0,61.0,Overcast,77.0,29.93,ESE,210.0,3.728,Los Angeles
+Sunday,"March 22, 2026",12:00 pm — 6:00 pm,72.0,68.0,Sunny,67.0,29.88,W,370.0,8.078,Los Angeles
+Sunday,"March 22, 2026",6:00 pm — 12:00 am,64.0,61.0,Fog,86.0,29.9,WNW,380.0,3.107,Los Angeles
+Monday,"March 23, 2026",12:00 am — 6:00 am,61.0,61.0,Fog,90.0,29.9,SSW,300.0,1.243,Los Angeles
+Monday,"March 23, 2026",6:00 am — 12:00 pm,70.0,61.0,Fog,82.0,29.95,ESE,200.0,1.243,Los Angeles
+Monday,"March 23, 2026",12:00 pm — 6:00 pm,72.0,66.0,Sunny,67.0,29.91,W,370.0,9.321,Los Angeles
+Monday,"March 23, 2026",6:00 pm — 12:00 am,64.0,63.0,Passing clouds,82.0,29.96,W,370.0,2.486,Los Angeles
+Tuesday,"March 24, 2026",12:00 am — 6:00 am,63.0,63.0,Overcast,85.0,29.96,N,90.0,2.486,Los Angeles
+Tuesday,"March 24, 2026",6:00 am — 12:00 pm,72.0,63.0,Overcast,74.0,30.0,ESE,210.0,1.243,Los Angeles
+Tuesday,"March 24, 2026",12:00 pm — 6:00 pm,72.0,66.0,Sunny,64.0,29.97,W,350.0,8.7,Los Angeles
+Tuesday,"March 24, 2026",6:00 pm — 12:00 am,64.0,63.0,Low clouds,82.0,30.0,W,370.0,4.971,Los Angeles
+Wednesday,"March 25, 2026",12:00 am — 6:00 am,63.0,63.0,Overcast,83.0,30.01,W,350.0,1.864,Los Angeles
+Wednesday,"March 25, 2026",6:00 am — 12:00 pm,70.0,64.0,Sunny,72.0,30.01,SW,320.0,4.971,Los Angeles
+Wednesday,"March 25, 2026",12:00 pm — 6:00 pm,70.0,63.0,Scattered clouds,73.0,29.95,W,350.0,11.185,Los Angeles
+Wednesday,"March 25, 2026",6:00 pm — 12:00 am,63.0,61.0,Passing clouds,85.0,29.95,N,90.0,6.214,Los Angeles
+Thursday,"March 26, 2026",12:00 am — 6:00 am,61.0,59.0,Fog,86.0,29.95,SW,310.0,1.864,Los Angeles
+Thursday,"March 26, 2026",6:00 am — 12:00 pm,75.0,61.0,Sunny,71.0,29.97,N,90.0,3.728,Los Angeles
+Thursday,"March 26, 2026",12:00 pm — 6:00 pm,72.0,70.0,Sunny,63.0,29.89,WNW,390.0,9.321,Los Angeles
+Thursday,"March 26, 2026",6:00 pm — 12:00 am,64.0,63.0,Clear,84.0,29.9,WNW,390.0,3.728,Los Angeles
+Friday,"March 27, 2026",12:00 am — 6:00 am,63.0,59.0,Fog,92.0,29.93,NNW,,0.621,Los Angeles
+Friday,"March 27, 2026",6:00 am — 12:00 pm,72.0,61.0,Fog,83.0,29.97,ESE,,0.621,Los Angeles
+Friday,"March 27, 2026",12:00 pm — 6:00 pm,75.0,66.0,Sunny,63.0,29.93,W,360.0,8.7,Los Angeles
+Friday,"March 27, 2026",6:00 pm — 12:00 am,64.0,61.0,Passing clouds,81.0,29.97,W,360.0,5.593,Los Angeles
+Saturday,"March 28, 2026",12:00 am — 6:00 am,61.0,57.0,Fog,87.0,29.98,N,,0.0,Los Angeles
+Saturday,"March 28, 2026",6:00 am — 12:00 pm,70.0,59.0,Sunny,77.0,30.01,W,350.0,2.486,Los Angeles
+Saturday,"March 28, 2026",12:00 pm — 6:00 pm,70.0,66.0,Sunny,66.0,29.95,WNW,380.0,8.078,Los Angeles
+Saturday,"March 28, 2026",6:00 pm — 12:00 am,64.0,61.0,Passing clouds,87.0,29.95,W,360.0,4.35,Los Angeles
+Sunday,"March 29, 2026",12:00 am — 6:00 am,61.0,57.0,Clear,90.0,29.9,N,,0.0,Los Angeles
+Sunday,"March 29, 2026",6:00 am — 12:00 pm,72.0,57.0,Fog,84.0,29.92,N,90.0,3.728,Los Angeles
+Sunday,"March 29, 2026",12:00 pm — 6:00 pm,75.0,70.0,Sunny,53.0,29.92,W,360.0,8.078,Los Angeles
+Sunday,"March 29, 2026",6:00 pm — 12:00 am,66.0,59.0,Fog,86.0,29.94,WNW,380.0,4.35,Los Angeles
+Monday,"March 30, 2026",12:00 am — 6:00 am,59.0,57.0,Fog,95.0,29.94,NW,,0.621,Los Angeles
+Monday,"March 30, 2026",6:00 am — 12:00 pm,70.0,57.0,Fog,82.0,30.0,SSE,250.0,4.971,Los Angeles
+Monday,"March 30, 2026",12:00 pm — 6:00 pm,73.0,66.0,Sunny,61.0,29.99,SE,230.0,4.971,Los Angeles
+Monday,"March 30, 2026",6:00 pm — 12:00 am,66.0,64.0,Passing clouds,76.0,29.98,W,350.0,4.35,Los Angeles
+Tuesday,"March 31, 2026",12:00 am — 6:00 am,66.0,64.0,Overcast,75.0,29.94,SE,230.0,4.971,Los Angeles
+Tuesday,"March 31, 2026",6:00 am — 12:00 pm,70.0,66.0,Mostly cloudy,73.0,29.97,ESE,200.0,5.593,Los Angeles
+Tuesday,"March 31, 2026",12:00 pm — 6:00 pm,70.0,66.0,Mostly cloudy,69.0,29.95,SSE,240.0,6.836,Los Angeles
+Tuesday,"March 31, 2026",6:00 pm — 12:00 am,66.0,64.0,Light rain. Overcast,80.0,29.93,WSW,330.0,4.35,Los Angeles
+Sunday,"February 1, 2026",12:00 am — 6:00 am,64.0,57.0,Clear,41.0,30.04,N,,0.0,Los Angeles
+Sunday,"February 1, 2026",6:00 am — 12:00 pm,81.0,57.0,Sunny,31.0,30.06,N,90.0,2.486,Los Angeles
+Sunday,"February 1, 2026",12:00 pm — 6:00 pm,79.0,70.0,Sunny,31.0,29.98,WNW,380.0,8.078,Los Angeles
+Sunday,"February 1, 2026",6:00 pm — 12:00 am,66.0,61.0,Clear,63.0,30.03,ESE,200.0,4.35,Los Angeles
+Monday,"February 2, 2026",12:00 am — 6:00 am,59.0,57.0,Clear,74.0,30.05,E,190.0,1.243,Los Angeles
+Monday,"February 2, 2026",6:00 am — 12:00 pm,70.0,57.0,Sunny,51.0,30.1,SSE,240.0,3.728,Los Angeles
+Monday,"February 2, 2026",12:00 pm — 6:00 pm,75.0,63.0,Sunny,56.0,30.07,NW,400.0,5.593,Los Angeles
+Monday,"February 2, 2026",6:00 pm — 12:00 am,63.0,57.0,Clear,87.0,30.15,W,370.0,1.243,Los Angeles
+Tuesday,"February 3, 2026",12:00 am — 6:00 am,57.0,54.0,Fog,91.0,30.18,N,,0.0,Los Angeles
+Tuesday,"February 3, 2026",6:00 am — 12:00 pm,79.0,54.0,Sunny,61.0,30.2,N,,0.621,Los Angeles
+Tuesday,"February 3, 2026",12:00 pm — 6:00 pm,81.0,64.0,Sunny,51.0,30.14,W,360.0,6.836,Los Angeles
+Tuesday,"February 3, 2026",6:00 pm — 12:00 am,63.0,57.0,Clear,85.0,30.16,W,,0.621,Los Angeles
+Wednesday,"February 4, 2026",12:00 am — 6:00 am,57.0,54.0,Clear,63.0,30.14,N,,0.0,Los Angeles
+Wednesday,"February 4, 2026",6:00 am — 12:00 pm,84.0,54.0,Sunny,32.0,30.14,N,,0.0,Los Angeles
+Wednesday,"February 4, 2026",12:00 pm — 6:00 pm,88.0,79.0,Sunny,14.0,30.04,W,360.0,5.593,Los Angeles
+Wednesday,"February 4, 2026",6:00 pm — 12:00 am,75.0,64.0,Clear,31.0,30.07,N,,0.0,Los Angeles
+Thursday,"February 5, 2026",12:00 am — 6:00 am,66.0,61.0,Clear,28.0,30.03,N,,0.621,Los Angeles
+Thursday,"February 5, 2026",6:00 am — 12:00 pm,81.0,63.0,Sunny,20.0,30.05,N,90.0,3.728,Los Angeles
+Thursday,"February 5, 2026",12:00 pm — 6:00 pm,82.0,72.0,Sunny,21.0,30.0,W,360.0,5.593,Los Angeles
+Thursday,"February 5, 2026",6:00 pm — 12:00 am,68.0,63.0,Passing clouds,82.0,30.08,ESE,200.0,5.593,Los Angeles
+Friday,"February 6, 2026",12:00 am — 6:00 am,63.0,61.0,Passing clouds,84.0,30.1,SE,230.0,4.35,Los Angeles
+Friday,"February 6, 2026",6:00 am — 12:00 pm,68.0,61.0,Sunny,72.0,30.15,N,90.0,3.728,Los Angeles
+Friday,"February 6, 2026",12:00 pm — 6:00 pm,68.0,64.0,Sunny,60.0,30.09,W,360.0,4.971,Los Angeles
+Friday,"February 6, 2026",6:00 pm — 12:00 am,63.0,61.0,Clear,78.0,30.15,W,350.0,3.107,Los Angeles
+Saturday,"February 7, 2026",12:00 am — 6:00 am,59.0,55.0,Clear,86.0,30.15,E,,0.621,Los Angeles
+Saturday,"February 7, 2026",6:00 am — 12:00 pm,70.0,55.0,Sunny,72.0,30.19,W,,0.621,Los Angeles
+Saturday,"February 7, 2026",12:00 pm — 6:00 pm,72.0,64.0,Sunny,64.0,30.12,W,360.0,7.457,Los Angeles
+Saturday,"February 7, 2026",6:00 pm — 12:00 am,64.0,61.0,Clear,77.0,30.15,W,350.0,1.243,Los Angeles
+Sunday,"February 8, 2026",12:00 am — 6:00 am,57.0,55.0,Clear,76.0,30.15,N,,0.0,Los Angeles
+Sunday,"February 8, 2026",6:00 am — 12:00 pm,81.0,54.0,Sunny,38.0,30.21,E,170.0,1.243,Los Angeles
+Sunday,"February 8, 2026",12:00 pm — 6:00 pm,82.0,70.0,Sunny,30.0,30.13,W,360.0,6.214,Los Angeles
+Sunday,"February 8, 2026",6:00 pm — 12:00 am,68.0,61.0,Clear,62.0,30.12,W,,0.621,Los Angeles
+Monday,"February 9, 2026",12:00 am — 6:00 am,59.0,55.0,Clear,68.0,30.06,N,,0.0,Los Angeles
+Monday,"February 9, 2026",6:00 am — 12:00 pm,73.0,55.0,Sunny,45.0,30.04,ESE,210.0,1.864,Los Angeles
+Monday,"February 9, 2026",12:00 pm — 6:00 pm,75.0,64.0,Sunny,56.0,29.93,W,360.0,6.836,Los Angeles
+Monday,"February 9, 2026",6:00 pm — 12:00 am,64.0,61.0,Clear,82.0,29.93,W,370.0,1.864,Los Angeles
+Tuesday,"February 10, 2026",12:00 am — 6:00 am,61.0,61.0,Passing clouds,85.0,29.91,ESE,210.0,4.35,Los Angeles
+Tuesday,"February 10, 2026",6:00 am — 12:00 pm,64.0,61.0,Partly sunny,79.0,29.94,E,190.0,5.593,Los Angeles
+Tuesday,"February 10, 2026",12:00 pm — 6:00 pm,64.0,63.0,Scattered clouds,71.0,29.95,SSE,240.0,11.185,Los Angeles
+Tuesday,"February 10, 2026",6:00 pm — 12:00 am,63.0,61.0,Overcast,79.0,29.96,SSE,240.0,14.293,Los Angeles
+Wednesday,"February 11, 2026",12:00 am — 6:00 am,61.0,57.0,Light rain. Mostly cloudy,89.0,29.99,W,350.0,5.593,Los Angeles
+Wednesday,"February 11, 2026",6:00 am — 12:00 pm,63.0,57.0,Partly sunny,83.0,30.1,ESE,200.0,3.107,Los Angeles
+Wednesday,"February 11, 2026",12:00 pm — 6:00 pm,64.0,61.0,Sunny,59.0,30.11,W,370.0,8.7,Los Angeles
+Wednesday,"February 11, 2026",6:00 pm — 12:00 am,61.0,54.0,Clear,72.0,30.15,WNW,380.0,1.243,Los Angeles
+Thursday,"February 12, 2026",12:00 am — 6:00 am,54.0,52.0,Clear,80.0,30.16,N,,0.0,Los Angeles
+Thursday,"February 12, 2026",6:00 am — 12:00 pm,66.0,52.0,Sunny,63.0,30.16,W,360.0,4.35,Los Angeles
+Thursday,"February 12, 2026",12:00 pm — 6:00 pm,64.0,61.0,Sunny,55.0,30.08,WNW,380.0,9.321,Los Angeles
+Thursday,"February 12, 2026",6:00 pm — 12:00 am,61.0,55.0,Clear,67.0,30.04,WNW,390.0,1.864,Los Angeles
+Friday,"February 13, 2026",12:00 am — 6:00 am,55.0,50.0,Clear,78.0,29.98,N,,0.0,Los Angeles
+Friday,"February 13, 2026",6:00 am — 12:00 pm,68.0,52.0,Sunny,60.0,30.01,N,90.0,1.864,Los Angeles
+Friday,"February 13, 2026",12:00 pm — 6:00 pm,70.0,63.0,Sunny,48.0,29.99,W,360.0,8.078,Los Angeles
+Friday,"February 13, 2026",6:00 pm — 12:00 am,63.0,57.0,Clear,72.0,30.06,E,180.0,1.243,Los Angeles
+Saturday,"February 14, 2026",12:00 am — 6:00 am,57.0,54.0,Passing clouds,83.0,30.08,E,170.0,2.486,Los Angeles
+Saturday,"February 14, 2026",6:00 am — 12:00 pm,66.0,54.0,Sunny,67.0,30.14,N,90.0,4.35,Los Angeles
+Saturday,"February 14, 2026",12:00 pm — 6:00 pm,66.0,61.0,Sunny,67.0,30.06,W,360.0,8.078,Los Angeles
+Saturday,"February 14, 2026",6:00 pm — 12:00 am,61.0,57.0,Clear,76.0,30.07,W,360.0,1.243,Los Angeles
+Sunday,"February 15, 2026",12:00 am — 6:00 am,57.0,54.0,Clear,82.0,30.04,N,,0.0,Los Angeles
+Sunday,"February 15, 2026",6:00 am — 12:00 pm,63.0,54.0,Sunny,69.0,30.03,E,190.0,1.864,Los Angeles
+Sunday,"February 15, 2026",12:00 pm — 6:00 pm,63.0,61.0,Passing clouds,54.0,29.95,W,360.0,6.836,Los Angeles
+Sunday,"February 15, 2026",6:00 pm — 12:00 am,61.0,57.0,Passing clouds,67.0,29.94,W,370.0,3.107,Los Angeles
+Monday,"February 16, 2026",12:00 am — 6:00 am,57.0,57.0,Overcast,72.0,29.86,ESE,200.0,9.321,Los Angeles
+Monday,"February 16, 2026",6:00 am — 12:00 pm,57.0,55.0,Light rain. Fog,86.0,29.8,ESE,210.0,14.293,Los Angeles
+Monday,"February 16, 2026",12:00 pm — 6:00 pm,57.0,54.0,Broken clouds,86.0,29.77,SE,230.0,7.457,Los Angeles
+Monday,"February 16, 2026",6:00 pm — 12:00 am,57.0,48.0,Partly cloudy,79.0,29.9,WNW,380.0,3.107,Los Angeles
+Tuesday,"February 17, 2026",12:00 am — 6:00 am,52.0,50.0,Mostly cloudy,89.0,29.97,SSE,250.0,2.486,Los Angeles
+Tuesday,"February 17, 2026",6:00 am — 12:00 pm,57.0,50.0,Mostly cloudy,83.0,30.08,SE,230.0,4.971,Los Angeles
+Tuesday,"February 17, 2026",12:00 pm — 6:00 pm,61.0,57.0,Passing clouds,55.0,30.04,W,350.0,12.428,Los Angeles
+Tuesday,"February 17, 2026",6:00 pm — 12:00 am,57.0,55.0,Overcast,74.0,29.97,SSW,300.0,14.914,Los Angeles
+Wednesday,"February 18, 2026",12:00 am — 6:00 am,57.0,52.0,Light rain. Mostly cloudy,73.0,29.89,WNW,380.0,16.157,Los Angeles
+Wednesday,"February 18, 2026",6:00 am — 12:00 pm,59.0,52.0,Sunny,47.0,30.02,WNW,380.0,14.293,Los Angeles
+Wednesday,"February 18, 2026",12:00 pm — 6:00 pm,59.0,55.0,Sunny,45.0,30.0,W,360.0,17.4,Los Angeles
+Wednesday,"February 18, 2026",6:00 pm — 12:00 am,55.0,54.0,Clear,56.0,30.01,WNW,380.0,4.35,Los Angeles
+Thursday,"February 19, 2026",12:00 am — 6:00 am,52.0,48.0,Clear,66.0,30.01,NNW,430.0,1.243,Los Angeles
+Thursday,"February 19, 2026",6:00 am — 12:00 pm,54.0,48.0,Light rain. Fog,83.0,29.97,SE,220.0,7.457,Los Angeles
+Thursday,"February 19, 2026",12:00 pm — 6:00 pm,57.0,54.0,Light rain. Fog,75.0,29.86,W,370.0,14.914,Los Angeles
+Thursday,"February 19, 2026",6:00 pm — 12:00 am,55.0,48.0,Clear,58.0,29.89,WNW,380.0,6.836,Los Angeles
+Friday,"February 20, 2026",12:00 am — 6:00 am,46.0,43.0,Clear,71.0,29.97,E,,0.621,Los Angeles
+Friday,"February 20, 2026",6:00 am — 12:00 pm,57.0,43.0,Sunny,55.0,30.04,N,,0.621,Los Angeles
+Friday,"February 20, 2026",12:00 pm — 6:00 pm,59.0,55.0,Sunny,37.0,30.03,W,370.0,6.214,Los Angeles
+Friday,"February 20, 2026",6:00 pm — 12:00 am,54.0,48.0,Clear,56.0,30.1,WNW,,0.621,Los Angeles
+Saturday,"February 21, 2026",12:00 am — 6:00 am,48.0,45.0,Clear,70.0,30.12,N,,0.0,Los Angeles
+Saturday,"February 21, 2026",6:00 am — 12:00 pm,66.0,46.0,Sunny,41.0,30.16,N,90.0,3.107,Los Angeles
+Saturday,"February 21, 2026",12:00 pm — 6:00 pm,70.0,61.0,Refreshingly cool,33.0,30.13,W,370.0,8.078,Los Angeles
+Saturday,"February 21, 2026",6:00 pm — 12:00 am,59.0,55.0,Cool,68.0,30.19,WNW,380.0,1.864,Los Angeles
+Sunday,"February 22, 2026",12:00 am — 6:00 am,55.0,50.0,Cool,61.0,30.18,N,,0.0,Los Angeles
+Sunday,"February 22, 2026",6:00 am — 12:00 pm,73.0,50.0,Mild,35.0,30.22,N,90.0,1.864,Los Angeles
+Sunday,"February 22, 2026",12:00 pm — 6:00 pm,70.0,63.0,Mild,38.0,30.17,W,370.0,9.321,Los Angeles
+Sunday,"February 22, 2026",6:00 pm — 12:00 am,63.0,55.0,Cool,68.0,30.18,WNW,380.0,1.243,Los Angeles
+Monday,"February 23, 2026",12:00 am — 6:00 am,55.0,54.0,Cool,64.0,30.16,N,,0.0,Los Angeles
+Monday,"February 23, 2026",6:00 am — 12:00 pm,77.0,55.0,Sunny,32.0,30.16,N,90.0,1.864,Los Angeles
+Monday,"February 23, 2026",12:00 pm — 6:00 pm,75.0,66.0,Sunny,36.0,30.1,WNW,390.0,8.078,Los Angeles
+Monday,"February 23, 2026",6:00 pm — 12:00 am,64.0,59.0,Clear,65.0,30.09,W,350.0,1.864,Los Angeles
+Tuesday,"February 24, 2026",12:00 am — 6:00 am,57.0,55.0,Clear,76.0,30.06,N,,0.0,Los Angeles
+Tuesday,"February 24, 2026",6:00 am — 12:00 pm,75.0,57.0,Sunny,44.0,30.06,S,270.0,1.243,Los Angeles
+Tuesday,"February 24, 2026",12:00 pm — 6:00 pm,79.0,66.0,Sunny,48.0,30.0,W,350.0,8.078,Los Angeles
+Tuesday,"February 24, 2026",6:00 pm — 12:00 am,64.0,59.0,Clear,79.0,30.03,WSW,330.0,1.864,Los Angeles
+Wednesday,"February 25, 2026",12:00 am — 6:00 am,57.0,55.0,Clear,88.0,30.02,N,,0.0,Los Angeles
+Wednesday,"February 25, 2026",6:00 am — 12:00 pm,72.0,55.0,Sunny,61.0,30.05,SE,220.0,1.864,Los Angeles
+Wednesday,"February 25, 2026",12:00 pm — 6:00 pm,72.0,64.0,Sunny,62.0,30.0,W,350.0,8.7,Los Angeles
+Wednesday,"February 25, 2026",6:00 pm — 12:00 am,64.0,61.0,Clear,82.0,30.05,WNW,390.0,3.107,Los Angeles
+Thursday,"February 26, 2026",12:00 am — 6:00 am,59.0,57.0,Clear,90.0,30.05,N,,0.0,Los Angeles
+Thursday,"February 26, 2026",6:00 am — 12:00 pm,77.0,57.0,Sunny,68.0,30.07,W,370.0,1.243,Los Angeles
+Thursday,"February 26, 2026",12:00 pm — 6:00 pm,75.0,70.0,Sunny,56.0,29.97,W,370.0,8.078,Los Angeles
+Thursday,"February 26, 2026",6:00 pm — 12:00 am,66.0,64.0,Clear,74.0,29.98,N,,0.0,Los Angeles
+Friday,"February 27, 2026",12:00 am — 6:00 am,63.0,61.0,Clear,80.0,29.97,N,,0.0,Los Angeles
+Friday,"February 27, 2026",6:00 am — 12:00 pm,86.0,64.0,Sunny,42.0,29.98,W,370.0,1.243,Los Angeles
+Friday,"February 27, 2026",12:00 pm — 6:00 pm,88.0,73.0,Sunny,34.0,29.91,W,350.0,6.214,Los Angeles
+Friday,"February 27, 2026",6:00 pm — 12:00 am,73.0,68.0,Clear,55.0,29.89,W,360.0,1.243,Los Angeles
+Saturday,"February 28, 2026",12:00 am — 6:00 am,66.0,63.0,Clear,70.0,29.88,E,,0.621,Los Angeles
+Saturday,"February 28, 2026",6:00 am — 12:00 pm,79.0,63.0,Sunny,51.0,29.92,ESE,210.0,3.107,Los Angeles
+Saturday,"February 28, 2026",12:00 pm — 6:00 pm,82.0,72.0,Sunny,43.0,29.89,W,370.0,7.457,Los Angeles
+Saturday,"February 28, 2026",6:00 pm — 12:00 am,68.0,64.0,Clear,67.0,29.92,WNW,,0.621,Los Angeles
+Thursday,"January 1, 2026",12:00 am — 6:00 am,59.0,57.0,Light rain. Fog,95.0,29.99,E,190.0,5.593,Los Angeles
+Thursday,"January 1, 2026",6:00 am — 12:00 pm,64.0,59.0,Broken clouds,90.0,30.03,W,350.0,7.457,Los Angeles
+Thursday,"January 1, 2026",12:00 pm — 6:00 pm,66.0,63.0,Partly sunny,75.0,30.06,W,370.0,3.728,Los Angeles
+Thursday,"January 1, 2026",6:00 pm — 12:00 am,61.0,55.0,Clear,91.0,30.09,N,,0.0,Los Angeles
+Friday,"January 2, 2026",12:00 am — 6:00 am,57.0,55.0,Passing clouds,92.0,30.07,N,,0.0,Los Angeles
+Friday,"January 2, 2026",6:00 am — 12:00 pm,64.0,57.0,Overcast,79.0,30.08,NE,130.0,3.107,Los Angeles
+Friday,"January 2, 2026",12:00 pm — 6:00 pm,64.0,63.0,Light rain. Fog,91.0,30.03,N,90.0,6.836,Los Angeles
+Friday,"January 2, 2026",6:00 pm — 12:00 am,63.0,61.0,Overcast,92.0,30.06,SSE,240.0,1.864,Los Angeles
+Saturday,"January 3, 2026",12:00 am — 6:00 am,59.0,57.0,Fog,96.0,30.04,E,,0.621,Los Angeles
+Saturday,"January 3, 2026",6:00 am — 12:00 pm,64.0,57.0,Overcast,90.0,30.05,ESE,200.0,5.593,Los Angeles
+Saturday,"January 3, 2026",12:00 pm — 6:00 pm,63.0,57.0,Light rain. Fog,88.0,29.98,ESE,210.0,9.321,Los Angeles
+Saturday,"January 3, 2026",6:00 pm — 12:00 am,59.0,59.0,Low clouds,93.0,30.0,ESE,210.0,5.593,Los Angeles
+Sunday,"January 4, 2026",12:00 am — 6:00 am,59.0,57.0,Overcast,91.0,30.02,SE,220.0,1.864,Los Angeles
+Sunday,"January 4, 2026",6:00 am — 12:00 pm,61.0,57.0,Mostly cloudy,90.0,30.05,SSE,250.0,4.35,Los Angeles
+Sunday,"January 4, 2026",12:00 pm — 6:00 pm,63.0,61.0,Cloudy,78.0,29.99,SSE,250.0,4.35,Los Angeles
+Sunday,"January 4, 2026",6:00 pm — 12:00 am,59.0,57.0,Mostly cloudy,88.0,30.01,N,90.0,1.243,Los Angeles
+Monday,"January 5, 2026",12:00 am — 6:00 am,57.0,55.0,Fog,94.0,30.02,ESE,,0.621,Los Angeles
+Monday,"January 5, 2026",6:00 am — 12:00 pm,63.0,55.0,Partly sunny,87.0,30.08,ESE,210.0,1.864,Los Angeles
+Monday,"January 5, 2026",12:00 pm — 6:00 pm,64.0,61.0,Sunny,68.0,30.05,SW,320.0,3.728,Los Angeles
+Monday,"January 5, 2026",6:00 pm — 12:00 am,59.0,57.0,Passing clouds,84.0,30.09,NE,,0.621,Los Angeles
+Tuesday,"January 6, 2026",12:00 am — 6:00 am,57.0,54.0,Overcast,88.0,30.08,E,170.0,1.243,Los Angeles
+Tuesday,"January 6, 2026",6:00 am — 12:00 pm,63.0,55.0,Sunny,78.0,30.08,N,,0.621,Los Angeles
+Tuesday,"January 6, 2026",12:00 pm — 6:00 pm,66.0,61.0,Partly sunny,59.0,30.0,WSW,340.0,3.728,Los Angeles
+Tuesday,"January 6, 2026",6:00 pm — 12:00 am,61.0,57.0,Clear,79.0,30.0,N,,0.0,Los Angeles
+Wednesday,"January 7, 2026",12:00 am — 6:00 am,55.0,54.0,Passing clouds,83.0,29.96,ESE,,0.621,Los Angeles
+Wednesday,"January 7, 2026",6:00 am — 12:00 pm,66.0,54.0,Sunny,64.0,29.95,W,360.0,3.107,Los Angeles
+Wednesday,"January 7, 2026",12:00 pm — 6:00 pm,66.0,61.0,Sunny,60.0,29.9,W,360.0,10.564,Los Angeles
+Wednesday,"January 7, 2026",6:00 pm — 12:00 am,63.0,59.0,Clear,43.0,29.96,N,440.0,4.35,Los Angeles
+Thursday,"January 8, 2026",12:00 am — 6:00 am,55.0,50.0,Clear,81.0,30.02,WSW,340.0,1.243,Los Angeles
+Thursday,"January 8, 2026",6:00 am — 12:00 pm,63.0,50.0,Sunny,53.0,30.05,N,100.0,3.728,Los Angeles
+Thursday,"January 8, 2026",12:00 pm — 6:00 pm,63.0,57.0,Sunny,30.0,30.03,NW,410.0,8.7,Los Angeles
+Thursday,"January 8, 2026",6:00 pm — 12:00 am,57.0,52.0,Clear,33.0,30.14,NNW,430.0,3.728,Los Angeles
+Friday,"January 9, 2026",12:00 am — 6:00 am,48.0,45.0,Clear,56.0,30.24,N,,0.0,Los Angeles
+Friday,"January 9, 2026",6:00 am — 12:00 pm,63.0,45.0,Sunny,36.0,30.32,N,90.0,2.486,Los Angeles
+Friday,"January 9, 2026",12:00 pm — 6:00 pm,64.0,59.0,Sunny,24.0,30.31,W,360.0,3.728,Los Angeles
+Friday,"January 9, 2026",6:00 pm — 12:00 am,57.0,50.0,Clear,56.0,30.38,ESE,,0.621,Los Angeles
+Saturday,"January 10, 2026",12:00 am — 6:00 am,48.0,45.0,Clear,62.0,30.4,N,,0.0,Los Angeles
+Saturday,"January 10, 2026",6:00 am — 12:00 pm,66.0,43.0,Sunny,40.0,30.4,W,,0.621,Los Angeles
+Saturday,"January 10, 2026",12:00 pm — 6:00 pm,72.0,64.0,Sunny,18.0,30.28,WSW,340.0,1.864,Los Angeles
+Saturday,"January 10, 2026",6:00 pm — 12:00 am,63.0,54.0,Clear,41.0,30.28,WNW,,0.621,Los Angeles
+Sunday,"January 11, 2026",12:00 am — 6:00 am,52.0,48.0,Clear,42.0,30.24,N,,0.0,Los Angeles
+Sunday,"January 11, 2026",6:00 am — 12:00 pm,73.0,50.0,Sunny,24.0,30.23,NNE,120.0,1.243,Los Angeles
+Sunday,"January 11, 2026",12:00 pm — 6:00 pm,77.0,64.0,Sunny,25.0,30.16,WNW,390.0,3.107,Los Angeles
+Sunday,"January 11, 2026",6:00 pm — 12:00 am,63.0,54.0,Clear,39.0,30.19,N,440.0,1.243,Los Angeles
+Monday,"January 12, 2026",12:00 am — 6:00 am,54.0,46.0,Clear,52.0,30.2,NNW,,0.621,Los Angeles
+Monday,"January 12, 2026",6:00 am — 12:00 pm,72.0,46.0,Sunny,38.0,30.22,S,280.0,1.243,Los Angeles
+Monday,"January 12, 2026",12:00 pm — 6:00 pm,75.0,64.0,Sunny,20.0,30.13,W,370.0,4.35,Los Angeles
+Monday,"January 12, 2026",6:00 pm — 12:00 am,63.0,54.0,Clear,45.0,30.17,N,,0.0,Los Angeles
+Tuesday,"January 13, 2026",12:00 am — 6:00 am,54.0,48.0,Clear,57.0,30.17,N,,0.0,Los Angeles
+Tuesday,"January 13, 2026",6:00 am — 12:00 pm,79.0,48.0,Sunny,34.0,30.19,NNW,420.0,1.243,Los Angeles
+Tuesday,"January 13, 2026",12:00 pm — 6:00 pm,82.0,68.0,Sunny,23.0,30.13,W,370.0,4.971,Los Angeles
+Tuesday,"January 13, 2026",6:00 pm — 12:00 am,64.0,57.0,Clear,62.0,30.15,NNE,,0.621,Los Angeles
+Wednesday,"January 14, 2026",12:00 am — 6:00 am,55.0,52.0,Clear,67.0,30.14,N,,0.0,Los Angeles
+Wednesday,"January 14, 2026",6:00 am — 12:00 pm,79.0,52.0,Sunny,42.0,30.13,SSE,250.0,1.243,Los Angeles
+Wednesday,"January 14, 2026",12:00 pm — 6:00 pm,82.0,70.0,Sunny,32.0,30.04,W,360.0,3.728,Los Angeles
+Wednesday,"January 14, 2026",6:00 pm — 12:00 am,66.0,61.0,Clear,54.0,30.07,N,,0.0,Los Angeles
+Thursday,"January 15, 2026",12:00 am — 6:00 am,57.0,55.0,Clear,60.0,30.03,W,,0.621,Los Angeles
+Thursday,"January 15, 2026",6:00 am — 12:00 pm,82.0,55.0,Sunny,30.0,30.04,N,90.0,1.243,Los Angeles
+Thursday,"January 15, 2026",12:00 pm — 6:00 pm,84.0,72.0,Sunny,23.0,29.95,W,370.0,3.728,Los Angeles
+Thursday,"January 15, 2026",6:00 pm — 12:00 am,70.0,61.0,Clear,49.0,29.97,WNW,,0.621,Los Angeles
+Friday,"January 16, 2026",12:00 am — 6:00 am,59.0,54.0,Clear,62.0,29.97,N,,0.0,Los Angeles
+Friday,"January 16, 2026",6:00 am — 12:00 pm,77.0,54.0,Sunny,43.0,30.01,N,,0.0,Los Angeles
+Friday,"January 16, 2026",12:00 pm — 6:00 pm,82.0,66.0,Sunny,30.0,29.94,WNW,390.0,4.35,Los Angeles
+Friday,"January 16, 2026",6:00 pm — 12:00 am,64.0,57.0,Clear,62.0,29.99,N,,0.0,Los Angeles
+Saturday,"January 17, 2026",12:00 am — 6:00 am,57.0,52.0,Clear,62.0,30.02,W,,0.621,Los Angeles
+Saturday,"January 17, 2026",6:00 am — 12:00 pm,77.0,55.0,Sunny,33.0,30.07,NNW,430.0,1.243,Los Angeles
+Saturday,"January 17, 2026",12:00 pm — 6:00 pm,79.0,70.0,Sunny,28.0,30.04,W,370.0,3.728,Los Angeles
+Saturday,"January 17, 2026",6:00 pm — 12:00 am,66.0,61.0,Clear,48.0,30.1,N,,0.0,Los Angeles
+Sunday,"January 18, 2026",12:00 am — 6:00 am,63.0,59.0,Clear,31.0,30.1,NNE,,0.621,Los Angeles
+Sunday,"January 18, 2026",6:00 am — 12:00 pm,79.0,57.0,Sunny,25.0,30.11,N,90.0,1.243,Los Angeles
+Sunday,"January 18, 2026",12:00 pm — 6:00 pm,79.0,66.0,Sunny,30.0,30.03,NW,400.0,4.971,Los Angeles
+Sunday,"January 18, 2026",6:00 pm — 12:00 am,64.0,57.0,Clear,58.0,30.03,WNW,,0.621,Los Angeles
+Monday,"January 19, 2026",12:00 am — 6:00 am,57.0,52.0,Clear,61.0,30.02,N,,0.0,Los Angeles
+Monday,"January 19, 2026",6:00 am — 12:00 pm,72.0,54.0,Sunny,47.0,30.03,SE,220.0,1.243,Los Angeles
+Monday,"January 19, 2026",12:00 pm — 6:00 pm,73.0,64.0,Sunny,51.0,29.97,WNW,380.0,4.971,Los Angeles
+Monday,"January 19, 2026",6:00 pm — 12:00 am,63.0,57.0,Clear,82.0,30.04,N,,0.0,Los Angeles
+Tuesday,"January 20, 2026",12:00 am — 6:00 am,57.0,54.0,Clear,73.0,30.03,N,,0.0,Los Angeles
+Tuesday,"January 20, 2026",6:00 am — 12:00 pm,73.0,54.0,Sunny,48.0,30.09,WSW,340.0,1.243,Los Angeles
+Tuesday,"January 20, 2026",12:00 pm — 6:00 pm,75.0,59.0,Sunny,69.0,30.04,WNW,390.0,6.214,Los Angeles
+Tuesday,"January 20, 2026",6:00 pm — 12:00 am,59.0,55.0,Fog,89.0,30.07,SE,230.0,1.864,Los Angeles
+Wednesday,"January 21, 2026",12:00 am — 6:00 am,59.0,57.0,Low clouds,87.0,30.08,SSW,,0.621,Los Angeles
+Wednesday,"January 21, 2026",6:00 am — 12:00 pm,63.0,57.0,Low clouds,79.0,30.1,N,90.0,1.243,Los Angeles
+Wednesday,"January 21, 2026",12:00 pm — 6:00 pm,64.0,61.0,Sunny,75.0,30.04,W,360.0,6.836,Los Angeles
+Wednesday,"January 21, 2026",6:00 pm — 12:00 am,61.0,59.0,Clear,84.0,30.04,W,350.0,2.486,Los Angeles
+Thursday,"January 22, 2026",12:00 am — 6:00 am,59.0,57.0,Fog,88.0,30.0,SSW,,0.621,Los Angeles
+Thursday,"January 22, 2026",6:00 am — 12:00 pm,63.0,57.0,Passing clouds,83.0,30.01,WNW,380.0,4.35,Los Angeles
+Thursday,"January 22, 2026",12:00 pm — 6:00 pm,63.0,61.0,Partly sunny,71.0,29.96,W,360.0,6.836,Los Angeles
+Thursday,"January 22, 2026",6:00 pm — 12:00 am,61.0,57.0,Overcast,84.0,29.96,WNW,390.0,2.486,Los Angeles
+Friday,"January 23, 2026",12:00 am — 6:00 am,57.0,55.0,Fog,91.0,29.93,ESE,200.0,1.243,Los Angeles
+Friday,"January 23, 2026",6:00 am — 12:00 pm,64.0,55.0,Fog,82.0,29.94,W,360.0,2.486,Los Angeles
+Friday,"January 23, 2026",12:00 pm — 6:00 pm,64.0,61.0,Sunny,66.0,29.88,WSW,340.0,8.7,Los Angeles
+Friday,"January 23, 2026",6:00 pm — 12:00 am,61.0,57.0,Passing clouds,78.0,29.9,W,370.0,3.107,Los Angeles
+Saturday,"January 24, 2026",12:00 am — 6:00 am,59.0,57.0,Mostly cloudy,76.0,29.88,W,370.0,3.728,Los Angeles
+Saturday,"January 24, 2026",6:00 am — 12:00 pm,63.0,57.0,Broken clouds,72.0,29.91,SW,320.0,2.486,Los Angeles
+Saturday,"January 24, 2026",12:00 pm — 6:00 pm,64.0,61.0,Sunny,60.0,29.89,W,350.0,7.457,Los Angeles
+Saturday,"January 24, 2026",6:00 pm — 12:00 am,59.0,54.0,Clear,76.0,30.0,W,,0.621,Los Angeles
+Sunday,"January 25, 2026",12:00 am — 6:00 am,54.0,48.0,Clear,82.0,30.08,E,,0.621,Los Angeles
+Sunday,"January 25, 2026",6:00 am — 12:00 pm,64.0,48.0,Sunny,50.0,30.16,N,,0.0,Los Angeles
+Sunday,"January 25, 2026",12:00 pm — 6:00 pm,70.0,63.0,Sunny,34.0,30.15,W,360.0,6.836,Los Angeles
+Sunday,"January 25, 2026",6:00 pm — 12:00 am,61.0,55.0,Clear,82.0,30.23,N,,0.0,Los Angeles
+Monday,"January 26, 2026",12:00 am — 6:00 am,54.0,54.0,Clear,69.0,30.23,E,,0.621,Los Angeles
+Monday,"January 26, 2026",6:00 am — 12:00 pm,70.0,54.0,Sunny,32.0,30.27,NNE,120.0,1.864,Los Angeles
+Monday,"January 26, 2026",12:00 pm — 6:00 pm,73.0,64.0,Sunny,17.0,30.2,WNW,390.0,3.728,Los Angeles
+Monday,"January 26, 2026",6:00 pm — 12:00 am,63.0,55.0,Clear,30.0,30.23,N,,0.0,Los Angeles
+Tuesday,"January 27, 2026",12:00 am — 6:00 am,54.0,52.0,Clear,34.0,30.23,NNE,,0.621,Los Angeles
+Tuesday,"January 27, 2026",6:00 am — 12:00 pm,72.0,52.0,Sunny,22.0,30.27,NE,140.0,1.864,Los Angeles
+Tuesday,"January 27, 2026",12:00 pm — 6:00 pm,73.0,64.0,Sunny,27.0,30.2,WNW,390.0,6.214,Los Angeles
+Tuesday,"January 27, 2026",6:00 pm — 12:00 am,63.0,55.0,Clear,66.0,30.25,W,360.0,1.864,Los Angeles
+Wednesday,"January 28, 2026",12:00 am — 6:00 am,55.0,54.0,Clear,49.0,30.24,N,,0.0,Los Angeles
+Wednesday,"January 28, 2026",6:00 am — 12:00 pm,70.0,54.0,Sunny,34.0,30.24,N,,0.621,Los Angeles
+Wednesday,"January 28, 2026",12:00 pm — 6:00 pm,72.0,63.0,Sunny,32.0,30.16,W,370.0,6.214,Los Angeles
+Wednesday,"January 28, 2026",6:00 pm — 12:00 am,63.0,55.0,Clear,64.0,30.17,N,,0.0,Los Angeles
+Thursday,"January 29, 2026",12:00 am — 6:00 am,55.0,52.0,Clear,42.0,30.14,NNE,,0.621,Los Angeles
+Thursday,"January 29, 2026",6:00 am — 12:00 pm,79.0,52.0,Sunny,24.0,30.19,N,,0.0,Los Angeles
+Thursday,"January 29, 2026",12:00 pm — 6:00 pm,81.0,72.0,Sunny,14.0,30.12,W,360.0,4.35,Los Angeles
+Thursday,"January 29, 2026",6:00 pm — 12:00 am,70.0,57.0,Clear,40.0,30.18,N,,0.0,Los Angeles
+Friday,"January 30, 2026",12:00 am — 6:00 am,59.0,54.0,Clear,44.0,30.2,N,,0.0,Los Angeles
+Friday,"January 30, 2026",6:00 am — 12:00 pm,81.0,55.0,Sunny,28.0,30.23,N,,0.621,Los Angeles
+Friday,"January 30, 2026",12:00 pm — 6:00 pm,82.0,73.0,Sunny,17.0,30.14,WNW,380.0,3.728,Los Angeles
+Friday,"January 30, 2026",6:00 pm — 12:00 am,72.0,63.0,Clear,33.0,30.15,N,,0.0,Los Angeles
+Saturday,"January 31, 2026",12:00 am — 6:00 am,64.0,57.0,Clear,38.0,30.15,N,,0.621,Los Angeles
+Saturday,"January 31, 2026",6:00 am — 12:00 pm,82.0,57.0,Sunny,27.0,30.15,N,90.0,2.486,Los Angeles
+Saturday,"January 31, 2026",12:00 pm — 6:00 pm,84.0,70.0,Sunny,27.0,30.04,WNW,390.0,4.35,Los Angeles
+Saturday,"January 31, 2026",6:00 pm — 12:00 am,70.0,63.0,Clear,49.0,30.04,NW,400.0,1.243,Los Angeles
+Friday,"May 1, 2026",12:00 am — 6:00 am,70.0,66.0,Light rain. Mostly cloudy,93.0,29.84,NE,130.0,13.05,Houston
+Friday,"May 1, 2026",6:00 am — 12:00 pm,66.0,63.0,Light rain. Mostly cloudy,93.0,29.86,NNE,110.0,13.671,Houston
+Friday,"May 1, 2026",12:00 pm — 6:00 pm,64.0,61.0,Light rain. Mostly cloudy,95.0,29.82,NE,130.0,14.293,Houston
+Friday,"May 1, 2026",6:00 pm — 12:00 am,61.0,57.0,Light rain. Mostly cloudy,92.0,29.92,NNE,110.0,15.535,Houston
+Saturday,"May 2, 2026",12:00 am — 6:00 am,57.0,55.0,Mostly cloudy,84.0,30.01,NE,130.0,14.293,Houston
+Saturday,"May 2, 2026",6:00 am — 12:00 pm,70.0,54.0,Passing clouds,71.0,30.12,NE,130.0,13.671,Houston
+Saturday,"May 2, 2026",12:00 pm — 6:00 pm,75.0,72.0,Sunny,38.0,30.09,NNE,120.0,13.671,Houston
+Saturday,"May 2, 2026",6:00 pm — 12:00 am,73.0,66.0,Clear,48.0,30.12,NNE,120.0,4.971,Houston
+Sunday,"May 3, 2026",12:00 am — 6:00 am,63.0,57.0,Clear,79.0,30.16,NNW,,0.621,Houston
+Sunday,"May 3, 2026",6:00 am — 12:00 pm,75.0,57.0,Sunny,55.0,30.2,SSE,240.0,3.107,Houston
+Sunday,"May 3, 2026",12:00 pm — 6:00 pm,79.0,77.0,Passing clouds,31.0,30.14,N,90.0,8.078,Houston
+Sunday,"May 3, 2026",6:00 pm — 12:00 am,75.0,64.0,Passing clouds,53.0,30.08,S,270.0,9.321,Houston
+Monday,"May 4, 2026",12:00 am — 6:00 am,64.0,61.0,Passing clouds,73.0,30.03,S,270.0,6.836,Houston
+Monday,"May 4, 2026",6:00 am — 12:00 pm,79.0,63.0,Scattered clouds,60.0,30.01,S,280.0,10.564,Houston
+Monday,"May 4, 2026",12:00 pm — 6:00 pm,81.0,77.0,Broken clouds,56.0,29.92,S,270.0,13.05,Houston
+Monday,"May 4, 2026",6:00 pm — 12:00 am,77.0,72.0,Passing clouds,74.0,29.87,S,260.0,9.321,Houston
+Tuesday,"May 5, 2026",12:00 am — 6:00 am,73.0,70.0,Mostly cloudy,87.0,29.82,S,270.0,9.321,Houston
+Tuesday,"May 5, 2026",6:00 am — 12:00 pm,79.0,73.0,More clouds than sun,84.0,29.82,S,280.0,11.185,Houston
+Tuesday,"May 5, 2026",12:00 pm — 6:00 pm,82.0,81.0,Mostly cloudy,74.0,29.78,SSW,290.0,14.914,Houston
+Tuesday,"May 5, 2026",6:00 pm — 12:00 am,81.0,77.0,Overcast,84.0,29.79,S,260.0,12.428,Houston
+Wednesday,"May 6, 2026",12:00 am — 6:00 am,77.0,75.0,Overcast,92.0,29.8,S,260.0,8.7,Houston
+Wednesday,"May 6, 2026",6:00 am — 12:00 pm,81.0,75.0,Mostly cloudy,90.0,29.82,SSE,250.0,8.078,Houston
+Wednesday,"May 6, 2026",12:00 pm — 6:00 pm,84.0,82.0,Mostly cloudy,77.0,29.8,S,280.0,9.943,Houston
+Wednesday,"May 6, 2026",6:00 pm — 12:00 am,82.0,73.0,Partly sunny,85.0,29.85,S,270.0,8.078,Houston
+Thursday,"May 7, 2026",12:00 am — 6:00 am,72.0,68.0,Mostly cloudy,83.0,29.91,N,100.0,11.807,Houston
+Thursday,"May 7, 2026",6:00 am — 12:00 pm,68.0,64.0,Overcast,80.0,29.98,N,90.0,11.807,Houston
+Thursday,"May 7, 2026",12:00 pm — 6:00 pm,79.0,70.0,Broken clouds,66.0,29.96,NNE,120.0,9.321,Houston
+Thursday,"May 7, 2026",6:00 pm — 12:00 am,79.0,73.0,Overcast,68.0,29.93,ENE,160.0,9.321,Houston
+Friday,"May 8, 2026",12:00 am — 6:00 am,73.0,66.0,Overcast,85.0,29.91,ENE,150.0,8.078,Houston
+Friday,"May 8, 2026",6:00 am — 12:00 pm,70.0,68.0,Fog,89.0,29.92,NNE,120.0,8.078,Houston
+Friday,"May 8, 2026",12:00 pm — 6:00 pm,75.0,68.0,Fog,91.0,29.84,ENE,160.0,8.078,Houston
+Friday,"May 8, 2026",6:00 pm — 12:00 am,75.0,75.0,Fog,92.0,29.82,ESE,200.0,8.078,Houston
+Saturday,"May 9, 2026",12:00 am — 6:00 am,75.0,75.0,Fog,95.0,29.82,SSE,240.0,3.107,Houston
+Saturday,"May 9, 2026",6:00 am — 12:00 pm,81.0,73.0,Fog,91.0,29.84,SE,230.0,3.728,Houston
+Saturday,"May 9, 2026",12:00 pm — 6:00 pm,91.0,84.0,Partly sunny,50.0,29.78,N,90.0,4.35,Houston
+Saturday,"May 9, 2026",6:00 pm — 12:00 am,88.0,75.0,Broken clouds,69.0,29.83,S,260.0,11.807,Houston
+Sunday,"May 10, 2026",12:00 am — 6:00 am,75.0,73.0,Fog,92.0,29.86,S,260.0,6.214,Houston
+Sunday,"May 10, 2026",6:00 am — 12:00 pm,88.0,75.0,Broken clouds,78.0,29.95,E,170.0,6.214,Houston
+Sunday,"May 10, 2026",12:00 pm — 6:00 pm,90.0,84.0,Scattered clouds,60.0,29.92,SE,220.0,14.293,Houston
+Sunday,"May 10, 2026",6:00 pm — 12:00 am,82.0,77.0,Passing clouds,83.0,29.97,ESE,200.0,10.564,Houston
+Monday,"May 11, 2026",12:00 am — 6:00 am,77.0,68.0,Low clouds,89.0,30.0,NNE,110.0,11.185,Houston
+Monday,"May 11, 2026",6:00 am — 12:00 pm,79.0,70.0,Broken clouds,79.0,30.05,NE,130.0,12.428,Houston
+Monday,"May 11, 2026",12:00 pm — 6:00 pm,81.0,75.0,Partly sunny,61.0,30.04,NNE,110.0,14.914,Houston
+Monday,"May 11, 2026",6:00 pm — 12:00 am,79.0,73.0,Passing clouds,68.0,30.07,ENE,150.0,11.185,Houston
+Tuesday,"May 12, 2026",12:00 am — 6:00 am,72.0,66.0,Passing clouds,86.0,30.09,N,100.0,9.321,Houston
+Tuesday,"May 12, 2026",6:00 am — 12:00 pm,81.0,68.0,Sunny,66.0,30.12,NNE,120.0,8.078,Houston
+Tuesday,"May 12, 2026",12:00 pm — 6:00 pm,84.0,81.0,Scattered clouds,49.0,30.06,NE,130.0,6.836,Houston
+Tuesday,"May 12, 2026",6:00 pm — 12:00 am,84.0,73.0,Passing clouds,62.0,30.04,ENE,160.0,6.214,Houston
+Wednesday,"May 13, 2026",12:00 am — 6:00 am,72.0,68.0,Clear,87.0,30.05,W,350.0,3.728,Houston
+Wednesday,"May 13, 2026",6:00 am — 12:00 pm,84.0,68.0,Sunny,71.0,30.1,W,370.0,2.486,Houston
+Wednesday,"May 13, 2026",12:00 pm — 6:00 pm,90.0,84.0,Passing clouds,37.0,30.02,N,90.0,3.728,Houston
+Wednesday,"May 13, 2026",6:00 pm — 12:00 am,84.0,75.0,Passing clouds,67.0,29.99,S,260.0,9.943,Houston
+Thursday,"May 14, 2026",12:00 am — 6:00 am,73.0,70.0,Passing clouds,85.0,29.98,WSW,340.0,4.971,Houston
+Thursday,"May 14, 2026",6:00 am — 12:00 pm,84.0,72.0,Sunny,72.0,30.02,WNW,380.0,3.728,Houston
+Thursday,"May 14, 2026",12:00 pm — 6:00 pm,90.0,88.0,Scattered clouds,44.0,29.98,S,260.0,10.564,Houston
+Thursday,"May 14, 2026",6:00 pm — 12:00 am,84.0,73.0,Passing clouds,68.0,29.97,SSE,240.0,9.321,Houston
+Friday,"May 15, 2026",12:00 am — 6:00 am,73.0,72.0,Passing clouds,88.0,29.95,S,260.0,6.836,Houston
+Friday,"May 15, 2026",6:00 am — 12:00 pm,86.0,72.0,Partly sunny,74.0,29.98,S,280.0,11.185,Houston
+Friday,"May 15, 2026",12:00 pm — 6:00 pm,88.0,82.0,More clouds than sun,54.0,29.95,S,260.0,13.671,Houston
+Friday,"May 15, 2026",6:00 pm — 12:00 am,81.0,75.0,Passing clouds,75.0,29.95,SSE,250.0,11.185,Houston
+Saturday,"May 16, 2026",12:00 am — 6:00 am,75.0,73.0,Partly cloudy,84.0,29.95,SSE,240.0,5.593,Houston
+Saturday,"May 16, 2026",6:00 am — 12:00 pm,86.0,72.0,Broken clouds,68.0,29.96,SSE,250.0,13.05,Houston
+Saturday,"May 16, 2026",12:00 pm — 6:00 pm,88.0,84.0,Broken clouds,58.0,29.92,S,270.0,18.021,Houston
+Saturday,"May 16, 2026",6:00 pm — 12:00 am,82.0,79.0,Broken clouds,80.0,29.88,SE,230.0,14.293,Houston
+Sunday,"May 17, 2026",12:00 am — 6:00 am,81.0,79.0,Mostly cloudy,85.0,29.84,SSE,250.0,14.293,Houston
+Sunday,"May 17, 2026",6:00 am — 12:00 pm,84.0,79.0,Mostly cloudy,76.0,29.88,SSE,240.0,14.914,Houston
+Sunday,"May 17, 2026",12:00 pm — 6:00 pm,84.0,82.0,Mostly cloudy,76.0,29.87,SSE,250.0,16.778,Houston
+Sunday,"May 17, 2026",6:00 pm — 12:00 am,82.0,81.0,Mostly cloudy,82.0,29.87,SSE,250.0,14.914,Houston
+Monday,"May 18, 2026",12:00 am — 6:00 am,81.0,79.0,Overcast,84.0,29.89,SSE,240.0,16.157,Houston
+Monday,"May 18, 2026",6:00 am — 12:00 pm,84.0,79.0,Partly sunny,78.0,29.92,SSE,250.0,16.157,Houston
+Monday,"May 18, 2026",12:00 pm — 6:00 pm,88.0,82.0,Partly sunny,74.0,29.93,SSE,240.0,15.535,Houston
+Monday,"May 18, 2026",6:00 pm — 12:00 am,82.0,81.0,Passing clouds,82.0,29.95,SSE,250.0,13.671,Houston
+Tuesday,"May 19, 2026",12:00 am — 6:00 am,81.0,79.0,Mostly cloudy,83.0,29.95,SSE,250.0,14.293,Houston
+Tuesday,"May 19, 2026",6:00 am — 12:00 pm,84.0,79.0,Light rain. Broken clouds,84.0,30.0,SSE,240.0,9.943,Houston
+Tuesday,"May 19, 2026",12:00 pm — 6:00 pm,90.0,86.0,Broken clouds,60.0,29.99,SSE,240.0,14.293,Houston
+Tuesday,"May 19, 2026",6:00 pm — 12:00 am,84.0,68.0,Light rain. Mostly cloudy,85.0,30.04,SSE,240.0,14.293,Houston
+Wednesday,"May 20, 2026",12:00 am — 6:00 am,70.0,66.0,Thunderstorms. Mostly cloudy,90.0,30.04,E,190.0,9.943,Houston
+Wednesday,"May 20, 2026",6:00 am — 12:00 pm,75.0,68.0,Light rain. More clouds than sun,95.0,30.05,SSW,290.0,6.836,Houston
+Wednesday,"May 20, 2026",12:00 pm — 6:00 pm,81.0,77.0,Broken clouds,76.0,29.98,NE,140.0,11.185,Houston
+Wednesday,"May 20, 2026",6:00 pm — 12:00 am,79.0,75.0,Passing clouds,81.0,29.97,ESE,200.0,6.836,Houston
+Thursday,"May 21, 2026",12:00 am — 6:00 am,75.0,73.0,Overcast,88.0,29.97,NE,140.0,8.078,Houston
+Thursday,"May 21, 2026",6:00 am — 12:00 pm,73.0,73.0,Light rain. Fog,93.0,29.96,SE,220.0,6.214,Houston
+Thursday,"May 21, 2026",12:00 pm — 6:00 pm,81.0,73.0,Broken clouds,78.0,29.88,ESE,200.0,8.078,Houston
+Thursday,"May 21, 2026",6:00 pm — 12:00 am,79.0,73.0,Broken clouds,77.0,29.87,SW,310.0,4.35,Houston
+Friday,"May 22, 2026",12:00 am — 6:00 am,73.0,70.0,Passing clouds,91.0,29.85,S,280.0,6.836,Houston
+Friday,"May 22, 2026",6:00 am — 12:00 pm,84.0,72.0,Scattered clouds,77.0,29.89,S,260.0,4.971,Houston
+Friday,"May 22, 2026",12:00 pm — 6:00 pm,90.0,86.0,Scattered clouds,56.0,29.85,S,260.0,9.321,Houston
+Friday,"May 22, 2026",6:00 pm — 12:00 am,84.0,79.0,Passing clouds,84.0,29.85,SSE,250.0,9.321,Houston
+Saturday,"May 23, 2026",12:00 am — 6:00 am,79.0,79.0,Passing clouds,93.0,29.9,SSE,250.0,4.971,Houston
+Saturday,"May 23, 2026",6:00 am — 12:00 pm,81.0,70.0,Mostly cloudy,81.0,29.92,W,350.0,8.078,Houston
+Saturday,"May 23, 2026",12:00 pm — 6:00 pm,75.0,72.0,Thunderstorms. Mostly cloudy,94.0,29.95,E,180.0,12.428,Houston
+Saturday,"May 23, 2026",6:00 pm — 12:00 am,72.0,72.0,Partly cloudy,91.0,29.94,E,170.0,6.836,Houston
+Sunday,"May 24, 2026",12:00 am — 6:00 am,72.0,68.0,Passing clouds,93.0,29.96,E,170.0,4.35,Houston
+Sunday,"May 24, 2026",6:00 am — 12:00 pm,81.0,68.0,Broken clouds,84.0,30.02,NNE,120.0,5.593,Houston
+Sunday,"May 24, 2026",12:00 pm — 6:00 pm,84.0,82.0,Broken clouds,60.0,29.97,E,180.0,7.457,Houston
+Sunday,"May 24, 2026",6:00 pm — 12:00 am,81.0,75.0,Passing clouds,80.0,29.97,ESE,200.0,6.214,Houston
+Monday,"May 25, 2026",12:00 am — 6:00 am,75.0,72.0,Passing clouds,92.0,29.95,SE,220.0,1.243,Houston
+Monday,"May 25, 2026",6:00 am — 12:00 pm,84.0,72.0,Scattered clouds,79.0,29.98,N,90.0,4.971,Houston
+Monday,"May 25, 2026",12:00 pm — 6:00 pm,88.0,86.0,Scattered clouds,52.0,29.9,N,90.0,7.457,Houston
+Monday,"May 25, 2026",6:00 pm — 12:00 am,88.0,88.0,Passing clouds,51.0,29.85,E,180.0,6.836,Houston
+Wednesday,"April 1, 2026",12:00 am — 6:00 am,73.0,72.0,Partly cloudy,90.0,30.0,SSE,250.0,11.185,Houston
+Wednesday,"April 1, 2026",6:00 am — 12:00 pm,81.0,73.0,Broken clouds,81.0,30.02,S,260.0,11.807,Houston
+Wednesday,"April 1, 2026",12:00 pm — 6:00 pm,84.0,79.0,Broken clouds,59.0,29.98,S,270.0,19.264,Houston
+Wednesday,"April 1, 2026",6:00 pm — 12:00 am,77.0,73.0,Partly cloudy,82.0,29.92,SSE,250.0,15.535,Houston
+Thursday,"April 2, 2026",12:00 am — 6:00 am,75.0,73.0,Mostly cloudy,87.0,29.88,SSE,250.0,15.535,Houston
+Thursday,"April 2, 2026",6:00 am — 12:00 pm,82.0,73.0,Mostly cloudy,76.0,29.96,S,270.0,12.428,Houston
+Thursday,"April 2, 2026",12:00 pm — 6:00 pm,79.0,75.0,Broken clouds,72.0,29.95,SSE,250.0,13.671,Houston
+Thursday,"April 2, 2026",6:00 pm — 12:00 am,79.0,75.0,Passing clouds,82.0,29.93,SSE,250.0,13.671,Houston
+Friday,"April 3, 2026",12:00 am — 6:00 am,75.0,75.0,Partly cloudy,85.0,29.94,SSE,250.0,13.671,Houston
+Friday,"April 3, 2026",6:00 am — 12:00 pm,82.0,73.0,Broken clouds,81.0,30.01,SSE,250.0,13.671,Houston
+Friday,"April 3, 2026",12:00 pm — 6:00 pm,84.0,79.0,Broken clouds,65.0,29.99,SSE,240.0,19.885,Houston
+Friday,"April 3, 2026",6:00 pm — 12:00 am,79.0,75.0,Mostly cloudy,81.0,30.0,SE,230.0,15.535,Houston
+Saturday,"April 4, 2026",12:00 am — 6:00 am,75.0,73.0,Fog,88.0,29.99,S,260.0,13.671,Houston
+Saturday,"April 4, 2026",6:00 am — 12:00 pm,79.0,73.0,Broken clouds,83.0,30.02,S,280.0,9.943,Houston
+Saturday,"April 4, 2026",12:00 pm — 6:00 pm,81.0,79.0,Broken clouds,72.0,30.01,SSE,240.0,10.564,Houston
+Saturday,"April 4, 2026",6:00 pm — 12:00 am,70.0,64.0,Rain. Fog,94.0,30.07,NNE,110.0,8.078,Houston
+Sunday,"April 5, 2026",12:00 am — 6:00 am,66.0,61.0,Overcast,88.0,30.14,N,90.0,13.671,Houston
+Sunday,"April 5, 2026",6:00 am — 12:00 pm,64.0,63.0,Partly sunny,75.0,30.21,NNE,110.0,16.778,Houston
+Sunday,"April 5, 2026",12:00 pm — 6:00 pm,66.0,64.0,More clouds than sun,61.0,30.21,N,440.0,14.914,Houston
+Sunday,"April 5, 2026",6:00 pm — 12:00 am,64.0,61.0,Overcast,59.0,30.22,N,100.0,11.185,Houston
+Monday,"April 6, 2026",12:00 am — 6:00 am,63.0,59.0,Mostly cloudy,55.0,30.22,NNE,120.0,13.671,Houston
+Monday,"April 6, 2026",6:00 am — 12:00 pm,68.0,57.0,Partly sunny,49.0,30.26,NE,140.0,16.157,Houston
+Monday,"April 6, 2026",12:00 pm — 6:00 pm,73.0,70.0,Scattered clouds,29.0,30.18,NNE,110.0,11.185,Houston
+Monday,"April 6, 2026",6:00 pm — 12:00 am,72.0,63.0,Passing clouds,38.0,30.14,NE,130.0,6.836,Houston
+Tuesday,"April 7, 2026",12:00 am — 6:00 am,63.0,55.0,Passing clouds,57.0,30.13,NE,130.0,7.457,Houston
+Tuesday,"April 7, 2026",6:00 am — 12:00 pm,70.0,57.0,Scattered clouds,49.0,30.14,E,180.0,8.078,Houston
+Tuesday,"April 7, 2026",12:00 pm — 6:00 pm,73.0,72.0,Scattered clouds,34.0,30.07,ESE,200.0,11.807,Houston
+Tuesday,"April 7, 2026",6:00 pm — 12:00 am,70.0,63.0,Passing clouds,56.0,30.08,ESE,200.0,9.321,Houston
+Wednesday,"April 8, 2026",12:00 am — 6:00 am,64.0,63.0,Mostly cloudy,82.0,30.07,WSW,330.0,4.35,Houston
+Wednesday,"April 8, 2026",6:00 am — 12:00 pm,75.0,63.0,Scattered clouds,73.0,30.1,N,440.0,6.836,Houston
+Wednesday,"April 8, 2026",12:00 pm — 6:00 pm,79.0,75.0,Passing clouds,53.0,30.08,ESE,210.0,14.293,Houston
+Wednesday,"April 8, 2026",6:00 pm — 12:00 am,73.0,68.0,Passing clouds,80.0,30.1,SE,220.0,9.321,Houston
+Thursday,"April 9, 2026",12:00 am — 6:00 am,70.0,66.0,Passing clouds,91.0,30.12,ESE,200.0,6.836,Houston
+Thursday,"April 9, 2026",6:00 am — 12:00 pm,77.0,66.0,Scattered clouds,75.0,30.16,E,190.0,10.564,Houston
+Thursday,"April 9, 2026",12:00 pm — 6:00 pm,81.0,75.0,Scattered clouds,59.0,30.12,ESE,200.0,15.535,Houston
+Thursday,"April 9, 2026",6:00 pm — 12:00 am,73.0,72.0,Overcast,81.0,30.13,SE,220.0,13.05,Houston
+Friday,"April 10, 2026",12:00 am — 6:00 am,72.0,72.0,Mostly cloudy,84.0,30.13,ESE,200.0,12.428,Houston
+Friday,"April 10, 2026",6:00 am — 12:00 pm,77.0,72.0,Partly sunny,85.0,30.17,ESE,210.0,11.185,Houston
+Friday,"April 10, 2026",12:00 pm — 6:00 pm,75.0,72.0,Light rain. Partly sunny,91.0,30.16,ESE,200.0,10.564,Houston
+Friday,"April 10, 2026",6:00 pm — 12:00 am,73.0,72.0,Fog,91.0,30.18,ESE,210.0,9.943,Houston
+Saturday,"April 11, 2026",12:00 am — 6:00 am,72.0,72.0,Mostly cloudy,92.0,30.17,ESE,200.0,8.7,Houston
+Saturday,"April 11, 2026",6:00 am — 12:00 pm,79.0,72.0,Broken clouds,82.0,30.21,SE,230.0,12.428,Houston
+Saturday,"April 11, 2026",12:00 pm — 6:00 pm,81.0,77.0,Broken clouds,70.0,30.15,ESE,210.0,18.642,Houston
+Saturday,"April 11, 2026",6:00 pm — 12:00 am,75.0,72.0,Partly cloudy,84.0,30.13,SE,220.0,13.671,Houston
+Sunday,"April 12, 2026",12:00 am — 6:00 am,73.0,72.0,Mostly cloudy,85.0,30.1,SSE,240.0,13.05,Houston
+Sunday,"April 12, 2026",6:00 am — 12:00 pm,79.0,72.0,Mostly cloudy,82.0,30.13,SE,230.0,15.535,Houston
+Sunday,"April 12, 2026",12:00 pm — 6:00 pm,79.0,75.0,Mostly cloudy,74.0,30.1,SSE,240.0,15.535,Houston
+Sunday,"April 12, 2026",6:00 pm — 12:00 am,75.0,73.0,Overcast,86.0,30.13,SSE,240.0,11.185,Houston
+Monday,"April 13, 2026",12:00 am — 6:00 am,73.0,73.0,Mostly cloudy,90.0,30.11,SSE,240.0,11.185,Houston
+Monday,"April 13, 2026",6:00 am — 12:00 pm,81.0,73.0,Broken clouds,84.0,30.14,SSE,250.0,9.943,Houston
+Monday,"April 13, 2026",12:00 pm — 6:00 pm,81.0,79.0,Broken clouds,71.0,30.1,S,270.0,14.914,Houston
+Monday,"April 13, 2026",6:00 pm — 12:00 am,77.0,73.0,Passing clouds,84.0,30.1,SSE,250.0,11.807,Houston
+Tuesday,"April 14, 2026",12:00 am — 6:00 am,73.0,70.0,Passing clouds,92.0,30.07,SSE,240.0,7.457,Houston
+Tuesday,"April 14, 2026",6:00 am — 12:00 pm,81.0,70.0,Scattered clouds,83.0,30.07,S,260.0,9.321,Houston
+Tuesday,"April 14, 2026",12:00 pm — 6:00 pm,82.0,81.0,Partly sunny,62.0,30.04,SSE,250.0,15.535,Houston
+Tuesday,"April 14, 2026",6:00 pm — 12:00 am,79.0,72.0,Passing clouds,81.0,30.01,SSE,240.0,11.807,Houston
+Wednesday,"April 15, 2026",12:00 am — 6:00 am,73.0,72.0,Passing clouds,89.0,29.99,SSE,240.0,8.7,Houston
+Wednesday,"April 15, 2026",6:00 am — 12:00 pm,81.0,72.0,Broken clouds,80.0,30.02,SSE,240.0,11.185,Houston
+Wednesday,"April 15, 2026",12:00 pm — 6:00 pm,82.0,81.0,Broken clouds,60.0,29.99,S,270.0,18.021,Houston
+Wednesday,"April 15, 2026",6:00 pm — 12:00 am,79.0,73.0,Passing clouds,82.0,29.99,SSE,250.0,11.185,Houston
+Thursday,"April 16, 2026",12:00 am — 6:00 am,73.0,72.0,Fog,94.0,29.98,SSE,250.0,7.457,Houston
+Thursday,"April 16, 2026",6:00 am — 12:00 pm,81.0,72.0,Scattered clouds,84.0,30.03,S,260.0,7.457,Houston
+Thursday,"April 16, 2026",12:00 pm — 6:00 pm,84.0,81.0,Scattered clouds,61.0,30.0,S,260.0,16.778,Houston
+Thursday,"April 16, 2026",6:00 pm — 12:00 am,79.0,73.0,Passing clouds,80.0,29.99,SSE,240.0,10.564,Houston
+Friday,"April 17, 2026",12:00 am — 6:00 am,72.0,70.0,Clear,91.0,29.94,SSE,240.0,6.836,Houston
+Friday,"April 17, 2026",6:00 am — 12:00 pm,81.0,70.0,Broken clouds,83.0,29.97,SSE,250.0,9.943,Houston
+Friday,"April 17, 2026",12:00 pm — 6:00 pm,82.0,79.0,Partly sunny,66.0,29.93,SSE,240.0,19.264,Houston
+Friday,"April 17, 2026",6:00 pm — 12:00 am,79.0,72.0,Passing clouds,77.0,29.91,SSE,240.0,13.05,Houston
+Saturday,"April 18, 2026",12:00 am — 6:00 am,72.0,70.0,Passing clouds,91.0,29.86,S,280.0,3.728,Houston
+Saturday,"April 18, 2026",6:00 am — 12:00 pm,82.0,72.0,Broken clouds,79.0,29.92,SSW,290.0,6.214,Houston
+Saturday,"April 18, 2026",12:00 pm — 6:00 pm,84.0,70.0,Mostly cloudy,83.0,29.97,NE,130.0,9.321,Houston
+Saturday,"April 18, 2026",6:00 pm — 12:00 am,70.0,59.0,Light rain. Mostly cloudy,90.0,30.08,N,90.0,13.671,Houston
+Sunday,"April 19, 2026",12:00 am — 6:00 am,57.0,54.0,Light rain. Mostly cloudy,92.0,30.22,N,100.0,15.535,Houston
+Sunday,"April 19, 2026",6:00 am — 12:00 pm,63.0,52.0,Overcast,66.0,30.29,NE,140.0,16.778,Houston
+Sunday,"April 19, 2026",12:00 pm — 6:00 pm,70.0,63.0,Partly sunny,40.0,30.26,E,180.0,12.428,Houston
+Sunday,"April 19, 2026",6:00 pm — 12:00 am,70.0,64.0,Passing clouds,44.0,30.23,E,180.0,6.836,Houston
+Monday,"April 20, 2026",12:00 am — 6:00 am,64.0,63.0,Passing clouds,56.0,30.24,ENE,160.0,6.836,Houston
+Monday,"April 20, 2026",6:00 am — 12:00 pm,70.0,63.0,Partly sunny,54.0,30.27,E,190.0,13.05,Houston
+Monday,"April 20, 2026",12:00 pm — 6:00 pm,72.0,66.0,Mostly cloudy,64.0,30.24,ESE,200.0,13.671,Houston
+Monday,"April 20, 2026",6:00 pm — 12:00 am,70.0,66.0,Mostly cloudy,71.0,30.2,E,190.0,8.7,Houston
+Tuesday,"April 21, 2026",12:00 am — 6:00 am,68.0,64.0,Light rain. Fog,84.0,30.21,SSE,240.0,9.321,Houston
+Tuesday,"April 21, 2026",6:00 am — 12:00 pm,64.0,61.0,Light rain. Fog,85.0,30.2,ESE,200.0,6.836,Houston
+Tuesday,"April 21, 2026",12:00 pm — 6:00 pm,64.0,63.0,Light rain. Fog,91.0,30.17,NE,140.0,10.564,Houston
+Tuesday,"April 21, 2026",6:00 pm — 12:00 am,66.0,63.0,Passing clouds,91.0,30.12,ENE,150.0,6.836,Houston
+Wednesday,"April 22, 2026",12:00 am — 6:00 am,66.0,64.0,Fog,98.0,30.07,E,170.0,3.728,Houston
+Wednesday,"April 22, 2026",6:00 am — 12:00 pm,79.0,66.0,Fog,85.0,30.07,N,440.0,3.728,Houston
+Wednesday,"April 22, 2026",12:00 pm — 6:00 pm,81.0,72.0,Thunderstorms. Partly sunny,81.0,29.99,SE,230.0,9.321,Houston
+Wednesday,"April 22, 2026",6:00 pm — 12:00 am,75.0,70.0,Passing clouds,88.0,29.97,SSE,240.0,8.078,Houston
+Thursday,"April 23, 2026",12:00 am — 6:00 am,70.0,70.0,Partly cloudy,95.0,29.93,SE,220.0,5.593,Houston
+Thursday,"April 23, 2026",6:00 am — 12:00 pm,81.0,70.0,Broken clouds,81.0,29.93,SSE,250.0,9.943,Houston
+Thursday,"April 23, 2026",12:00 pm — 6:00 pm,82.0,79.0,Partly sunny,65.0,29.85,SSE,240.0,14.914,Houston
+Thursday,"April 23, 2026",6:00 pm — 12:00 am,79.0,73.0,Partly cloudy,85.0,29.84,SSE,250.0,9.943,Houston
+Friday,"April 24, 2026",12:00 am — 6:00 am,73.0,72.0,Fog,92.0,29.79,SSE,240.0,8.078,Houston
+Friday,"April 24, 2026",6:00 am — 12:00 pm,81.0,72.0,Mostly cloudy,84.0,29.81,SSW,290.0,8.078,Houston
+Friday,"April 24, 2026",12:00 pm — 6:00 pm,82.0,81.0,Cloudy,73.0,29.75,S,260.0,12.428,Houston
+Friday,"April 24, 2026",6:00 pm — 12:00 am,79.0,75.0,Passing clouds,88.0,29.74,SSE,250.0,9.321,Houston
+Saturday,"April 25, 2026",12:00 am — 6:00 am,75.0,73.0,Overcast,94.0,29.75,S,260.0,6.214,Houston
+Saturday,"April 25, 2026",6:00 am — 12:00 pm,82.0,73.0,Fog,86.0,29.79,SSE,240.0,6.836,Houston
+Saturday,"April 25, 2026",12:00 pm — 6:00 pm,86.0,84.0,Scattered clouds,67.0,29.75,S,270.0,13.671,Houston
+Saturday,"April 25, 2026",6:00 pm — 12:00 am,82.0,75.0,Overcast,85.0,29.75,SSE,250.0,9.943,Houston
+Sunday,"April 26, 2026",12:00 am — 6:00 am,75.0,75.0,Mostly cloudy,94.0,29.76,SSE,240.0,5.593,Houston
+Sunday,"April 26, 2026",6:00 am — 12:00 pm,82.0,75.0,Cloudy,84.0,29.82,SE,230.0,8.078,Houston
+Sunday,"April 26, 2026",12:00 pm — 6:00 pm,84.0,81.0,Broken clouds,73.0,29.81,SE,220.0,11.807,Houston
+Sunday,"April 26, 2026",6:00 pm — 12:00 am,82.0,77.0,Broken clouds,84.0,29.79,SSE,250.0,11.807,Houston
+Monday,"April 27, 2026",12:00 am — 6:00 am,79.0,79.0,Mostly cloudy,87.0,29.79,S,260.0,9.321,Houston
+Monday,"April 27, 2026",6:00 am — 12:00 pm,86.0,79.0,Partly sunny,82.0,29.85,S,260.0,10.564,Houston
+Monday,"April 27, 2026",12:00 pm — 6:00 pm,88.0,86.0,Partly sunny,63.0,29.86,S,260.0,15.535,Houston
+Monday,"April 27, 2026",6:00 pm — 12:00 am,82.0,79.0,Passing clouds,83.0,29.89,SSE,240.0,11.185,Houston
+Tuesday,"April 28, 2026",12:00 am — 6:00 am,79.0,75.0,Mostly cloudy,89.0,29.9,SSE,250.0,10.564,Houston
+Tuesday,"April 28, 2026",6:00 am — 12:00 pm,86.0,75.0,Partly sunny,82.0,29.93,SSE,250.0,12.428,Houston
+Tuesday,"April 28, 2026",12:00 pm — 6:00 pm,88.0,86.0,Scattered clouds,61.0,29.92,S,260.0,18.021,Houston
+Tuesday,"April 28, 2026",6:00 pm — 12:00 am,82.0,79.0,Partly sunny,80.0,29.9,S,260.0,12.428,Houston
+Wednesday,"April 29, 2026",12:00 am — 6:00 am,77.0,75.0,Passing clouds,91.0,29.87,S,260.0,8.078,Houston
+Wednesday,"April 29, 2026",6:00 am — 12:00 pm,82.0,75.0,Mostly cloudy,83.0,29.9,S,280.0,7.457,Houston
+Wednesday,"April 29, 2026",12:00 pm — 6:00 pm,84.0,82.0,Broken clouds,67.0,29.85,S,270.0,10.564,Houston
+Wednesday,"April 29, 2026",6:00 pm — 12:00 am,81.0,75.0,Passing clouds,81.0,29.84,S,260.0,7.457,Houston
+Thursday,"April 30, 2026",12:00 am — 6:00 am,75.0,73.0,Mostly cloudy,89.0,29.84,SSE,250.0,6.214,Houston
+Thursday,"April 30, 2026",6:00 am — 12:00 pm,82.0,73.0,Broken clouds,82.0,29.84,N,90.0,4.35,Houston
+Thursday,"April 30, 2026",12:00 pm — 6:00 pm,88.0,81.0,Broken clouds,61.0,29.79,N,440.0,12.428,Houston
+Thursday,"April 30, 2026",6:00 pm — 12:00 am,75.0,70.0,Mostly cloudy,87.0,29.84,NE,140.0,11.807,Houston
+Sunday,"March 1, 2026",12:00 am — 6:00 am,66.0,64.0,Overcast,93.0,30.05,SSE,250.0,6.214,Houston
+Sunday,"March 1, 2026",6:00 am — 12:00 pm,79.0,63.0,Passing clouds,66.0,30.12,SSE,250.0,9.943,Houston
+Sunday,"March 1, 2026",12:00 pm — 6:00 pm,79.0,72.0,Passing clouds,46.0,30.07,SE,230.0,14.293,Houston
+Sunday,"March 1, 2026",6:00 pm — 12:00 am,68.0,63.0,Passing clouds,87.0,30.09,SE,230.0,9.321,Houston
+Monday,"March 2, 2026",12:00 am — 6:00 am,64.0,63.0,Passing clouds,96.0,30.07,SE,220.0,6.836,Houston
+Monday,"March 2, 2026",6:00 am — 12:00 pm,75.0,64.0,Partly sunny,82.0,30.12,ESE,210.0,8.7,Houston
+Monday,"March 2, 2026",12:00 pm — 6:00 pm,81.0,73.0,Passing clouds,60.0,30.06,SSE,240.0,11.807,Houston
+Monday,"March 2, 2026",6:00 pm — 12:00 am,72.0,68.0,Mostly cloudy,88.0,30.06,SSE,240.0,10.564,Houston
+Tuesday,"March 3, 2026",12:00 am — 6:00 am,70.0,70.0,Mostly cloudy,92.0,30.05,SSE,240.0,11.185,Houston
+Tuesday,"March 3, 2026",6:00 am — 12:00 pm,79.0,70.0,Partly sunny,83.0,30.09,SSE,250.0,13.671,Houston
+Tuesday,"March 3, 2026",12:00 pm — 6:00 pm,81.0,75.0,Scattered clouds,68.0,30.04,S,260.0,18.021,Houston
+Tuesday,"March 3, 2026",6:00 pm — 12:00 am,75.0,70.0,Passing clouds,88.0,30.07,SSE,240.0,11.807,Houston
+Wednesday,"March 4, 2026",12:00 am — 6:00 am,70.0,68.0,Passing clouds,93.0,30.07,SSE,240.0,8.7,Houston
+Wednesday,"March 4, 2026",6:00 am — 12:00 pm,81.0,70.0,Partly sunny,82.0,30.1,SSE,240.0,11.807,Houston
+Wednesday,"March 4, 2026",12:00 pm — 6:00 pm,81.0,75.0,Scattered clouds,67.0,30.04,SE,230.0,15.535,Houston
+Wednesday,"March 4, 2026",6:00 pm — 12:00 am,73.0,72.0,Mostly cloudy,88.0,30.04,SSE,250.0,12.428,Houston
+Thursday,"March 5, 2026",12:00 am — 6:00 am,72.0,72.0,Passing clouds,90.0,30.01,SSE,240.0,10.564,Houston
+Thursday,"March 5, 2026",6:00 am — 12:00 pm,81.0,72.0,Scattered clouds,77.0,30.02,S,260.0,15.535,Houston
+Thursday,"March 5, 2026",12:00 pm — 6:00 pm,81.0,75.0,Broken clouds,64.0,29.97,SSE,250.0,17.4,Houston
+Thursday,"March 5, 2026",6:00 pm — 12:00 am,73.0,72.0,Passing clouds,87.0,29.98,SE,230.0,13.05,Houston
+Friday,"March 6, 2026",12:00 am — 6:00 am,73.0,72.0,Mostly cloudy,89.0,29.94,SSE,250.0,13.05,Houston
+Friday,"March 6, 2026",6:00 am — 12:00 pm,82.0,73.0,Broken clouds,75.0,29.98,SSE,240.0,16.157,Houston
+Friday,"March 6, 2026",12:00 pm — 6:00 pm,82.0,77.0,Broken clouds,72.0,29.93,SSE,250.0,18.021,Houston
+Friday,"March 6, 2026",6:00 pm — 12:00 am,75.0,73.0,Passing clouds,86.0,29.95,SSE,250.0,15.535,Houston
+Saturday,"March 7, 2026",12:00 am — 6:00 am,75.0,73.0,Mostly cloudy,88.0,29.95,SSE,240.0,14.293,Houston
+Saturday,"March 7, 2026",6:00 am — 12:00 pm,82.0,73.0,Broken clouds,76.0,29.99,S,260.0,13.671,Houston
+Saturday,"March 7, 2026",12:00 pm — 6:00 pm,84.0,79.0,Mostly cloudy,70.0,29.92,S,260.0,14.293,Houston
+Saturday,"March 7, 2026",6:00 pm — 12:00 am,77.0,70.0,Overcast,88.0,29.99,NE,130.0,7.457,Houston
+Sunday,"March 8, 2026",12:00 am — 6:00 am,70.0,66.0,Light rain. Mostly cloudy,96.0,29.98,N,90.0,9.321,Houston
+Sunday,"March 8, 2026",6:00 am — 12:00 pm,70.0,68.0,Low clouds,94.0,30.04,N,90.0,6.214,Houston
+Sunday,"March 8, 2026",12:00 pm — 6:00 pm,72.0,70.0,Mostly cloudy,90.0,30.03,NE,130.0,6.836,Houston
+Sunday,"March 8, 2026",6:00 pm — 12:00 am,70.0,66.0,Passing clouds,90.0,30.02,N,440.0,3.107,Houston
+Monday,"March 9, 2026",12:00 am — 6:00 am,70.0,70.0,Overcast,93.0,30.0,ESE,200.0,3.107,Houston
+Monday,"March 9, 2026",6:00 am — 12:00 pm,81.0,70.0,Fog,89.0,30.02,S,280.0,9.321,Houston
+Monday,"March 9, 2026",12:00 pm — 6:00 pm,82.0,79.0,Broken clouds,67.0,30.0,S,270.0,16.778,Houston
+Monday,"March 9, 2026",6:00 pm — 12:00 am,75.0,73.0,Mostly cloudy,89.0,30.01,SSE,250.0,10.564,Houston
+Tuesday,"March 10, 2026",12:00 am — 6:00 am,75.0,73.0,Mostly cloudy,90.0,30.0,S,270.0,11.807,Houston
+Tuesday,"March 10, 2026",6:00 am — 12:00 pm,81.0,73.0,Mostly cloudy,82.0,30.02,S,270.0,15.535,Houston
+Tuesday,"March 10, 2026",12:00 pm — 6:00 pm,84.0,79.0,Partly sunny,66.0,29.95,S,270.0,18.642,Houston
+Tuesday,"March 10, 2026",6:00 pm — 12:00 am,75.0,75.0,Overcast,86.0,29.9,SSE,250.0,15.535,Houston
+Wednesday,"March 11, 2026",12:00 am — 6:00 am,75.0,73.0,Mostly cloudy,87.0,29.88,S,280.0,14.293,Houston
+Wednesday,"March 11, 2026",6:00 am — 12:00 pm,79.0,73.0,Mostly cloudy,84.0,29.9,S,270.0,14.293,Houston
+Wednesday,"March 11, 2026",12:00 pm — 6:00 pm,81.0,64.0,Broken clouds,80.0,29.88,S,270.0,13.05,Houston
+Wednesday,"March 11, 2026",6:00 pm — 12:00 am,73.0,66.0,Passing clouds,79.0,30.08,NNW,420.0,13.05,Houston
+Thursday,"March 12, 2026",12:00 am — 6:00 am,64.0,52.0,Passing clouds,63.0,30.24,N,90.0,20.507,Houston
+Thursday,"March 12, 2026",6:00 am — 12:00 pm,57.0,50.0,Sunny,58.0,30.33,N,90.0,17.4,Houston
+Thursday,"March 12, 2026",12:00 pm — 6:00 pm,66.0,61.0,Sunny,32.0,30.28,N,90.0,6.836,Houston
+Thursday,"March 12, 2026",6:00 pm — 12:00 am,64.0,54.0,Passing clouds,44.0,30.2,S,280.0,4.971,Houston
+Friday,"March 13, 2026",12:00 am — 6:00 am,54.0,48.0,Passing clouds,67.0,30.13,SW,310.0,4.971,Houston
+Friday,"March 13, 2026",6:00 am — 12:00 pm,64.0,48.0,Sunny,68.0,30.12,SW,320.0,6.836,Houston
+Friday,"March 13, 2026",12:00 pm — 6:00 pm,73.0,72.0,Sunny,46.0,30.04,S,270.0,9.943,Houston
+Friday,"March 13, 2026",6:00 pm — 12:00 am,70.0,61.0,Clear,73.0,30.01,SSE,240.0,8.7,Houston
+Saturday,"March 14, 2026",12:00 am — 6:00 am,61.0,57.0,Passing clouds,86.0,29.99,SSE,250.0,4.971,Houston
+Saturday,"March 14, 2026",6:00 am — 12:00 pm,75.0,59.0,Partly sunny,72.0,30.0,ESE,210.0,8.078,Houston
+Saturday,"March 14, 2026",12:00 pm — 6:00 pm,79.0,75.0,Passing clouds,51.0,29.93,S,260.0,12.428,Houston
+Saturday,"March 14, 2026",6:00 pm — 12:00 am,73.0,66.0,Passing clouds,79.0,29.88,SSE,240.0,10.564,Houston
+Sunday,"March 15, 2026",12:00 am — 6:00 am,66.0,66.0,Passing clouds,90.0,29.81,SSE,240.0,8.078,Houston
+Sunday,"March 15, 2026",6:00 am — 12:00 pm,77.0,66.0,Mostly cloudy,82.0,29.75,S,280.0,14.914,Houston
+Sunday,"March 15, 2026",12:00 pm — 6:00 pm,82.0,79.0,Broken clouds,59.0,29.66,SSW,290.0,22.371,Houston
+Sunday,"March 15, 2026",6:00 pm — 12:00 am,79.0,64.0,Overcast,51.0,29.77,N,90.0,18.642,Houston
+Monday,"March 16, 2026",12:00 am — 6:00 am,63.0,50.0,Overcast,31.0,30.04,N,440.0,25.478,Houston
+Monday,"March 16, 2026",6:00 am — 12:00 pm,52.0,46.0,Partly sunny,30.0,30.24,N,90.0,23.614,Houston
+Monday,"March 16, 2026",12:00 pm — 6:00 pm,55.0,54.0,Partly sunny,18.0,30.24,NNW,430.0,19.885,Houston
+Monday,"March 16, 2026",6:00 pm — 12:00 am,50.0,45.0,Passing clouds,22.0,30.3,N,100.0,17.4,Houston
+Tuesday,"March 17, 2026",12:00 am — 6:00 am,45.0,39.0,Passing clouds,33.0,30.36,N,100.0,9.321,Houston
+Tuesday,"March 17, 2026",6:00 am — 12:00 pm,52.0,39.0,Passing clouds,34.0,30.4,ENE,160.0,4.971,Houston
+Tuesday,"March 17, 2026",12:00 pm — 6:00 pm,59.0,54.0,Scattered clouds,20.0,30.33,E,190.0,9.321,Houston
+Tuesday,"March 17, 2026",6:00 pm — 12:00 am,55.0,48.0,Passing clouds,47.0,30.27,S,260.0,6.836,Houston
+Wednesday,"March 18, 2026",12:00 am — 6:00 am,48.0,45.0,Passing clouds,71.0,30.23,SSE,250.0,6.836,Houston
+Wednesday,"March 18, 2026",6:00 am — 12:00 pm,68.0,46.0,Passing clouds,63.0,30.26,SSE,250.0,8.7,Houston
+Wednesday,"March 18, 2026",12:00 pm — 6:00 pm,72.0,70.0,Partly sunny,45.0,30.22,S,260.0,10.564,Houston
+Wednesday,"March 18, 2026",6:00 pm — 12:00 am,66.0,57.0,Passing clouds,64.0,30.22,SSE,250.0,9.943,Houston
+Thursday,"March 19, 2026",12:00 am — 6:00 am,55.0,54.0,Passing clouds,87.0,30.21,S,280.0,5.593,Houston
+Thursday,"March 19, 2026",6:00 am — 12:00 pm,72.0,54.0,Scattered clouds,74.0,30.24,S,270.0,3.728,Houston
+Thursday,"March 19, 2026",12:00 pm — 6:00 pm,79.0,73.0,Passing clouds,50.0,30.19,S,260.0,9.943,Houston
+Thursday,"March 19, 2026",6:00 pm — 12:00 am,73.0,61.0,Clear,74.0,30.16,S,280.0,11.185,Houston
+Friday,"March 20, 2026",12:00 am — 6:00 am,59.0,55.0,Clear,95.0,30.14,S,280.0,3.107,Houston
+Friday,"March 20, 2026",6:00 am — 12:00 pm,73.0,55.0,Scattered clouds,80.0,30.18,SW,310.0,6.214,Houston
+Friday,"March 20, 2026",12:00 pm — 6:00 pm,82.0,79.0,Passing clouds,51.0,30.1,S,260.0,11.807,Houston
+Friday,"March 20, 2026",6:00 pm — 12:00 am,75.0,64.0,Clear,78.0,30.09,S,270.0,11.185,Houston
+Saturday,"March 21, 2026",12:00 am — 6:00 am,66.0,63.0,Passing clouds,93.0,30.05,SSW,290.0,5.593,Houston
+Saturday,"March 21, 2026",6:00 am — 12:00 pm,77.0,66.0,Partly sunny,81.0,30.07,SW,310.0,11.807,Houston
+Saturday,"March 21, 2026",12:00 pm — 6:00 pm,84.0,81.0,Sunny,48.0,30.01,SSW,290.0,14.293,Houston
+Saturday,"March 21, 2026",6:00 pm — 12:00 am,77.0,66.0,Clear,81.0,30.0,S,270.0,11.185,Houston
+Sunday,"March 22, 2026",12:00 am — 6:00 am,66.0,64.0,Passing clouds,94.0,29.96,SSW,290.0,11.185,Houston
+Sunday,"March 22, 2026",6:00 am — 12:00 pm,79.0,66.0,Partly sunny,83.0,29.99,SSW,300.0,11.807,Houston
+Sunday,"March 22, 2026",12:00 pm — 6:00 pm,84.0,81.0,Sunny,46.0,29.96,SSW,300.0,14.914,Houston
+Sunday,"March 22, 2026",6:00 pm — 12:00 am,79.0,66.0,Clear,70.0,29.98,S,280.0,9.943,Houston
+Monday,"March 23, 2026",12:00 am — 6:00 am,64.0,64.0,Clear,96.0,30.01,S,270.0,5.593,Houston
+Monday,"March 23, 2026",6:00 am — 12:00 pm,79.0,63.0,Scattered clouds,84.0,30.09,SW,310.0,3.107,Houston
+Monday,"March 23, 2026",12:00 pm — 6:00 pm,82.0,81.0,Scattered clouds,50.0,30.08,SW,310.0,6.214,Houston
+Monday,"March 23, 2026",6:00 pm — 12:00 am,79.0,70.0,Passing clouds,82.0,30.09,SSE,240.0,9.321,Houston
+Tuesday,"March 24, 2026",12:00 am — 6:00 am,68.0,66.0,Fog,97.0,30.08,S,270.0,4.971,Houston
+Tuesday,"March 24, 2026",6:00 am — 12:00 pm,75.0,66.0,Fog,94.0,30.12,SW,,0.621,Houston
+Tuesday,"March 24, 2026",12:00 pm — 6:00 pm,81.0,79.0,Broken clouds,59.0,30.08,S,270.0,10.564,Houston
+Tuesday,"March 24, 2026",6:00 pm — 12:00 am,75.0,70.0,Passing clouds,85.0,30.07,SSE,250.0,9.943,Houston
+Wednesday,"March 25, 2026",12:00 am — 6:00 am,70.0,66.0,Fog,97.0,30.08,SSE,250.0,4.971,Houston
+Wednesday,"March 25, 2026",6:00 am — 12:00 pm,79.0,64.0,Fog,90.0,30.11,S,270.0,4.971,Houston
+Wednesday,"March 25, 2026",12:00 pm — 6:00 pm,82.0,81.0,Scattered clouds,55.0,30.08,SSE,250.0,14.293,Houston
+Wednesday,"March 25, 2026",6:00 pm — 12:00 am,75.0,70.0,Passing clouds,86.0,30.07,SSE,240.0,10.564,Houston
+Thursday,"March 26, 2026",12:00 am — 6:00 am,68.0,64.0,Fog,98.0,30.06,SE,220.0,4.971,Houston
+Thursday,"March 26, 2026",6:00 am — 12:00 pm,79.0,66.0,Scattered clouds,84.0,30.09,S,280.0,8.7,Houston
+Thursday,"March 26, 2026",12:00 pm — 6:00 pm,82.0,79.0,Scattered clouds,55.0,30.04,SSE,240.0,14.293,Houston
+Thursday,"March 26, 2026",6:00 pm — 12:00 am,75.0,66.0,Passing clouds,77.0,30.03,S,260.0,9.321,Houston
+Friday,"March 27, 2026",12:00 am — 6:00 am,66.0,64.0,Clear,92.0,30.02,S,260.0,6.836,Houston
+Friday,"March 27, 2026",6:00 am — 12:00 pm,79.0,63.0,Scattered clouds,78.0,30.09,SSW,290.0,6.214,Houston
+Friday,"March 27, 2026",12:00 pm — 6:00 pm,84.0,81.0,Scattered clouds,52.0,30.11,WSW,330.0,8.078,Houston
+Friday,"March 27, 2026",6:00 pm — 12:00 am,79.0,70.0,Passing clouds,74.0,30.19,S,280.0,6.214,Houston
+Saturday,"March 28, 2026",12:00 am — 6:00 am,72.0,64.0,Light rain. Passing clouds,73.0,30.28,NE,130.0,14.293,Houston
+Saturday,"March 28, 2026",6:00 am — 12:00 pm,68.0,63.0,Overcast,42.0,30.39,NE,130.0,15.535,Houston
+Saturday,"March 28, 2026",12:00 pm — 6:00 pm,73.0,70.0,Partly sunny,38.0,30.32,N,90.0,3.107,Houston
+Saturday,"March 28, 2026",6:00 pm — 12:00 am,73.0,64.0,Overcast,52.0,30.29,S,270.0,4.971,Houston
+Sunday,"March 29, 2026",12:00 am — 6:00 am,63.0,59.0,Clear,76.0,30.25,S,,0.621,Houston
+Sunday,"March 29, 2026",6:00 am — 12:00 pm,75.0,61.0,Sunny,68.0,30.27,SSE,250.0,4.971,Houston
+Sunday,"March 29, 2026",12:00 pm — 6:00 pm,81.0,79.0,Passing clouds,53.0,30.18,SE,230.0,10.564,Houston
+Sunday,"March 29, 2026",6:00 pm — 12:00 am,75.0,66.0,Passing clouds,79.0,30.17,SSE,240.0,10.564,Houston
+Monday,"March 30, 2026",12:00 am — 6:00 am,66.0,63.0,Fog,93.0,30.14,SE,230.0,6.214,Houston
+Monday,"March 30, 2026",6:00 am — 12:00 pm,81.0,64.0,Scattered clouds,79.0,30.16,SSE,240.0,9.943,Houston
+Monday,"March 30, 2026",12:00 pm — 6:00 pm,82.0,79.0,Scattered clouds,51.0,30.1,SSE,240.0,14.293,Houston
+Monday,"March 30, 2026",6:00 pm — 12:00 am,75.0,70.0,Passing clouds,82.0,30.09,SSE,240.0,11.807,Houston
+Tuesday,"March 31, 2026",12:00 am — 6:00 am,70.0,66.0,Fog,95.0,30.08,SSE,240.0,6.214,Houston
+Tuesday,"March 31, 2026",6:00 am — 12:00 pm,81.0,66.0,Fog,86.0,30.08,SE,230.0,10.564,Houston
+Tuesday,"March 31, 2026",12:00 pm — 6:00 pm,82.0,79.0,Scattered clouds,59.0,30.04,S,260.0,18.642,Houston
+Tuesday,"March 31, 2026",6:00 pm — 12:00 am,79.0,72.0,Passing clouds,84.0,30.01,SSE,240.0,10.564,Houston
+Sunday,"February 1, 2026",12:00 am — 6:00 am,36.0,30.0,Clear,51.0,30.53,ENE,150.0,8.078,Houston
+Sunday,"February 1, 2026",6:00 am — 12:00 pm,45.0,30.0,Sunny,42.0,30.58,E,170.0,8.078,Houston
+Sunday,"February 1, 2026",12:00 pm — 6:00 pm,54.0,46.0,Sunny,34.0,30.46,N,90.0,4.35,Houston
+Sunday,"February 1, 2026",6:00 pm — 12:00 am,46.0,41.0,Clear,76.0,30.44,S,270.0,6.214,Houston
+Monday,"February 2, 2026",12:00 am — 6:00 am,41.0,39.0,Clear,93.0,30.39,S,270.0,1.864,Houston
+Monday,"February 2, 2026",6:00 am — 12:00 pm,66.0,43.0,Scattered clouds,79.0,30.37,SSE,250.0,7.457,Houston
+Monday,"February 2, 2026",12:00 pm — 6:00 pm,70.0,63.0,Partly sunny,57.0,30.25,S,260.0,12.428,Houston
+Monday,"February 2, 2026",6:00 pm — 12:00 am,63.0,61.0,Passing clouds,76.0,30.22,S,260.0,12.428,Houston
+Tuesday,"February 3, 2026",12:00 am — 6:00 am,63.0,61.0,Passing clouds,82.0,30.15,SSE,250.0,10.564,Houston
+Tuesday,"February 3, 2026",6:00 am — 12:00 pm,70.0,63.0,More clouds than sun,83.0,30.17,S,280.0,8.7,Houston
+Tuesday,"February 3, 2026",12:00 pm — 6:00 pm,70.0,68.0,Broken clouds,81.0,30.1,SSW,290.0,12.428,Houston
+Tuesday,"February 3, 2026",6:00 pm — 12:00 am,66.0,63.0,Thunderstorms. Overcast,91.0,30.1,S,280.0,7.457,Houston
+Wednesday,"February 4, 2026",12:00 am — 6:00 am,63.0,52.0,Mostly cloudy,78.0,30.17,N,100.0,13.05,Houston
+Wednesday,"February 4, 2026",6:00 am — 12:00 pm,61.0,50.0,Passing clouds,53.0,30.32,NNE,110.0,14.914,Houston
+Wednesday,"February 4, 2026",12:00 pm — 6:00 pm,64.0,59.0,Scattered clouds,37.0,30.31,NNW,430.0,15.535,Houston
+Wednesday,"February 4, 2026",6:00 pm — 12:00 am,57.0,52.0,Clear,50.0,30.39,NNW,430.0,14.293,Houston
+Thursday,"February 5, 2026",12:00 am — 6:00 am,48.0,43.0,Clear,68.0,30.43,N,90.0,6.836,Houston
+Thursday,"February 5, 2026",6:00 am — 12:00 pm,59.0,43.0,Sunny,57.0,30.43,N,90.0,5.593,Houston
+Thursday,"February 5, 2026",12:00 pm — 6:00 pm,64.0,61.0,Sunny,34.0,30.29,W,350.0,8.078,Houston
+Thursday,"February 5, 2026",6:00 pm — 12:00 am,57.0,50.0,Clear,60.0,30.24,SW,310.0,8.078,Houston
+Friday,"February 6, 2026",12:00 am — 6:00 am,52.0,48.0,Clear,70.0,30.2,WSW,340.0,9.321,Houston
+Friday,"February 6, 2026",6:00 am — 12:00 pm,70.0,48.0,Sunny,40.0,30.2,W,350.0,9.943,Houston
+Friday,"February 6, 2026",12:00 pm — 6:00 pm,79.0,73.0,Sunny,22.0,30.11,W,360.0,6.836,Houston
+Friday,"February 6, 2026",6:00 pm — 12:00 am,72.0,59.0,Clear,42.0,30.15,SW,310.0,6.836,Houston
+Saturday,"February 7, 2026",12:00 am — 6:00 am,57.0,52.0,Clear,57.0,30.18,W,350.0,6.836,Houston
+Saturday,"February 7, 2026",6:00 am — 12:00 pm,70.0,50.0,Passing clouds,48.0,30.25,E,190.0,5.593,Houston
+Saturday,"February 7, 2026",12:00 pm — 6:00 pm,72.0,61.0,Sunny,48.0,30.21,ESE,210.0,13.05,Houston
+Saturday,"February 7, 2026",6:00 pm — 12:00 am,57.0,54.0,Clear,82.0,30.23,ESE,200.0,6.214,Houston
+Sunday,"February 8, 2026",12:00 am — 6:00 am,54.0,52.0,Fog,98.0,30.22,SSE,240.0,1.864,Houston
+Sunday,"February 8, 2026",6:00 am — 12:00 pm,66.0,50.0,Fog,96.0,30.27,S,270.0,3.728,Houston
+Sunday,"February 8, 2026",12:00 pm — 6:00 pm,77.0,70.0,Scattered clouds,62.0,30.19,SSW,290.0,9.943,Houston
+Sunday,"February 8, 2026",6:00 pm — 12:00 am,68.0,61.0,Fog,92.0,30.19,S,280.0,8.078,Houston
+Monday,"February 9, 2026",12:00 am — 6:00 am,61.0,55.0,Fog,100.0,30.17,SSW,290.0,1.243,Houston
+Monday,"February 9, 2026",6:00 am — 12:00 pm,75.0,55.0,Scattered clouds,87.0,30.2,SW,320.0,6.836,Houston
+Monday,"February 9, 2026",12:00 pm — 6:00 pm,79.0,72.0,Partly sunny,56.0,30.11,S,280.0,9.321,Houston
+Monday,"February 9, 2026",6:00 pm — 12:00 am,68.0,64.0,Passing clouds,90.0,30.13,S,260.0,10.564,Houston
+Tuesday,"February 10, 2026",12:00 am — 6:00 am,64.0,63.0,Passing clouds,96.0,30.1,S,260.0,8.078,Houston
+Tuesday,"February 10, 2026",6:00 am — 12:00 pm,73.0,61.0,More clouds than sun,88.0,30.13,SE,230.0,8.078,Houston
+Tuesday,"February 10, 2026",12:00 pm — 6:00 pm,79.0,70.0,Mostly cloudy,67.0,30.07,S,280.0,13.671,Houston
+Tuesday,"February 10, 2026",6:00 pm — 12:00 am,70.0,66.0,Passing clouds,86.0,30.11,SSW,290.0,7.457,Houston
+Wednesday,"February 11, 2026",12:00 am — 6:00 am,66.0,63.0,Passing clouds,95.0,30.13,S,280.0,1.864,Houston
+Wednesday,"February 11, 2026",6:00 am — 12:00 pm,73.0,63.0,Broken clouds,89.0,30.18,NW,400.0,8.078,Houston
+Wednesday,"February 11, 2026",12:00 pm — 6:00 pm,75.0,70.0,Partly sunny,73.0,30.14,NNW,420.0,8.078,Houston
+Wednesday,"February 11, 2026",6:00 pm — 12:00 am,72.0,63.0,Fog,90.0,30.16,S,280.0,4.971,Houston
+Thursday,"February 12, 2026",12:00 am — 6:00 am,63.0,55.0,Fog,95.0,30.15,N,440.0,3.107,Houston
+Thursday,"February 12, 2026",6:00 am — 12:00 pm,75.0,57.0,Passing clouds,69.0,30.19,NE,140.0,2.486,Houston
+Thursday,"February 12, 2026",12:00 pm — 6:00 pm,81.0,72.0,Scattered clouds,54.0,30.09,N,90.0,6.836,Houston
+Thursday,"February 12, 2026",6:00 pm — 12:00 am,70.0,63.0,Fog,91.0,30.1,S,280.0,7.457,Houston
+Friday,"February 13, 2026",12:00 am — 6:00 am,64.0,64.0,Fog,100.0,30.08,SSW,300.0,4.971,Houston
+Friday,"February 13, 2026",6:00 am — 12:00 pm,77.0,64.0,Scattered clouds,89.0,30.12,S,260.0,4.971,Houston
+Friday,"February 13, 2026",12:00 pm — 6:00 pm,77.0,66.0,Scattered clouds,71.0,30.05,ESE,210.0,13.671,Houston
+Friday,"February 13, 2026",6:00 pm — 12:00 am,66.0,63.0,Fog,94.0,30.05,SE,220.0,11.807,Houston
+Saturday,"February 14, 2026",12:00 am — 6:00 am,68.0,64.0,Passing clouds,93.0,29.98,ESE,200.0,8.078,Houston
+Saturday,"February 14, 2026",6:00 am — 12:00 pm,73.0,66.0,Light rain. Cloudy,90.0,29.94,SSE,250.0,12.428,Houston
+Saturday,"February 14, 2026",12:00 pm — 6:00 pm,73.0,72.0,Mostly cloudy,80.0,29.79,S,260.0,21.75,Houston
+Saturday,"February 14, 2026",6:00 pm — 12:00 am,72.0,57.0,Passing clouds,94.0,29.82,N,90.0,9.943,Houston
+Sunday,"February 15, 2026",12:00 am — 6:00 am,57.0,55.0,Passing clouds,98.0,29.84,WSW,330.0,7.457,Houston
+Sunday,"February 15, 2026",6:00 am — 12:00 pm,68.0,57.0,Scattered clouds,79.0,29.95,NW,410.0,16.157,Houston
+Sunday,"February 15, 2026",12:00 pm — 6:00 pm,70.0,66.0,Passing clouds,59.0,29.97,NNW,420.0,13.05,Houston
+Sunday,"February 15, 2026",6:00 pm — 12:00 am,63.0,57.0,Passing clouds,73.0,30.05,NNW,420.0,8.078,Houston
+Monday,"February 16, 2026",12:00 am — 6:00 am,55.0,52.0,Passing clouds,89.0,30.05,NE,140.0,3.728,Houston
+Monday,"February 16, 2026",6:00 am — 12:00 pm,66.0,52.0,Scattered clouds,78.0,30.12,NE,130.0,5.593,Houston
+Monday,"February 16, 2026",12:00 pm — 6:00 pm,72.0,64.0,Passing clouds,62.0,30.06,ESE,210.0,9.943,Houston
+Monday,"February 16, 2026",6:00 pm — 12:00 am,63.0,57.0,Passing clouds,84.0,30.08,SSE,250.0,7.457,Houston
+Tuesday,"February 17, 2026",12:00 am — 6:00 am,55.0,54.0,Passing clouds,96.0,30.04,SE,220.0,6.836,Houston
+Tuesday,"February 17, 2026",6:00 am — 12:00 pm,73.0,55.0,Broken clouds,80.0,30.03,SSE,250.0,9.943,Houston
+Tuesday,"February 17, 2026",12:00 pm — 6:00 pm,79.0,72.0,Partly sunny,62.0,29.94,S,260.0,16.778,Houston
+Tuesday,"February 17, 2026",6:00 pm — 12:00 am,70.0,64.0,Passing clouds,87.0,29.93,SSE,250.0,10.564,Houston
+Wednesday,"February 18, 2026",12:00 am — 6:00 am,64.0,63.0,Overcast,96.0,29.9,S,270.0,1.864,Houston
+Wednesday,"February 18, 2026",6:00 am — 12:00 pm,77.0,64.0,Broken clouds,81.0,29.91,S,280.0,11.185,Houston
+Wednesday,"February 18, 2026",12:00 pm — 6:00 pm,79.0,73.0,Mostly cloudy,64.0,29.8,SSW,290.0,16.778,Houston
+Wednesday,"February 18, 2026",6:00 pm — 12:00 am,73.0,70.0,Mostly cloudy,85.0,29.78,S,280.0,9.943,Houston
+Thursday,"February 19, 2026",12:00 am — 6:00 am,72.0,70.0,Passing clouds,89.0,29.72,SSW,290.0,14.293,Houston
+Thursday,"February 19, 2026",6:00 am — 12:00 pm,79.0,70.0,Partly sunny,75.0,29.76,SSW,300.0,13.05,Houston
+Thursday,"February 19, 2026",12:00 pm — 6:00 pm,81.0,77.0,Broken clouds,60.0,29.69,SSW,290.0,11.185,Houston
+Thursday,"February 19, 2026",6:00 pm — 12:00 am,73.0,70.0,Fog,93.0,29.73,SSE,250.0,6.214,Houston
+Friday,"February 20, 2026",12:00 am — 6:00 am,72.0,70.0,Fog,98.0,29.73,SE,230.0,5.593,Houston
+Friday,"February 20, 2026",6:00 am — 12:00 pm,79.0,72.0,Fog,88.0,29.79,S,260.0,4.971,Houston
+Friday,"February 20, 2026",12:00 pm — 6:00 pm,81.0,75.0,Broken clouds,71.0,29.74,S,260.0,12.428,Houston
+Friday,"February 20, 2026",6:00 pm — 12:00 am,73.0,72.0,Low clouds,92.0,29.79,S,270.0,8.7,Houston
+Saturday,"February 21, 2026",12:00 am — 6:00 am,72.0,70.0,Fog,98.0,29.83,SSW,300.0,5.593,Houston
+Saturday,"February 21, 2026",6:00 am — 12:00 pm,75.0,70.0,Fog,86.0,29.95,NW,400.0,7.457,Houston
+Saturday,"February 21, 2026",12:00 pm — 6:00 pm,81.0,75.0,Passing clouds,44.0,30.02,N,440.0,15.535,Houston
+Saturday,"February 21, 2026",6:00 pm — 12:00 am,70.0,59.0,Passing clouds,38.0,30.23,N,90.0,19.885,Houston
+Sunday,"February 22, 2026",12:00 am — 6:00 am,55.0,48.0,Clear,42.0,30.43,N,100.0,18.021,Houston
+Sunday,"February 22, 2026",6:00 am — 12:00 pm,61.0,48.0,Scattered clouds,34.0,30.56,N,100.0,16.157,Houston
+Sunday,"February 22, 2026",12:00 pm — 6:00 pm,64.0,61.0,Passing clouds,21.0,30.52,N,440.0,14.914,Houston
+Sunday,"February 22, 2026",6:00 pm — 12:00 am,57.0,52.0,Passing clouds,30.0,30.55,N,90.0,9.321,Houston
+Monday,"February 23, 2026",12:00 am — 6:00 am,50.0,46.0,Clear,35.0,30.56,NNE,120.0,11.807,Houston
+Monday,"February 23, 2026",6:00 am — 12:00 pm,57.0,45.0,Passing clouds,26.0,30.6,NE,130.0,10.564,Houston
+Monday,"February 23, 2026",12:00 pm — 6:00 pm,64.0,61.0,Passing clouds,20.0,30.47,N,440.0,6.214,Houston
+Monday,"February 23, 2026",6:00 pm — 12:00 am,61.0,46.0,Clear,43.0,30.41,NNW,430.0,4.971,Houston
+Tuesday,"February 24, 2026",12:00 am — 6:00 am,45.0,39.0,Passing clouds,74.0,30.33,SW,,0.621,Houston
+Tuesday,"February 24, 2026",6:00 am — 12:00 pm,66.0,41.0,Passing clouds,55.0,30.26,S,270.0,8.078,Houston
+Tuesday,"February 24, 2026",12:00 pm — 6:00 pm,70.0,64.0,Partly sunny,43.0,30.07,S,270.0,16.778,Houston
+Tuesday,"February 24, 2026",6:00 pm — 12:00 am,63.0,61.0,Passing clouds,74.0,29.98,S,280.0,11.807,Houston
+Wednesday,"February 25, 2026",12:00 am — 6:00 am,63.0,61.0,Passing clouds,83.0,29.88,S,280.0,9.943,Houston
+Wednesday,"February 25, 2026",6:00 am — 12:00 pm,75.0,63.0,Partly sunny,70.0,29.84,SSW,290.0,19.264,Houston
+Wednesday,"February 25, 2026",12:00 pm — 6:00 pm,79.0,72.0,Partly sunny,59.0,29.74,SSW,290.0,22.992,Houston
+Wednesday,"February 25, 2026",6:00 pm — 12:00 am,72.0,70.0,Passing clouds,78.0,29.74,S,280.0,16.778,Houston
+Thursday,"February 26, 2026",12:00 am — 6:00 am,70.0,70.0,Overcast,81.0,29.75,SSW,300.0,16.778,Houston
+Thursday,"February 26, 2026",6:00 am — 12:00 pm,79.0,70.0,Overcast,75.0,29.8,SW,310.0,14.293,Houston
+Thursday,"February 26, 2026",12:00 pm — 6:00 pm,81.0,73.0,Broken clouds,66.0,29.75,SSW,290.0,13.05,Houston
+Thursday,"February 26, 2026",6:00 pm — 12:00 am,72.0,68.0,Passing clouds,87.0,29.84,SSE,250.0,4.971,Houston
+Friday,"February 27, 2026",12:00 am — 6:00 am,64.0,63.0,Fog,99.0,29.9,N,,0.0,Houston
+Friday,"February 27, 2026",6:00 am — 12:00 pm,81.0,63.0,Fog,92.0,29.98,NE,140.0,5.593,Houston
+Friday,"February 27, 2026",12:00 pm — 6:00 pm,84.0,82.0,Sunny,25.0,29.93,NE,130.0,9.321,Houston
+Friday,"February 27, 2026",6:00 pm — 12:00 am,79.0,63.0,Clear,69.0,29.98,S,270.0,3.107,Houston
+Saturday,"February 28, 2026",12:00 am — 6:00 am,61.0,55.0,Clear,95.0,29.97,SSE,250.0,1.243,Houston
+Saturday,"February 28, 2026",6:00 am — 12:00 pm,72.0,55.0,Fog,94.0,30.03,S,270.0,4.35,Houston
+Saturday,"February 28, 2026",12:00 pm — 6:00 pm,81.0,72.0,Passing clouds,56.0,30.0,SSE,240.0,11.185,Houston
+Saturday,"February 28, 2026",6:00 pm — 12:00 am,66.0,63.0,Fog,92.0,30.04,SE,220.0,7.457,Houston
+Thursday,"January 1, 2026",12:00 am — 6:00 am,46.0,43.0,Clear,73.0,30.17,SW,310.0,4.35,Houston
+Thursday,"January 1, 2026",6:00 am — 12:00 pm,68.0,43.0,Scattered clouds,70.0,30.16,WSW,330.0,4.971,Houston
+Thursday,"January 1, 2026",12:00 pm — 6:00 pm,73.0,66.0,Scattered clouds,51.0,30.03,WSW,330.0,12.428,Houston
+Thursday,"January 1, 2026",6:00 pm — 12:00 am,66.0,63.0,Partly cloudy,81.0,29.97,S,280.0,9.321,Houston
+Friday,"January 2, 2026",12:00 am — 6:00 am,66.0,64.0,Passing clouds,93.0,29.88,SSW,300.0,11.185,Houston
+Friday,"January 2, 2026",6:00 am — 12:00 pm,81.0,66.0,Sunny,72.0,29.85,SW,320.0,15.535,Houston
+Friday,"January 2, 2026",12:00 pm — 6:00 pm,84.0,75.0,Passing clouds,40.0,29.74,SW,320.0,14.914,Houston
+Friday,"January 2, 2026",6:00 pm — 12:00 am,72.0,64.0,Passing clouds,82.0,29.77,SSW,300.0,10.564,Houston
+Saturday,"January 3, 2026",12:00 am — 6:00 am,68.0,64.0,Passing clouds,91.0,29.79,SW,320.0,8.7,Houston
+Saturday,"January 3, 2026",6:00 am — 12:00 pm,77.0,63.0,Sunny,70.0,29.88,W,350.0,9.321,Houston
+Saturday,"January 3, 2026",12:00 pm — 6:00 pm,79.0,66.0,Sunny,50.0,29.92,N,100.0,14.293,Houston
+Saturday,"January 3, 2026",6:00 pm — 12:00 am,64.0,57.0,Clear,74.0,30.05,NNE,110.0,10.564,Houston
+Sunday,"January 4, 2026",12:00 am — 6:00 am,55.0,54.0,Overcast,84.0,30.08,NE,130.0,9.943,Houston
+Sunday,"January 4, 2026",6:00 am — 12:00 pm,63.0,54.0,Overcast,71.0,30.16,E,180.0,8.7,Houston
+Sunday,"January 4, 2026",12:00 pm — 6:00 pm,66.0,61.0,Passing clouds,58.0,30.08,ESE,210.0,6.214,Houston
+Sunday,"January 4, 2026",6:00 pm — 12:00 am,57.0,52.0,Passing clouds,85.0,30.08,SE,220.0,6.836,Houston
+Monday,"January 5, 2026",12:00 am — 6:00 am,52.0,50.0,Passing clouds,94.0,30.03,ESE,210.0,3.107,Houston
+Monday,"January 5, 2026",6:00 am — 12:00 pm,73.0,52.0,Partly sunny,80.0,30.04,SE,220.0,6.836,Houston
+Monday,"January 5, 2026",12:00 pm — 6:00 pm,77.0,70.0,Partly sunny,63.0,29.95,SSE,250.0,13.05,Houston
+Monday,"January 5, 2026",6:00 pm — 12:00 am,68.0,63.0,Passing clouds,90.0,29.97,SSE,240.0,3.728,Houston
+Tuesday,"January 6, 2026",12:00 am — 6:00 am,64.0,61.0,Fog,98.0,29.95,S,280.0,4.971,Houston
+Tuesday,"January 6, 2026",6:00 am — 12:00 pm,75.0,64.0,Fog,93.0,30.0,SW,310.0,6.214,Houston
+Tuesday,"January 6, 2026",12:00 pm — 6:00 pm,81.0,75.0,Broken clouds,63.0,29.92,SSW,290.0,11.185,Houston
+Tuesday,"January 6, 2026",6:00 pm — 12:00 am,72.0,66.0,Fog,93.0,29.96,SSW,300.0,8.7,Houston
+Wednesday,"January 7, 2026",12:00 am — 6:00 am,66.0,66.0,Fog,99.0,29.96,SW,310.0,6.214,Houston
+Wednesday,"January 7, 2026",6:00 am — 12:00 pm,72.0,64.0,Fog,98.0,30.0,SSW,300.0,4.35,Houston
+Wednesday,"January 7, 2026",12:00 pm — 6:00 pm,81.0,73.0,Broken clouds,69.0,29.92,S,260.0,12.428,Houston
+Wednesday,"January 7, 2026",6:00 pm — 12:00 am,72.0,70.0,Passing clouds,92.0,29.91,S,260.0,8.7,Houston
+Thursday,"January 8, 2026",12:00 am — 6:00 am,72.0,70.0,Mostly cloudy,92.0,29.85,SSE,250.0,12.428,Houston
+Thursday,"January 8, 2026",6:00 am — 12:00 pm,79.0,72.0,More clouds than sun,81.0,29.84,S,280.0,18.021,Houston
+Thursday,"January 8, 2026",12:00 pm — 6:00 pm,79.0,73.0,Cloudy,71.0,29.81,S,270.0,17.4,Houston
+Thursday,"January 8, 2026",6:00 pm — 12:00 am,72.0,70.0,Fog,94.0,29.85,S,260.0,8.078,Houston
+Friday,"January 9, 2026",12:00 am — 6:00 am,72.0,70.0,Fog,98.0,29.89,SE,230.0,4.35,Houston
+Friday,"January 9, 2026",6:00 am — 12:00 pm,79.0,72.0,Mostly cloudy,91.0,29.94,S,270.0,8.078,Houston
+Friday,"January 9, 2026",12:00 pm — 6:00 pm,81.0,75.0,Broken clouds,75.0,29.89,S,280.0,13.671,Houston
+Friday,"January 9, 2026",6:00 pm — 12:00 am,73.0,72.0,Fog,92.0,29.95,SSW,300.0,5.593,Houston
+Saturday,"January 10, 2026",12:00 am — 6:00 am,68.0,61.0,Mostly cloudy,88.0,30.03,NNW,430.0,11.807,Houston
+Saturday,"January 10, 2026",6:00 am — 12:00 pm,59.0,54.0,Partly sunny,72.0,30.27,NNW,430.0,19.264,Houston
+Saturday,"January 10, 2026",12:00 pm — 6:00 pm,59.0,54.0,Partly sunny,52.0,30.31,NNW,430.0,19.885,Houston
+Saturday,"January 10, 2026",6:00 pm — 12:00 am,52.0,48.0,Passing clouds,54.0,30.44,N,90.0,13.671,Houston
+Sunday,"January 11, 2026",12:00 am — 6:00 am,48.0,43.0,Passing clouds,52.0,30.49,N,440.0,8.7,Houston
+Sunday,"January 11, 2026",6:00 am — 12:00 pm,61.0,41.0,Scattered clouds,42.0,30.55,N,440.0,9.321,Houston
+Sunday,"January 11, 2026",12:00 pm — 6:00 pm,64.0,59.0,Scattered clouds,23.0,30.47,NNW,430.0,8.078,Houston
+Sunday,"January 11, 2026",6:00 pm — 12:00 am,57.0,50.0,Clear,43.0,30.49,N,90.0,5.593,Houston
+Monday,"January 12, 2026",12:00 am — 6:00 am,50.0,46.0,Passing clouds,60.0,30.46,NNE,120.0,7.457,Houston
+Monday,"January 12, 2026",6:00 am — 12:00 pm,55.0,45.0,Passing clouds,48.0,30.5,NE,140.0,7.457,Houston
+Monday,"January 12, 2026",12:00 pm — 6:00 pm,61.0,55.0,Scattered clouds,28.0,30.39,ESE,210.0,4.971,Houston
+Monday,"January 12, 2026",6:00 pm — 12:00 am,54.0,48.0,Partly cloudy,46.0,30.38,SSW,290.0,2.486,Houston
+Tuesday,"January 13, 2026",12:00 am — 6:00 am,48.0,48.0,Partly cloudy,68.0,30.34,W,360.0,1.243,Houston
+Tuesday,"January 13, 2026",6:00 am — 12:00 pm,57.0,50.0,Overcast,58.0,30.32,WSW,340.0,1.864,Houston
+Tuesday,"January 13, 2026",12:00 pm — 6:00 pm,55.0,52.0,Light rain. Mostly cloudy,62.0,30.2,NW,400.0,4.971,Houston
+Tuesday,"January 13, 2026",6:00 pm — 12:00 am,52.0,48.0,Partly cloudy,77.0,30.13,SSW,300.0,3.107,Houston
+Wednesday,"January 14, 2026",12:00 am — 6:00 am,50.0,46.0,Passing clouds,81.0,30.06,SSW,300.0,6.836,Houston
+Wednesday,"January 14, 2026",6:00 am — 12:00 pm,63.0,48.0,Passing clouds,64.0,30.05,WSW,340.0,12.428,Houston
+Wednesday,"January 14, 2026",12:00 pm — 6:00 pm,70.0,63.0,Passing clouds,32.0,30.02,NNW,430.0,20.507,Houston
+Wednesday,"January 14, 2026",6:00 pm — 12:00 am,61.0,52.0,Passing clouds,43.0,30.16,N,90.0,13.05,Houston
+Thursday,"January 15, 2026",12:00 am — 6:00 am,50.0,43.0,Clear,54.0,30.24,NNW,420.0,8.7,Houston
+Thursday,"January 15, 2026",6:00 am — 12:00 pm,54.0,39.0,Sunny,54.0,30.29,NNW,430.0,7.457,Houston
+Thursday,"January 15, 2026",12:00 pm — 6:00 pm,61.0,55.0,Sunny,28.0,30.13,N,90.0,3.107,Houston
+Thursday,"January 15, 2026",6:00 pm — 12:00 am,54.0,46.0,Clear,64.0,30.08,S,280.0,9.321,Houston
+Friday,"January 16, 2026",12:00 am — 6:00 am,48.0,46.0,Clear,83.0,29.99,S,280.0,8.078,Houston
+Friday,"January 16, 2026",6:00 am — 12:00 pm,73.0,48.0,Passing clouds,69.0,29.98,S,280.0,8.7,Houston
+Friday,"January 16, 2026",12:00 pm — 6:00 pm,75.0,68.0,Scattered clouds,45.0,29.91,SSW,300.0,13.05,Houston
+Friday,"January 16, 2026",6:00 pm — 12:00 am,66.0,59.0,Passing clouds,47.0,30.03,N,90.0,13.671,Houston
+Saturday,"January 17, 2026",12:00 am — 6:00 am,57.0,54.0,Passing clouds,28.0,30.14,N,100.0,16.157,Houston
+Saturday,"January 17, 2026",6:00 am — 12:00 pm,55.0,54.0,Partly sunny,22.0,30.23,N,100.0,14.293,Houston
+Saturday,"January 17, 2026",12:00 pm — 6:00 pm,57.0,52.0,Scattered clouds,23.0,30.24,N,100.0,18.021,Houston
+Saturday,"January 17, 2026",6:00 pm — 12:00 am,52.0,43.0,Overcast,30.0,30.4,N,90.0,14.914,Houston
+Sunday,"January 18, 2026",12:00 am — 6:00 am,39.0,34.0,Clear,38.0,30.42,NNW,420.0,5.593,Houston
+Sunday,"January 18, 2026",6:00 am — 12:00 pm,50.0,34.0,Sunny,36.0,30.44,NW,400.0,8.078,Houston
+Sunday,"January 18, 2026",12:00 pm — 6:00 pm,55.0,54.0,Sunny,23.0,30.28,NW,400.0,6.214,Houston
+Sunday,"January 18, 2026",6:00 pm — 12:00 am,48.0,43.0,Clear,48.0,30.28,S,270.0,5.593,Houston
+Monday,"January 19, 2026",12:00 am — 6:00 am,39.0,36.0,Clear,69.0,30.28,N,,0.0,Houston
+Monday,"January 19, 2026",6:00 am — 12:00 pm,64.0,37.0,Passing clouds,52.0,30.33,SSW,300.0,1.864,Houston
+Monday,"January 19, 2026",12:00 pm — 6:00 pm,66.0,59.0,Passing clouds,28.0,30.27,SE,230.0,11.185,Houston
+Monday,"January 19, 2026",6:00 pm — 12:00 am,57.0,48.0,Passing clouds,61.0,30.33,SE,220.0,6.214,Houston
+Tuesday,"January 20, 2026",12:00 am — 6:00 am,50.0,48.0,Passing clouds,81.0,30.36,E,170.0,5.593,Houston
+Tuesday,"January 20, 2026",6:00 am — 12:00 pm,64.0,52.0,Broken clouds,66.0,30.39,ESE,200.0,9.943,Houston
+Tuesday,"January 20, 2026",12:00 pm — 6:00 pm,64.0,59.0,Overcast,62.0,30.32,ESE,200.0,11.185,Houston
+Tuesday,"January 20, 2026",6:00 pm — 12:00 am,59.0,57.0,Mostly cloudy,85.0,30.27,ESE,210.0,11.807,Houston
+Wednesday,"January 21, 2026",12:00 am — 6:00 am,63.0,61.0,Overcast,90.0,30.18,ESE,200.0,9.321,Houston
+Wednesday,"January 21, 2026",6:00 am — 12:00 pm,64.0,63.0,Mostly cloudy,87.0,30.16,SSE,250.0,6.214,Houston
+Wednesday,"January 21, 2026",12:00 pm — 6:00 pm,68.0,66.0,Mostly cloudy,93.0,30.08,E,180.0,2.486,Houston
+Wednesday,"January 21, 2026",6:00 pm — 12:00 am,66.0,64.0,Mostly cloudy,98.0,30.11,SSE,250.0,1.864,Houston
+Thursday,"January 22, 2026",12:00 am — 6:00 am,64.0,61.0,Fog,99.0,30.11,N,100.0,6.214,Houston
+Thursday,"January 22, 2026",6:00 am — 12:00 pm,64.0,61.0,Fog,92.0,30.14,NNE,110.0,6.836,Houston
+Thursday,"January 22, 2026",12:00 pm — 6:00 pm,66.0,63.0,Fog,89.0,30.08,ESE,200.0,6.836,Houston
+Thursday,"January 22, 2026",6:00 pm — 12:00 am,64.0,61.0,Low clouds,95.0,30.09,ESE,210.0,9.943,Houston
+Friday,"January 23, 2026",12:00 am — 6:00 am,61.0,61.0,Fog,98.0,30.06,ESE,200.0,8.078,Houston
+Friday,"January 23, 2026",6:00 am — 12:00 pm,63.0,61.0,Fog,97.0,30.12,E,190.0,10.564,Houston
+Friday,"January 23, 2026",12:00 pm — 6:00 pm,64.0,63.0,Overcast,87.0,30.06,ESE,200.0,11.807,Houston
+Friday,"January 23, 2026",6:00 pm — 12:00 am,63.0,61.0,Low clouds,90.0,30.08,E,190.0,13.05,Houston
+Saturday,"January 24, 2026",12:00 am — 6:00 am,61.0,57.0,Fog,93.0,29.98,E,170.0,18.021,Houston
+Saturday,"January 24, 2026",6:00 am — 12:00 pm,55.0,45.0,Light rain. Mostly cloudy,93.0,30.03,N,100.0,13.671,Houston
+Saturday,"January 24, 2026",12:00 pm — 6:00 pm,45.0,39.0,Light rain. Fog,92.0,29.97,N,100.0,11.807,Houston
+Saturday,"January 24, 2026",6:00 pm — 12:00 am,39.0,36.0,Light rain. Mostly cloudy,95.0,29.96,N,90.0,12.428,Houston
+Sunday,"January 25, 2026",12:00 am — 6:00 am,36.0,34.0,Light rain. Fog,91.0,29.97,NW,410.0,13.671,Houston
+Sunday,"January 25, 2026",6:00 am — 12:00 pm,34.0,30.0,Overcast,88.0,30.09,NNW,430.0,14.914,Houston
+Sunday,"January 25, 2026",12:00 pm — 6:00 pm,32.0,28.0,Overcast,80.0,30.17,NNW,430.0,16.778,Houston
+Sunday,"January 25, 2026",6:00 pm — 12:00 am,27.0,25.0,Overcast,77.0,30.36,N,440.0,19.264,Houston
+Monday,"January 26, 2026",12:00 am — 6:00 am,27.0,25.0,Low clouds,76.0,30.45,N,440.0,16.157,Houston
+Monday,"January 26, 2026",6:00 am — 12:00 pm,30.0,27.0,Overcast,74.0,30.63,N,440.0,12.428,Houston
+Monday,"January 26, 2026",12:00 pm — 6:00 pm,39.0,34.0,Sunny,53.0,30.63,N,440.0,11.807,Houston
+Monday,"January 26, 2026",6:00 pm — 12:00 am,36.0,28.0,Passing clouds,72.0,30.66,N,90.0,8.078,Houston
+Tuesday,"January 27, 2026",12:00 am — 6:00 am,28.0,27.0,Passing clouds,86.0,30.64,N,90.0,2.486,Houston
+Tuesday,"January 27, 2026",6:00 am — 12:00 pm,43.0,28.0,Passing clouds,71.0,30.6,E,190.0,2.486,Houston
+Tuesday,"January 27, 2026",12:00 pm — 6:00 pm,52.0,46.0,Partly sunny,49.0,30.46,WSW,330.0,6.836,Houston
+Tuesday,"January 27, 2026",6:00 pm — 12:00 am,45.0,37.0,Passing clouds,84.0,30.44,SE,230.0,3.728,Houston
+Wednesday,"January 28, 2026",12:00 am — 6:00 am,37.0,36.0,Passing clouds,95.0,30.43,N,440.0,3.728,Houston
+Wednesday,"January 28, 2026",6:00 am — 12:00 pm,55.0,36.0,Passing clouds,81.0,30.47,N,100.0,3.107,Houston
+Wednesday,"January 28, 2026",12:00 pm — 6:00 pm,59.0,57.0,Passing clouds,37.0,30.37,N,90.0,2.486,Houston
+Wednesday,"January 28, 2026",6:00 pm — 12:00 am,52.0,43.0,Clear,70.0,30.34,S,280.0,4.35,Houston
+Thursday,"January 29, 2026",12:00 am — 6:00 am,43.0,37.0,Clear,87.0,30.24,S,280.0,1.864,Houston
+Thursday,"January 29, 2026",6:00 am — 12:00 pm,63.0,37.0,Scattered clouds,70.0,30.2,SSE,250.0,6.836,Houston
+Thursday,"January 29, 2026",12:00 pm — 6:00 pm,70.0,64.0,Scattered clouds,44.0,30.07,SSW,300.0,8.078,Houston
+Thursday,"January 29, 2026",6:00 pm — 12:00 am,61.0,54.0,Passing clouds,78.0,30.11,S,270.0,6.836,Houston
+Friday,"January 30, 2026",12:00 am — 6:00 am,54.0,43.0,Passing clouds,58.0,30.21,NNW,430.0,15.535,Houston
+Friday,"January 30, 2026",6:00 am — 12:00 pm,50.0,41.0,Mostly cloudy,58.0,30.3,NNW,430.0,15.535,Houston
+Friday,"January 30, 2026",12:00 pm — 6:00 pm,54.0,52.0,Overcast,41.0,30.28,NNW,420.0,14.914,Houston
+Friday,"January 30, 2026",6:00 pm — 12:00 am,52.0,43.0,Passing clouds,52.0,30.35,NNW,420.0,9.943,Houston
+Saturday,"January 31, 2026",12:00 am — 6:00 am,43.0,37.0,Clear,60.0,30.41,N,90.0,11.807,Houston
+Saturday,"January 31, 2026",6:00 am — 12:00 pm,43.0,37.0,Sunny,44.0,30.55,N,90.0,16.778,Houston
+Saturday,"January 31, 2026",12:00 pm — 6:00 pm,48.0,45.0,Sunny,26.0,30.49,NNE,120.0,14.914,Houston
+Saturday,"January 31, 2026",6:00 pm — 12:00 am,43.0,36.0,Clear,36.0,30.54,NNE,110.0,6.214,Houston
+Friday,"May 1, 2026",12:00 am — 6:00 am,54.0,46.0,Clear,56.0,29.86,N,90.0,3.107,New York
+Friday,"May 1, 2026",6:00 am — 12:00 pm,57.0,46.0,Sunny,48.0,29.91,N,90.0,1.864,New York
+Friday,"May 1, 2026",12:00 pm — 6:00 pm,64.0,57.0,Sunny,37.0,29.85,N,90.0,4.35,New York
+Friday,"May 1, 2026",6:00 pm — 12:00 am,55.0,54.0,Passing clouds,63.0,29.86,S,270.0,1.864,New York
+Saturday,"May 2, 2026",12:00 am — 6:00 am,55.0,50.0,Passing clouds,67.0,29.86,N,90.0,3.728,New York
+Saturday,"May 2, 2026",6:00 am — 12:00 pm,54.0,48.0,More clouds than sun,76.0,29.89,WNW,390.0,3.728,New York
+Saturday,"May 2, 2026",12:00 pm — 6:00 pm,61.0,55.0,Partly sunny,37.0,29.84,WNW,390.0,2.486,New York
+Saturday,"May 2, 2026",6:00 pm — 12:00 am,59.0,54.0,Overcast,31.0,29.85,N,90.0,3.107,New York
+Sunday,"May 3, 2026",12:00 am — 6:00 am,52.0,46.0,Overcast,45.0,29.84,N,90.0,2.486,New York
+Sunday,"May 3, 2026",6:00 am — 12:00 pm,55.0,45.0,Overcast,41.0,29.88,WNW,390.0,6.836,New York
+Sunday,"May 3, 2026",12:00 pm — 6:00 pm,59.0,54.0,Partly sunny,28.0,29.86,W,360.0,7.457,New York
+Sunday,"May 3, 2026",6:00 pm — 12:00 am,59.0,54.0,Clear,30.0,29.87,N,90.0,4.35,New York
+Monday,"May 4, 2026",12:00 am — 6:00 am,54.0,52.0,Clear,42.0,29.92,N,90.0,4.35,New York
+Monday,"May 4, 2026",6:00 am — 12:00 pm,66.0,52.0,Sunny,43.0,29.92,N,90.0,4.35,New York
+Monday,"May 4, 2026",12:00 pm — 6:00 pm,72.0,68.0,Sunny,31.0,29.82,N,90.0,1.864,New York
+Monday,"May 4, 2026",6:00 pm — 12:00 am,66.0,63.0,Clear,49.0,29.83,N,90.0,3.728,New York
+Tuesday,"May 5, 2026",12:00 am — 6:00 am,63.0,59.0,Clear,61.0,29.82,N,90.0,1.243,New York
+Tuesday,"May 5, 2026",6:00 am — 12:00 pm,75.0,61.0,Sunny,54.0,29.85,N,90.0,2.486,New York
+Tuesday,"May 5, 2026",12:00 pm — 6:00 pm,81.0,79.0,Sunny,37.0,29.77,N,90.0,3.728,New York
+Tuesday,"May 5, 2026",6:00 pm — 12:00 am,75.0,66.0,Clear,51.0,29.81,N,90.0,2.486,New York
+Wednesday,"May 6, 2026",12:00 am — 6:00 am,66.0,63.0,Clear,71.0,29.82,N,90.0,3.107,New York
+Wednesday,"May 6, 2026",6:00 am — 12:00 pm,72.0,63.0,Sunny,67.0,29.8,N,90.0,3.107,New York
+Wednesday,"May 6, 2026",12:00 pm — 6:00 pm,64.0,63.0,Light rain. Fog,91.0,29.75,N,90.0,3.728,New York
+Wednesday,"May 6, 2026",6:00 pm — 12:00 am,64.0,55.0,Overcast,89.0,29.78,N,90.0,4.35,New York
+Thursday,"May 7, 2026",12:00 am — 6:00 am,55.0,48.0,Light rain. Mostly cloudy,90.0,29.8,N,90.0,5.593,New York
+Thursday,"May 7, 2026",6:00 am — 12:00 pm,61.0,48.0,Passing clouds,57.0,29.85,N,90.0,2.486,New York
+Thursday,"May 7, 2026",12:00 pm — 6:00 pm,63.0,61.0,Passing clouds,29.0,29.78,N,90.0,4.35,New York
+Thursday,"May 7, 2026",6:00 pm — 12:00 am,63.0,55.0,Clear,34.0,29.78,N,90.0,3.107,New York
+Friday,"May 8, 2026",12:00 am — 6:00 am,54.0,46.0,Mostly cloudy,61.0,29.85,N,90.0,4.35,New York
+Friday,"May 8, 2026",6:00 am — 12:00 pm,57.0,48.0,Sunny,53.0,29.9,N,90.0,3.728,New York
+Friday,"May 8, 2026",12:00 pm — 6:00 pm,61.0,57.0,Partly sunny,41.0,29.87,N,90.0,4.971,New York
+Friday,"May 8, 2026",6:00 pm — 12:00 am,59.0,55.0,Passing clouds,55.0,29.89,N,90.0,1.243,New York
+Saturday,"May 9, 2026",12:00 am — 6:00 am,55.0,54.0,Mostly cloudy,67.0,29.89,NE,130.0,3.107,New York
+Saturday,"May 9, 2026",6:00 am — 12:00 pm,63.0,54.0,Overcast,70.0,29.89,N,90.0,3.728,New York
+Saturday,"May 9, 2026",12:00 pm — 6:00 pm,64.0,55.0,Light rain. Fog,89.0,29.87,NE,140.0,2.486,New York
+Saturday,"May 9, 2026",6:00 pm — 12:00 am,55.0,54.0,Fog,97.0,29.87,NE,140.0,1.864,New York
+Sunday,"May 10, 2026",12:00 am — 6:00 am,54.0,52.0,Fog,97.0,29.88,NE,130.0,2.486,New York
+Sunday,"May 10, 2026",6:00 am — 12:00 pm,64.0,54.0,Fog,92.0,29.93,ESE,200.0,1.864,New York
+Sunday,"May 10, 2026",12:00 pm — 6:00 pm,72.0,64.0,Scattered clouds,64.0,29.91,N,90.0,1.864,New York
+Sunday,"May 10, 2026",6:00 pm — 12:00 am,64.0,63.0,Overcast,73.0,29.96,N,90.0,2.486,New York
+Monday,"May 11, 2026",12:00 am — 6:00 am,61.0,54.0,Overcast,44.0,30.06,N,90.0,6.836,New York
+Monday,"May 11, 2026",6:00 am — 12:00 pm,57.0,54.0,Passing clouds,32.0,30.13,N,90.0,8.7,New York
+Monday,"May 11, 2026",12:00 pm — 6:00 pm,61.0,57.0,Sunny,32.0,30.07,N,90.0,2.486,New York
+Monday,"May 11, 2026",6:00 pm — 12:00 am,59.0,55.0,Sunny,37.0,30.06,SW,320.0,1.864,New York
+Tuesday,"May 12, 2026",12:00 am — 6:00 am,55.0,46.0,Passing clouds,51.0,30.14,N,90.0,6.214,New York
+Tuesday,"May 12, 2026",6:00 am — 12:00 pm,61.0,46.0,Sunny,43.0,30.19,N,90.0,3.107,New York
+Tuesday,"May 12, 2026",12:00 pm — 6:00 pm,64.0,61.0,Sunny,27.0,30.1,N,90.0,2.486,New York
+Tuesday,"May 12, 2026",6:00 pm — 12:00 am,57.0,54.0,Clear,55.0,30.09,N,90.0,3.728,New York
+Wednesday,"May 13, 2026",12:00 am — 6:00 am,55.0,54.0,Passing clouds,66.0,30.04,N,90.0,3.728,New York
+Wednesday,"May 13, 2026",6:00 am — 12:00 pm,68.0,55.0,Overcast,60.0,29.97,N,90.0,3.107,New York
+Wednesday,"May 13, 2026",12:00 pm — 6:00 pm,72.0,66.0,Scattered clouds,44.0,29.85,N,90.0,3.728,New York
+Wednesday,"May 13, 2026",6:00 pm — 12:00 am,64.0,57.0,Partly cloudy,64.0,29.82,N,90.0,3.728,New York
+Thursday,"May 14, 2026",12:00 am — 6:00 am,57.0,55.0,Mostly cloudy,88.0,29.76,N,90.0,1.864,New York
+Thursday,"May 14, 2026",6:00 am — 12:00 pm,61.0,55.0,Broken clouds,78.0,29.76,WNW,380.0,4.971,New York
+Thursday,"May 14, 2026",12:00 pm — 6:00 pm,64.0,61.0,Mostly cloudy,50.0,29.71,N,90.0,3.107,New York
+Thursday,"May 14, 2026",6:00 pm — 12:00 am,61.0,55.0,Mostly cloudy,51.0,29.76,N,90.0,4.971,New York
+Friday,"May 15, 2026",12:00 am — 6:00 am,54.0,52.0,Overcast,69.0,29.78,N,90.0,4.35,New York
+Friday,"May 15, 2026",6:00 am — 12:00 pm,61.0,54.0,Overcast,61.0,29.85,N,90.0,5.593,New York
+Friday,"May 15, 2026",12:00 pm — 6:00 pm,66.0,61.0,Overcast,52.0,29.89,WNW,390.0,4.971,New York
+Friday,"May 15, 2026",6:00 pm — 12:00 am,64.0,59.0,Clear,56.0,29.99,N,90.0,2.486,New York
+Saturday,"May 16, 2026",12:00 am — 6:00 am,57.0,55.0,Clear,72.0,30.06,W,,0.621,New York
+Saturday,"May 16, 2026",6:00 am — 12:00 pm,73.0,57.0,Sunny,54.0,30.1,S,260.0,1.864,New York
+Saturday,"May 16, 2026",12:00 pm — 6:00 pm,79.0,75.0,Sunny,37.0,29.97,N,90.0,2.486,New York
+Saturday,"May 16, 2026",6:00 pm — 12:00 am,79.0,72.0,Passing clouds,40.0,29.92,N,90.0,3.728,New York
+Sunday,"May 17, 2026",12:00 am — 6:00 am,70.0,66.0,Clear,58.0,29.94,N,90.0,3.728,New York
+Sunday,"May 17, 2026",6:00 am — 12:00 pm,81.0,66.0,Sunny,61.0,30.03,W,360.0,3.728,New York
+Sunday,"May 17, 2026",12:00 pm — 6:00 pm,86.0,82.0,Sunny,38.0,30.02,N,90.0,2.486,New York
+Sunday,"May 17, 2026",6:00 pm — 12:00 am,82.0,79.0,Clear,47.0,30.06,S,280.0,4.971,New York
+Monday,"May 18, 2026",12:00 am — 6:00 am,75.0,72.0,Clear,67.0,30.11,N,90.0,3.728,New York
+Monday,"May 18, 2026",6:00 am — 12:00 pm,88.0,72.0,Sunny,59.0,30.16,ENE,150.0,1.864,New York
+Monday,"May 18, 2026",12:00 pm — 6:00 pm,88.0,81.0,Sunny,49.0,30.11,N,90.0,4.35,New York
+Monday,"May 18, 2026",6:00 pm — 12:00 am,79.0,77.0,Clear,60.0,30.09,N,90.0,3.728,New York
+Tuesday,"May 19, 2026",12:00 am — 6:00 am,77.0,73.0,Clear,69.0,30.09,N,90.0,4.35,New York
+Tuesday,"May 19, 2026",6:00 am — 12:00 pm,88.0,73.0,Sunny,66.0,30.06,N,90.0,4.35,New York
+Tuesday,"May 19, 2026",12:00 pm — 6:00 pm,91.0,90.0,Sunny,41.0,29.98,N,90.0,3.107,New York
+Tuesday,"May 19, 2026",6:00 pm — 12:00 am,91.0,84.0,Clear,43.0,29.97,W,350.0,3.107,New York
+Wednesday,"May 20, 2026",12:00 am — 6:00 am,82.0,77.0,Clear,58.0,29.96,N,90.0,4.35,New York
+Wednesday,"May 20, 2026",6:00 am — 12:00 pm,90.0,77.0,Sunny,55.0,29.95,N,90.0,6.836,New York
+Wednesday,"May 20, 2026",12:00 pm — 6:00 pm,91.0,88.0,Passing clouds,42.0,29.9,N,90.0,3.728,New York
+Wednesday,"May 20, 2026",6:00 pm — 12:00 am,82.0,66.0,Clear,75.0,29.99,WNW,390.0,3.107,New York
+Thursday,"May 21, 2026",12:00 am — 6:00 am,66.0,63.0,Passing clouds,61.0,30.08,N,90.0,3.728,New York
+Thursday,"May 21, 2026",6:00 am — 12:00 pm,63.0,55.0,Partly sunny,71.0,30.2,N,90.0,4.971,New York
+Thursday,"May 21, 2026",12:00 pm — 6:00 pm,59.0,55.0,Light rain. Overcast,90.0,30.23,N,90.0,2.486,New York
+Thursday,"May 21, 2026",6:00 pm — 12:00 am,61.0,59.0,Passing clouds,73.0,30.25,N,90.0,1.243,New York
+Friday,"May 22, 2026",12:00 am — 6:00 am,59.0,57.0,Clear,55.0,30.28,ENE,150.0,6.214,New York
+Friday,"May 22, 2026",6:00 am — 12:00 pm,61.0,55.0,Passing clouds,47.0,30.37,E,170.0,10.564,New York
+Friday,"May 22, 2026",12:00 pm — 6:00 pm,68.0,63.0,Sunny,38.0,30.35,N,90.0,6.836,New York
+Friday,"May 22, 2026",6:00 pm — 12:00 am,61.0,57.0,Sunny,48.0,30.38,N,90.0,4.971,New York
+Saturday,"May 23, 2026",12:00 am — 6:00 am,57.0,54.0,Passing clouds,60.0,30.39,ENE,150.0,5.593,New York
+Saturday,"May 23, 2026",6:00 am — 12:00 pm,55.0,54.0,Overcast,75.0,30.45,N,90.0,6.836,New York
+Saturday,"May 23, 2026",12:00 pm — 6:00 pm,55.0,50.0,Light rain. Fog,89.0,30.48,ENE,160.0,6.836,New York
+Saturday,"May 23, 2026",6:00 pm — 12:00 am,50.0,48.0,Light rain. Fog,97.0,30.47,N,90.0,5.593,New York
+Sunday,"May 24, 2026",12:00 am — 6:00 am,52.0,52.0,Light rain. Fog,96.0,30.4,N,90.0,5.593,New York
+Sunday,"May 24, 2026",6:00 am — 12:00 pm,54.0,52.0,Light rain. Fog,98.0,30.38,ENE,150.0,5.593,New York
+Sunday,"May 24, 2026",12:00 pm — 6:00 pm,55.0,54.0,Fog,99.0,30.29,ENE,160.0,8.7,New York
+Sunday,"May 24, 2026",6:00 pm — 12:00 am,55.0,55.0,Low clouds,97.0,30.21,ENE,150.0,8.078,New York
+Monday,"May 25, 2026",12:00 am — 6:00 am,55.0,55.0,Fog,99.0,30.13,ENE,150.0,3.728,New York
+Monday,"May 25, 2026",6:00 am — 12:00 pm,61.0,55.0,Light rain. Fog,99.0,30.11,W,360.0,2.486,New York
+Monday,"May 25, 2026",12:00 pm — 6:00 pm,73.0,61.0,Passing clouds,85.0,30.07,N,90.0,1.864,New York
+Monday,"May 25, 2026",6:00 pm — 12:00 am,72.0,70.0,Scattered clouds,78.0,30.04,N,90.0,1.864,New York
+Wednesday,"April 1, 2026",12:00 am — 6:00 am,72.0,70.0,Clear,58.0,29.88,SSW,300.0,6.214,New York
+Wednesday,"April 1, 2026",6:00 am — 12:00 pm,75.0,70.0,Sunny,55.0,29.98,N,90.0,4.971,New York
+Wednesday,"April 1, 2026",12:00 pm — 6:00 pm,79.0,72.0,Broken clouds,51.0,30.04,N,90.0,4.971,New York
+Wednesday,"April 1, 2026",6:00 pm — 12:00 am,66.0,55.0,Passing clouds,68.0,30.2,N,90.0,9.943,New York
+Thursday,"April 2, 2026",12:00 am — 6:00 am,54.0,45.0,Mostly cloudy,89.0,30.31,ENE,150.0,11.807,New York
+Thursday,"April 2, 2026",6:00 am — 12:00 pm,45.0,43.0,Overcast,88.0,30.42,E,180.0,9.943,New York
+Thursday,"April 2, 2026",12:00 pm — 6:00 pm,45.0,43.0,Overcast,84.0,30.45,ENE,160.0,8.078,New York
+Thursday,"April 2, 2026",6:00 pm — 12:00 am,43.0,41.0,Fog,91.0,30.45,ENE,160.0,8.7,New York
+Friday,"April 3, 2026",12:00 am — 6:00 am,41.0,41.0,Fog,96.0,30.39,ENE,150.0,5.593,New York
+Friday,"April 3, 2026",6:00 am — 12:00 pm,52.0,41.0,Fog,93.0,30.31,N,90.0,2.486,New York
+Friday,"April 3, 2026",12:00 pm — 6:00 pm,64.0,52.0,Overcast,74.0,30.21,N,90.0,3.728,New York
+Friday,"April 3, 2026",6:00 pm — 12:00 am,64.0,63.0,Clear,75.0,30.11,N,90.0,2.486,New York
+Saturday,"April 4, 2026",12:00 am — 6:00 am,64.0,61.0,Passing clouds,81.0,30.09,WNW,390.0,3.107,New York
+Saturday,"April 4, 2026",6:00 am — 12:00 pm,66.0,63.0,Sunny,71.0,30.17,N,90.0,5.593,New York
+Saturday,"April 4, 2026",12:00 pm — 6:00 pm,72.0,54.0,Sunny,56.0,30.21,E,180.0,6.836,New York
+Saturday,"April 4, 2026",6:00 pm — 12:00 am,52.0,43.0,Overcast,74.0,30.23,E,190.0,8.7,New York
+Sunday,"April 5, 2026",12:00 am — 6:00 am,43.0,43.0,Fog,96.0,30.06,ENE,150.0,5.593,New York
+Sunday,"April 5, 2026",6:00 am — 12:00 pm,52.0,45.0,Fog,96.0,29.88,ENE,150.0,2.486,New York
+Sunday,"April 5, 2026",12:00 pm — 6:00 pm,57.0,50.0,Light rain. Overcast,92.0,29.81,N,90.0,3.107,New York
+Sunday,"April 5, 2026",6:00 pm — 12:00 am,55.0,48.0,Mostly cloudy,69.0,29.88,WNW,390.0,4.971,New York
+Monday,"April 6, 2026",12:00 am — 6:00 am,48.0,43.0,Overcast,50.0,29.94,W,370.0,7.457,New York
+Monday,"April 6, 2026",6:00 am — 12:00 pm,48.0,41.0,Sunny,44.0,30.03,WNW,390.0,8.078,New York
+Monday,"April 6, 2026",12:00 pm — 6:00 pm,55.0,50.0,Sunny,29.0,30.01,WNW,390.0,7.457,New York
+Monday,"April 6, 2026",6:00 pm — 12:00 am,54.0,48.0,Overcast,39.0,30.07,N,90.0,4.35,New York
+Tuesday,"April 7, 2026",12:00 am — 6:00 am,50.0,46.0,Overcast,53.0,30.08,N,90.0,2.486,New York
+Tuesday,"April 7, 2026",6:00 am — 12:00 pm,52.0,48.0,Overcast,46.0,30.12,W,370.0,6.214,New York
+Tuesday,"April 7, 2026",12:00 pm — 6:00 pm,54.0,46.0,Sunny,24.0,30.21,NW,400.0,13.05,New York
+Tuesday,"April 7, 2026",6:00 pm — 12:00 am,43.0,34.0,Clear,36.0,30.42,NW,400.0,5.593,New York
+Wednesday,"April 8, 2026",12:00 am — 6:00 am,34.0,30.0,Clear,47.0,30.52,N,90.0,3.728,New York
+Wednesday,"April 8, 2026",6:00 am — 12:00 pm,43.0,30.0,Sunny,42.0,30.61,NE,130.0,9.943,New York
+Wednesday,"April 8, 2026",12:00 pm — 6:00 pm,50.0,43.0,Sunny,26.0,30.58,N,90.0,5.593,New York
+Wednesday,"April 8, 2026",6:00 pm — 12:00 am,41.0,37.0,Clear,58.0,30.59,N,90.0,2.486,New York
+Thursday,"April 9, 2026",12:00 am — 6:00 am,39.0,36.0,Clear,73.0,30.59,WNW,390.0,1.243,New York
+Thursday,"April 9, 2026",6:00 am — 12:00 pm,48.0,36.0,Sunny,63.0,30.6,N,90.0,4.35,New York
+Thursday,"April 9, 2026",12:00 pm — 6:00 pm,50.0,46.0,Sunny,55.0,30.53,SSE,250.0,6.214,New York
+Thursday,"April 9, 2026",6:00 pm — 12:00 am,45.0,43.0,Passing clouds,79.0,30.48,N,90.0,3.728,New York
+Friday,"April 10, 2026",12:00 am — 6:00 am,43.0,39.0,Clear,86.0,30.41,W,370.0,1.243,New York
+Friday,"April 10, 2026",6:00 am — 12:00 pm,55.0,41.0,Sunny,71.0,30.36,N,90.0,3.107,New York
+Friday,"April 10, 2026",12:00 pm — 6:00 pm,63.0,52.0,Sunny,50.0,30.22,N,90.0,6.214,New York
+Friday,"April 10, 2026",6:00 pm — 12:00 am,55.0,50.0,Clear,70.0,30.13,N,90.0,1.864,New York
+Saturday,"April 11, 2026",12:00 am — 6:00 am,59.0,55.0,Passing clouds,62.0,30.09,N,90.0,4.35,New York
+Saturday,"April 11, 2026",6:00 am — 12:00 pm,57.0,52.0,Sunny,50.0,30.22,N,90.0,5.593,New York
+Saturday,"April 11, 2026",12:00 pm — 6:00 pm,63.0,61.0,Sunny,27.0,30.24,N,90.0,1.243,New York
+Saturday,"April 11, 2026",6:00 pm — 12:00 am,61.0,52.0,Clear,30.0,30.34,NW,400.0,6.214,New York
+Sunday,"April 12, 2026",12:00 am — 6:00 am,48.0,45.0,Clear,46.0,30.44,NNE,120.0,6.836,New York
+Sunday,"April 12, 2026",6:00 am — 12:00 pm,54.0,45.0,Sunny,42.0,30.52,ENE,150.0,6.836,New York
+Sunday,"April 12, 2026",12:00 pm — 6:00 pm,54.0,48.0,Sunny,40.0,30.44,SSE,250.0,4.971,New York
+Sunday,"April 12, 2026",6:00 pm — 12:00 am,48.0,46.0,Clear,70.0,30.35,N,90.0,4.35,New York
+Monday,"April 13, 2026",12:00 am — 6:00 am,52.0,50.0,Clear,71.0,30.22,N,90.0,1.243,New York
+Monday,"April 13, 2026",6:00 am — 12:00 pm,68.0,52.0,Overcast,76.0,30.11,N,90.0,2.486,New York
+Monday,"April 13, 2026",12:00 pm — 6:00 pm,79.0,72.0,Sunny,50.0,29.94,N,90.0,3.728,New York
+Monday,"April 13, 2026",6:00 pm — 12:00 am,79.0,72.0,Clear,47.0,29.95,WSW,330.0,4.35,New York
+Tuesday,"April 14, 2026",12:00 am — 6:00 am,72.0,64.0,Clear,64.0,29.97,WSW,340.0,3.107,New York
+Tuesday,"April 14, 2026",6:00 am — 12:00 pm,81.0,66.0,Sunny,57.0,29.99,W,350.0,3.728,New York
+Tuesday,"April 14, 2026",12:00 pm — 6:00 pm,86.0,81.0,Sunny,38.0,29.87,N,90.0,6.836,New York
+Tuesday,"April 14, 2026",6:00 pm — 12:00 am,82.0,72.0,Clear,46.0,29.85,N,90.0,4.35,New York
+Wednesday,"April 15, 2026",12:00 am — 6:00 am,72.0,70.0,Clear,64.0,29.89,W,350.0,3.107,New York
+Wednesday,"April 15, 2026",6:00 am — 12:00 pm,82.0,70.0,Sunny,59.0,29.93,W,350.0,5.593,New York
+Wednesday,"April 15, 2026",12:00 pm — 6:00 pm,88.0,82.0,Passing clouds,41.0,29.84,SW,320.0,5.593,New York
+Wednesday,"April 15, 2026",6:00 pm — 12:00 am,84.0,81.0,Clear,45.0,29.85,N,90.0,3.728,New York
+Thursday,"April 16, 2026",12:00 am — 6:00 am,79.0,72.0,Clear,56.0,29.87,N,90.0,2.486,New York
+Thursday,"April 16, 2026",6:00 am — 12:00 pm,84.0,73.0,Sunny,52.0,29.89,N,90.0,1.864,New York
+Thursday,"April 16, 2026",12:00 pm — 6:00 pm,88.0,82.0,Sunny,40.0,29.79,N,90.0,1.864,New York
+Thursday,"April 16, 2026",6:00 pm — 12:00 am,82.0,77.0,Clear,46.0,29.72,N,90.0,2.486,New York
+Friday,"April 17, 2026",12:00 am — 6:00 am,77.0,68.0,Clear,63.0,29.75,WNW,380.0,3.728,New York
+Friday,"April 17, 2026",6:00 am — 12:00 pm,79.0,70.0,Sunny,60.0,29.83,N,90.0,4.35,New York
+Friday,"April 17, 2026",12:00 pm — 6:00 pm,81.0,66.0,Light rain. Mostly cloudy,69.0,29.86,N,90.0,5.593,New York
+Friday,"April 17, 2026",6:00 pm — 12:00 am,73.0,61.0,Clear,70.0,29.97,ENE,150.0,6.214,New York
+Saturday,"April 18, 2026",12:00 am — 6:00 am,59.0,54.0,Clear,91.0,30.04,ENE,160.0,3.728,New York
+Saturday,"April 18, 2026",6:00 am — 12:00 pm,63.0,55.0,Sunny,74.0,30.07,ENE,160.0,6.836,New York
+Saturday,"April 18, 2026",12:00 pm — 6:00 pm,64.0,61.0,Passing clouds,64.0,30.03,N,90.0,5.593,New York
+Saturday,"April 18, 2026",6:00 pm — 12:00 am,55.0,50.0,Low clouds,84.0,29.96,N,90.0,5.593,New York
+Sunday,"April 19, 2026",12:00 am — 6:00 am,48.0,48.0,Low clouds,92.0,29.85,SE,220.0,3.728,New York
+Sunday,"April 19, 2026",6:00 am — 12:00 pm,54.0,50.0,Cloudy,81.0,29.81,N,90.0,6.214,New York
+Sunday,"April 19, 2026",12:00 pm — 6:00 pm,52.0,43.0,More clouds than sun,75.0,29.92,WNW,390.0,8.078,New York
+Sunday,"April 19, 2026",6:00 pm — 12:00 am,48.0,43.0,Passing clouds,61.0,30.04,N,90.0,5.593,New York
+Monday,"April 20, 2026",12:00 am — 6:00 am,43.0,39.0,Clear,72.0,30.1,W,360.0,1.864,New York
+Monday,"April 20, 2026",6:00 am — 12:00 pm,50.0,43.0,Overcast,60.0,30.15,N,90.0,3.728,New York
+Monday,"April 20, 2026",12:00 pm — 6:00 pm,50.0,48.0,Passing clouds,33.0,30.17,N,90.0,4.971,New York
+Monday,"April 20, 2026",6:00 pm — 12:00 am,46.0,39.0,Passing clouds,38.0,30.29,N,90.0,4.35,New York
+Tuesday,"April 21, 2026",12:00 am — 6:00 am,39.0,36.0,Clear,48.0,30.34,N,440.0,3.107,New York
+Tuesday,"April 21, 2026",6:00 am — 12:00 pm,48.0,36.0,Sunny,38.0,30.38,NNW,420.0,1.243,New York
+Tuesday,"April 21, 2026",12:00 pm — 6:00 pm,52.0,48.0,Sunny,23.0,30.28,N,90.0,3.728,New York
+Tuesday,"April 21, 2026",6:00 pm — 12:00 am,45.0,45.0,Passing clouds,52.0,30.25,N,90.0,3.728,New York
+Wednesday,"April 22, 2026",12:00 am — 6:00 am,46.0,45.0,Overcast,73.0,30.18,N,90.0,2.486,New York
+Wednesday,"April 22, 2026",6:00 am — 12:00 pm,48.0,45.0,Overcast,79.0,30.12,SE,230.0,6.214,New York
+Wednesday,"April 22, 2026",12:00 pm — 6:00 pm,54.0,54.0,Mostly cloudy,68.0,30.03,N,90.0,4.35,New York
+Wednesday,"April 22, 2026",6:00 pm — 12:00 am,54.0,48.0,Mostly cloudy,75.0,29.99,E,170.0,5.593,New York
+Thursday,"April 23, 2026",12:00 am — 6:00 am,46.0,45.0,Fog,94.0,29.95,NNE,,0.621,New York
+Thursday,"April 23, 2026",6:00 am — 12:00 pm,66.0,46.0,Sunny,68.0,29.95,W,,0.621,New York
+Thursday,"April 23, 2026",12:00 pm — 6:00 pm,73.0,70.0,Sunny,26.0,29.86,WNW,380.0,8.078,New York
+Thursday,"April 23, 2026",6:00 pm — 12:00 am,72.0,64.0,Clear,23.0,29.83,N,90.0,4.971,New York
+Friday,"April 24, 2026",12:00 am — 6:00 am,63.0,57.0,Passing clouds,33.0,29.8,WNW,380.0,1.243,New York
+Friday,"April 24, 2026",6:00 am — 12:00 pm,63.0,52.0,Sunny,54.0,29.82,NE,140.0,4.971,New York
+Friday,"April 24, 2026",12:00 pm — 6:00 pm,68.0,59.0,Sunny,36.0,29.8,N,90.0,4.971,New York
+Friday,"April 24, 2026",6:00 pm — 12:00 am,55.0,50.0,Passing clouds,62.0,29.9,SSE,250.0,3.107,New York
+Saturday,"April 25, 2026",12:00 am — 6:00 am,50.0,46.0,Mostly cloudy,72.0,29.98,N,90.0,4.971,New York
+Saturday,"April 25, 2026",6:00 am — 12:00 pm,48.0,45.0,Light rain. Fog,64.0,30.04,N,90.0,6.214,New York
+Saturday,"April 25, 2026",12:00 pm — 6:00 pm,45.0,41.0,Light rain. Fog,93.0,30.06,N,90.0,4.35,New York
+Saturday,"April 25, 2026",6:00 pm — 12:00 am,43.0,41.0,Rain. Fog,95.0,30.06,N,90.0,3.728,New York
+Sunday,"April 26, 2026",12:00 am — 6:00 am,43.0,43.0,Overcast,95.0,30.05,ENE,160.0,8.078,New York
+Sunday,"April 26, 2026",6:00 am — 12:00 pm,52.0,43.0,Overcast,81.0,30.11,ENE,150.0,8.078,New York
+Sunday,"April 26, 2026",12:00 pm — 6:00 pm,55.0,54.0,Sunny,53.0,30.12,E,190.0,8.078,New York
+Sunday,"April 26, 2026",6:00 pm — 12:00 am,55.0,48.0,Clear,70.0,30.17,N,90.0,1.864,New York
+Monday,"April 27, 2026",12:00 am — 6:00 am,48.0,45.0,Clear,80.0,30.19,WNW,390.0,3.107,New York
+Monday,"April 27, 2026",6:00 am — 12:00 pm,64.0,46.0,Sunny,57.0,30.23,N,90.0,3.107,New York
+Monday,"April 27, 2026",12:00 pm — 6:00 pm,66.0,61.0,Sunny,36.0,30.23,N,90.0,5.593,New York
+Monday,"April 27, 2026",6:00 pm — 12:00 am,55.0,52.0,Clear,55.0,30.26,N,90.0,1.864,New York
+Tuesday,"April 28, 2026",12:00 am — 6:00 am,52.0,48.0,Clear,61.0,30.19,N,90.0,1.864,New York
+Tuesday,"April 28, 2026",6:00 am — 12:00 pm,64.0,50.0,Sunny,44.0,30.17,N,,0.621,New York
+Tuesday,"April 28, 2026",12:00 pm — 6:00 pm,64.0,61.0,Sunny,40.0,30.11,N,90.0,3.107,New York
+Tuesday,"April 28, 2026",6:00 pm — 12:00 am,57.0,54.0,Overcast,50.0,30.07,N,90.0,2.486,New York
+Wednesday,"April 29, 2026",12:00 am — 6:00 am,54.0,52.0,Overcast,58.0,30.04,N,90.0,1.864,New York
+Wednesday,"April 29, 2026",6:00 am — 12:00 pm,61.0,54.0,Overcast,52.0,29.98,SE,220.0,1.864,New York
+Wednesday,"April 29, 2026",12:00 pm — 6:00 pm,59.0,54.0,Sunny,61.0,29.91,N,90.0,3.728,New York
+Wednesday,"April 29, 2026",6:00 pm — 12:00 am,52.0,48.0,Light rain. Fog,86.0,29.86,N,90.0,1.243,New York
+Thursday,"April 30, 2026",12:00 am — 6:00 am,48.0,46.0,Light rain. Fog,97.0,29.8,N,90.0,1.864,New York
+Thursday,"April 30, 2026",6:00 am — 12:00 pm,52.0,48.0,Fog,95.0,29.77,N,90.0,1.243,New York
+Thursday,"April 30, 2026",12:00 pm — 6:00 pm,59.0,54.0,Cloudy,71.0,29.74,N,90.0,3.728,New York
+Thursday,"April 30, 2026",6:00 pm — 12:00 am,61.0,54.0,Overcast,52.0,29.8,WNW,390.0,5.593,New York
+Sunday,"March 1, 2026",12:00 am — 6:00 am,43.0,37.0,Clear,78.0,30.03,N,90.0,3.728,New York
+Sunday,"March 1, 2026",6:00 am — 12:00 pm,37.0,34.0,Overcast,71.0,30.18,N,90.0,6.214,New York
+Sunday,"March 1, 2026",12:00 pm — 6:00 pm,43.0,39.0,Sunny,40.0,30.23,N,90.0,3.107,New York
+Sunday,"March 1, 2026",6:00 pm — 12:00 am,39.0,30.0,Clear,30.0,30.42,N,90.0,3.728,New York
+Monday,"March 2, 2026",12:00 am — 6:00 am,28.0,21.0,Clear,38.0,30.55,NE,130.0,7.457,New York
+Monday,"March 2, 2026",6:00 am — 12:00 pm,28.0,21.0,Sunny,36.0,30.66,NE,140.0,8.078,New York
+Monday,"March 2, 2026",12:00 pm — 6:00 pm,34.0,30.0,Sunny,32.0,30.62,N,90.0,3.728,New York
+Monday,"March 2, 2026",6:00 pm — 12:00 am,30.0,28.0,Clear,59.0,30.63,N,90.0,3.107,New York
+Tuesday,"March 3, 2026",12:00 am — 6:00 am,32.0,30.0,Overcast,64.0,30.59,SSE,250.0,4.35,New York
+Tuesday,"March 3, 2026",6:00 am — 12:00 pm,36.0,32.0,Overcast,71.0,30.56,N,90.0,6.214,New York
+Tuesday,"March 3, 2026",12:00 pm — 6:00 pm,36.0,34.0,Light rain. Fog,93.0,30.41,ENE,150.0,5.593,New York
+Tuesday,"March 3, 2026",6:00 pm — 12:00 am,36.0,34.0,Light rain. Fog,97.0,30.26,ENE,150.0,3.107,New York
+Wednesday,"March 4, 2026",12:00 am — 6:00 am,39.0,36.0,Light rain. Fog,94.0,30.21,W,360.0,1.864,New York
+Wednesday,"March 4, 2026",6:00 am — 12:00 pm,43.0,39.0,Sunny,81.0,30.27,W,350.0,5.593,New York
+Wednesday,"March 4, 2026",12:00 pm — 6:00 pm,48.0,46.0,Sunny,70.0,30.23,NE,140.0,2.486,New York
+Wednesday,"March 4, 2026",6:00 pm — 12:00 am,46.0,45.0,Overcast,75.0,30.25,SW,310.0,1.243,New York
+Thursday,"March 5, 2026",12:00 am — 6:00 am,46.0,43.0,Mostly cloudy,81.0,30.22,WNW,,0.621,New York
+Thursday,"March 5, 2026",6:00 am — 12:00 pm,43.0,41.0,Light rain. Fog,95.0,30.24,NE,140.0,3.728,New York
+Thursday,"March 5, 2026",12:00 pm — 6:00 pm,43.0,39.0,Fog,95.0,30.23,N,90.0,6.836,New York
+Thursday,"March 5, 2026",6:00 pm — 12:00 am,39.0,37.0,Rain. Fog,96.0,30.25,ENE,150.0,8.7,New York
+Friday,"March 6, 2026",12:00 am — 6:00 am,37.0,37.0,Low clouds,93.0,30.26,E,170.0,9.943,New York
+Friday,"March 6, 2026",6:00 am — 12:00 pm,41.0,37.0,Overcast,86.0,30.34,N,90.0,8.078,New York
+Friday,"March 6, 2026",12:00 pm — 6:00 pm,41.0,39.0,Overcast,81.0,30.39,N,90.0,6.214,New York
+Friday,"March 6, 2026",6:00 pm — 12:00 am,39.0,37.0,Overcast,80.0,30.41,ENE,160.0,7.457,New York
+Saturday,"March 7, 2026",12:00 am — 6:00 am,37.0,36.0,Fog,93.0,30.33,NE,140.0,1.243,New York
+Saturday,"March 7, 2026",6:00 am — 12:00 pm,45.0,39.0,Overcast,88.0,30.21,SSE,240.0,2.486,New York
+Saturday,"March 7, 2026",12:00 pm — 6:00 pm,50.0,46.0,Low clouds,82.0,30.03,N,90.0,1.864,New York
+Saturday,"March 7, 2026",6:00 pm — 12:00 am,52.0,46.0,Fog,96.0,29.92,N,90.0,1.864,New York
+Sunday,"March 8, 2026",12:00 am — 6:00 am,52.0,52.0,Fog,94.0,29.78,N,90.0,3.107,New York
+Sunday,"March 8, 2026",6:00 am — 12:00 pm,59.0,52.0,Fog,89.0,29.79,N,90.0,6.214,New York
+Sunday,"March 8, 2026",12:00 pm — 6:00 pm,70.0,64.0,Sunny,58.0,29.77,N,90.0,4.35,New York
+Sunday,"March 8, 2026",6:00 pm — 12:00 am,64.0,61.0,Clear,44.0,29.89,W,370.0,5.593,New York
+Monday,"March 9, 2026",12:00 am — 6:00 am,61.0,54.0,Clear,43.0,29.96,W,370.0,2.486,New York
+Monday,"March 9, 2026",6:00 am — 12:00 pm,64.0,54.0,Sunny,40.0,30.03,SW,320.0,2.486,New York
+Monday,"March 9, 2026",12:00 pm — 6:00 pm,72.0,66.0,Sunny,27.0,29.98,SW,310.0,4.35,New York
+Monday,"March 9, 2026",6:00 pm — 12:00 am,64.0,54.0,Clear,48.0,29.98,SE,230.0,3.107,New York
+Tuesday,"March 10, 2026",12:00 am — 6:00 am,61.0,54.0,Clear,57.0,30.0,WSW,340.0,1.864,New York
+Tuesday,"March 10, 2026",6:00 am — 12:00 pm,72.0,52.0,Sunny,60.0,30.02,N,,0.621,New York
+Tuesday,"March 10, 2026",12:00 pm — 6:00 pm,79.0,73.0,Sunny,31.0,29.95,SW,320.0,7.457,New York
+Tuesday,"March 10, 2026",6:00 pm — 12:00 am,73.0,70.0,Clear,35.0,29.97,N,90.0,3.107,New York
+Wednesday,"March 11, 2026",12:00 am — 6:00 am,72.0,55.0,Clear,39.0,29.96,SSW,300.0,2.486,New York
+Wednesday,"March 11, 2026",6:00 am — 12:00 pm,66.0,55.0,Sunny,58.0,29.92,N,90.0,5.593,New York
+Wednesday,"March 11, 2026",12:00 pm — 6:00 pm,68.0,63.0,Partly sunny,57.0,29.78,N,90.0,5.593,New York
+Wednesday,"March 11, 2026",6:00 pm — 12:00 am,59.0,54.0,Fog,81.0,29.7,NE,130.0,3.107,New York
+Thursday,"March 12, 2026",12:00 am — 6:00 am,61.0,52.0,Fog,98.0,29.6,N,90.0,1.243,New York
+Thursday,"March 12, 2026",6:00 am — 12:00 pm,57.0,43.0,Light rain. Overcast,80.0,29.67,WNW,390.0,9.321,New York
+Thursday,"March 12, 2026",12:00 pm — 6:00 pm,41.0,34.0,Light rain. Mostly cloudy,79.0,29.83,WNW,390.0,7.457,New York
+Thursday,"March 12, 2026",6:00 pm — 12:00 am,37.0,36.0,Overcast,70.0,29.94,N,90.0,6.836,New York
+Friday,"March 13, 2026",12:00 am — 6:00 am,36.0,34.0,Clear,48.0,30.06,WNW,390.0,6.214,New York
+Friday,"March 13, 2026",6:00 am — 12:00 pm,39.0,32.0,Sunny,43.0,30.14,N,90.0,2.486,New York
+Friday,"March 13, 2026",12:00 pm — 6:00 pm,39.0,39.0,Overcast,49.0,29.95,S,270.0,3.107,New York
+Friday,"March 13, 2026",6:00 pm — 12:00 am,41.0,39.0,Clear,68.0,29.84,N,90.0,4.35,New York
+Saturday,"March 14, 2026",12:00 am — 6:00 am,45.0,39.0,Clear,67.0,29.78,N,90.0,3.728,New York
+Saturday,"March 14, 2026",6:00 am — 12:00 pm,48.0,41.0,Sunny,43.0,29.88,W,360.0,8.7,New York
+Saturday,"March 14, 2026",12:00 pm — 6:00 pm,52.0,48.0,Passing clouds,26.0,30.03,W,360.0,13.05,New York
+Saturday,"March 14, 2026",6:00 pm — 12:00 am,48.0,39.0,Clear,34.0,30.27,WNW,390.0,4.971,New York
+Sunday,"March 15, 2026",12:00 am — 6:00 am,39.0,37.0,Overcast,44.0,30.39,N,90.0,4.35,New York
+Sunday,"March 15, 2026",6:00 am — 12:00 pm,41.0,36.0,Overcast,52.0,30.46,N,90.0,7.457,New York
+Sunday,"March 15, 2026",12:00 pm — 6:00 pm,43.0,39.0,Overcast,52.0,30.4,SE,220.0,6.214,New York
+Sunday,"March 15, 2026",6:00 pm — 12:00 am,48.0,43.0,Overcast,70.0,30.25,E,190.0,6.214,New York
+Monday,"March 16, 2026",12:00 am — 6:00 am,52.0,48.0,Light rain. Fog,91.0,29.96,ESE,200.0,6.836,New York
+Monday,"March 16, 2026",6:00 am — 12:00 pm,54.0,52.0,Fog,98.0,29.76,N,90.0,1.243,New York
+Monday,"March 16, 2026",12:00 pm — 6:00 pm,57.0,54.0,Mostly cloudy,94.0,29.6,SE,230.0,1.243,New York
+Monday,"March 16, 2026",6:00 pm — 12:00 am,55.0,54.0,Light rain. Fog,98.0,29.4,N,,0.0,New York
+Tuesday,"March 17, 2026",12:00 am — 6:00 am,48.0,36.0,Light rain. Mostly cloudy,71.0,29.5,N,,0.0,New York
+Tuesday,"March 17, 2026",6:00 am — 12:00 pm,36.0,34.0,Sunny,43.0,29.79,W,360.0,8.7,New York
+Tuesday,"March 17, 2026",12:00 pm — 6:00 pm,41.0,37.0,Passing clouds,31.0,29.88,W,360.0,11.185,New York
+Tuesday,"March 17, 2026",6:00 pm — 12:00 am,37.0,32.0,Passing clouds,40.0,30.07,W,360.0,8.078,New York
+Wednesday,"March 18, 2026",12:00 am — 6:00 am,30.0,27.0,Clear,46.0,30.25,N,90.0,7.457,New York
+Wednesday,"March 18, 2026",6:00 am — 12:00 pm,30.0,27.0,Sunny,36.0,30.39,N,90.0,8.078,New York
+Wednesday,"March 18, 2026",12:00 pm — 6:00 pm,37.0,34.0,Sunny,28.0,30.39,N,90.0,3.728,New York
+Wednesday,"March 18, 2026",6:00 pm — 12:00 am,32.0,30.0,Clear,48.0,30.37,N,90.0,3.728,New York
+Thursday,"March 19, 2026",12:00 am — 6:00 am,34.0,32.0,Overcast,56.0,30.33,N,90.0,1.864,New York
+Thursday,"March 19, 2026",6:00 am — 12:00 pm,37.0,34.0,Overcast,52.0,30.3,N,90.0,2.486,New York
+Thursday,"March 19, 2026",12:00 pm — 6:00 pm,43.0,39.0,Overcast,44.0,30.22,N,90.0,2.486,New York
+Thursday,"March 19, 2026",6:00 pm — 12:00 am,41.0,37.0,Passing clouds,62.0,30.18,SSE,240.0,3.728,New York
+Friday,"March 20, 2026",12:00 am — 6:00 am,43.0,39.0,Passing clouds,57.0,30.14,N,90.0,1.243,New York
+Friday,"March 20, 2026",6:00 am — 12:00 pm,52.0,39.0,Sunny,59.0,30.09,N,90.0,3.107,New York
+Friday,"March 20, 2026",12:00 pm — 6:00 pm,55.0,52.0,Sunny,49.0,29.87,N,90.0,7.457,New York
+Friday,"March 20, 2026",6:00 pm — 12:00 am,54.0,52.0,Mostly cloudy,70.0,29.78,SSE,240.0,3.107,New York
+Saturday,"March 21, 2026",12:00 am — 6:00 am,52.0,50.0,Overcast,89.0,29.76,N,90.0,3.107,New York
+Saturday,"March 21, 2026",6:00 am — 12:00 pm,54.0,52.0,Partly sunny,70.0,29.86,N,90.0,6.836,New York
+Saturday,"March 21, 2026",12:00 pm — 6:00 pm,57.0,54.0,Sunny,44.0,29.9,N,90.0,4.35,New York
+Saturday,"March 21, 2026",6:00 pm — 12:00 am,55.0,46.0,Clear,48.0,29.96,N,90.0,7.457,New York
+Sunday,"March 22, 2026",12:00 am — 6:00 am,46.0,45.0,Overcast,52.0,29.96,N,90.0,3.728,New York
+Sunday,"March 22, 2026",6:00 am — 12:00 pm,48.0,45.0,Overcast,78.0,29.87,N,90.0,5.593,New York
+Sunday,"March 22, 2026",12:00 pm — 6:00 pm,63.0,52.0,Sunny,66.0,29.72,N,90.0,4.971,New York
+Sunday,"March 22, 2026",6:00 pm — 12:00 am,55.0,50.0,Light rain. Fog,88.0,29.72,NE,140.0,4.35,New York
+Monday,"March 23, 2026",12:00 am — 6:00 am,50.0,46.0,Light rain. Fog,95.0,29.73,N,90.0,6.214,New York
+Monday,"March 23, 2026",6:00 am — 12:00 pm,43.0,39.0,Light rain. Fog,94.0,29.78,NNE,120.0,6.214,New York
+Monday,"March 23, 2026",12:00 pm — 6:00 pm,41.0,39.0,Mostly cloudy,84.0,29.93,N,90.0,5.593,New York
+Monday,"March 23, 2026",6:00 pm — 12:00 am,39.0,36.0,Overcast,59.0,30.15,WNW,390.0,8.078,New York
+Tuesday,"March 24, 2026",12:00 am — 6:00 am,36.0,34.0,Clear,58.0,30.26,NW,410.0,5.593,New York
+Tuesday,"March 24, 2026",6:00 am — 12:00 pm,43.0,34.0,Sunny,47.0,30.39,N,90.0,6.214,New York
+Tuesday,"March 24, 2026",12:00 pm — 6:00 pm,46.0,43.0,Sunny,30.0,30.34,N,90.0,4.35,New York
+Tuesday,"March 24, 2026",6:00 pm — 12:00 am,41.0,39.0,Clear,48.0,30.34,N,90.0,4.35,New York
+Wednesday,"March 25, 2026",12:00 am — 6:00 am,43.0,39.0,Clear,55.0,30.35,N,90.0,4.971,New York
+Wednesday,"March 25, 2026",6:00 am — 12:00 pm,48.0,39.0,Sunny,44.0,30.39,W,360.0,1.243,New York
+Wednesday,"March 25, 2026",12:00 pm — 6:00 pm,52.0,48.0,Sunny,37.0,30.28,SE,220.0,5.593,New York
+Wednesday,"March 25, 2026",6:00 pm — 12:00 am,48.0,45.0,Mostly cloudy,52.0,30.18,N,90.0,4.971,New York
+Thursday,"March 26, 2026",12:00 am — 6:00 am,50.0,45.0,Passing clouds,69.0,30.04,N,90.0,3.107,New York
+Thursday,"March 26, 2026",6:00 am — 12:00 pm,63.0,52.0,Partly sunny,59.0,29.95,SW,320.0,6.836,New York
+Thursday,"March 26, 2026",12:00 pm — 6:00 pm,75.0,66.0,Sunny,34.0,29.8,SSW,290.0,6.214,New York
+Thursday,"March 26, 2026",6:00 pm — 12:00 am,68.0,64.0,Clear,52.0,29.65,N,90.0,6.214,New York
+Friday,"March 27, 2026",12:00 am — 6:00 am,66.0,59.0,Overcast,77.0,29.67,N,90.0,4.971,New York
+Friday,"March 27, 2026",6:00 am — 12:00 pm,57.0,52.0,Partly sunny,59.0,29.89,N,100.0,4.971,New York
+Friday,"March 27, 2026",12:00 pm — 6:00 pm,52.0,46.0,Partly sunny,43.0,30.05,NE,140.0,9.321,New York
+Friday,"March 27, 2026",6:00 pm — 12:00 am,46.0,43.0,Clear,40.0,30.14,NNE,110.0,4.35,New York
+Saturday,"March 28, 2026",12:00 am — 6:00 am,41.0,34.0,Passing clouds,44.0,30.22,N,90.0,6.214,New York
+Saturday,"March 28, 2026",6:00 am — 12:00 pm,37.0,30.0,Sunny,39.0,30.39,N,90.0,4.971,New York
+Saturday,"March 28, 2026",12:00 pm — 6:00 pm,43.0,39.0,Partly sunny,21.0,30.41,N,90.0,6.214,New York
+Saturday,"March 28, 2026",6:00 pm — 12:00 am,41.0,37.0,Clear,28.0,30.48,NW,410.0,5.593,New York
+Sunday,"March 29, 2026",12:00 am — 6:00 am,36.0,34.0,Clear,40.0,30.54,N,,0.0,New York
+Sunday,"March 29, 2026",6:00 am — 12:00 pm,48.0,36.0,Sunny,40.0,30.57,N,90.0,3.107,New York
+Sunday,"March 29, 2026",12:00 pm — 6:00 pm,54.0,50.0,Sunny,32.0,30.44,SE,230.0,8.7,New York
+Sunday,"March 29, 2026",6:00 pm — 12:00 am,50.0,48.0,Clear,45.0,30.38,N,90.0,4.35,New York
+Monday,"March 30, 2026",12:00 am — 6:00 am,48.0,46.0,Clear,58.0,30.28,N,90.0,3.107,New York
+Monday,"March 30, 2026",6:00 am — 12:00 pm,63.0,48.0,Sunny,61.0,30.19,N,90.0,5.593,New York
+Monday,"March 30, 2026",12:00 pm — 6:00 pm,73.0,66.0,Sunny,35.0,30.07,N,90.0,4.971,New York
+Monday,"March 30, 2026",6:00 pm — 12:00 am,66.0,64.0,Passing clouds,54.0,30.07,SW,320.0,1.864,New York
+Tuesday,"March 31, 2026",12:00 am — 6:00 am,64.0,61.0,Overcast,64.0,30.02,N,90.0,5.593,New York
+Tuesday,"March 31, 2026",6:00 am — 12:00 pm,75.0,64.0,Sunny,55.0,30.01,SW,310.0,8.7,New York
+Tuesday,"March 31, 2026",12:00 pm — 6:00 pm,81.0,75.0,Sunny,43.0,29.93,N,90.0,3.728,New York
+Tuesday,"March 31, 2026",6:00 pm — 12:00 am,75.0,72.0,Clear,51.0,29.89,N,90.0,4.35,New York
+Sunday,"February 1, 2026",12:00 am — 6:00 am,14.0,10.0,Clear,57.0,29.92,NNE,110.0,10.564,New York
+Sunday,"February 1, 2026",6:00 am — 12:00 pm,16.0,10.0,Sunny,55.0,29.87,N,90.0,11.185,New York
+Sunday,"February 1, 2026",12:00 pm — 6:00 pm,25.0,18.0,Sunny,38.0,29.79,WNW,390.0,10.564,New York
+Sunday,"February 1, 2026",6:00 pm — 12:00 am,19.0,16.0,Clear,48.0,29.86,WNW,380.0,8.7,New York
+Monday,"February 2, 2026",12:00 am — 6:00 am,16.0,16.0,Clear,49.0,29.94,WNW,390.0,8.078,New York
+Monday,"February 2, 2026",6:00 am — 12:00 pm,28.0,18.0,Sunny,44.0,30.0,WNW,390.0,8.7,New York
+Monday,"February 2, 2026",12:00 pm — 6:00 pm,36.0,30.0,Sunny,35.0,30.0,WNW,380.0,8.078,New York
+Monday,"February 2, 2026",6:00 pm — 12:00 am,30.0,27.0,Clear,44.0,30.08,N,90.0,5.593,New York
+Tuesday,"February 3, 2026",12:00 am — 6:00 am,27.0,23.0,Clear,48.0,30.12,W,360.0,5.593,New York
+Tuesday,"February 3, 2026",6:00 am — 12:00 pm,28.0,25.0,Overcast,47.0,30.17,W,370.0,4.971,New York
+Tuesday,"February 3, 2026",12:00 pm — 6:00 pm,34.0,30.0,Scattered clouds,44.0,30.14,N,90.0,3.728,New York
+Tuesday,"February 3, 2026",6:00 pm — 12:00 am,32.0,30.0,Overcast,46.0,30.16,N,90.0,4.971,New York
+Wednesday,"February 4, 2026",12:00 am — 6:00 am,30.0,30.0,Overcast,52.0,30.15,W,350.0,3.107,New York
+Wednesday,"February 4, 2026",6:00 am — 12:00 pm,30.0,28.0,Sunny,49.0,30.2,N,90.0,5.593,New York
+Wednesday,"February 4, 2026",12:00 pm — 6:00 pm,34.0,30.0,Sunny,36.0,30.18,N,90.0,4.971,New York
+Wednesday,"February 4, 2026",6:00 pm — 12:00 am,30.0,27.0,Clear,41.0,30.18,N,90.0,3.728,New York
+Thursday,"February 5, 2026",12:00 am — 6:00 am,25.0,21.0,Clear,55.0,30.13,N,90.0,3.107,New York
+Thursday,"February 5, 2026",6:00 am — 12:00 pm,28.0,19.0,Sunny,58.0,30.1,N,90.0,3.107,New York
+Thursday,"February 5, 2026",12:00 pm — 6:00 pm,32.0,28.0,Sunny,42.0,29.98,N,440.0,1.243,New York
+Thursday,"February 5, 2026",6:00 pm — 12:00 am,30.0,27.0,Clear,46.0,29.92,NE,130.0,5.593,New York
+Friday,"February 6, 2026",12:00 am — 6:00 am,27.0,23.0,Clear,52.0,29.84,N,100.0,4.971,New York
+Friday,"February 6, 2026",6:00 am — 12:00 pm,30.0,25.0,Sunny,47.0,29.74,NNE,120.0,4.35,New York
+Friday,"February 6, 2026",12:00 pm — 6:00 pm,32.0,30.0,Partly sunny,44.0,29.63,SW,320.0,3.728,New York
+Friday,"February 6, 2026",6:00 pm — 12:00 am,30.0,27.0,Light snow. Mostly cloudy,70.0,29.6,W,360.0,6.836,New York
+Saturday,"February 7, 2026",12:00 am — 6:00 am,27.0,25.0,Overcast,76.0,29.55,WSW,340.0,6.836,New York
+Saturday,"February 7, 2026",6:00 am — 12:00 pm,19.0,10.0,Overcast,33.0,29.69,WNW,390.0,14.293,New York
+Saturday,"February 7, 2026",12:00 pm — 6:00 pm,12.0,9.0,Mostly cloudy,24.0,29.8,WNW,390.0,19.885,New York
+Saturday,"February 7, 2026",6:00 pm — 12:00 am,9.0,7.0,Overcast,42.0,30.01,WNW,390.0,14.293,New York
+Sunday,"February 8, 2026",12:00 am — 6:00 am,5.0,3.0,Clear,46.0,30.1,WNW,390.0,12.428,New York
+Sunday,"February 8, 2026",6:00 am — 12:00 pm,10.0,3.0,Sunny,42.0,30.16,WNW,390.0,13.05,New York
+Sunday,"February 8, 2026",12:00 pm — 6:00 pm,18.0,12.0,Sunny,35.0,30.15,WNW,390.0,13.671,New York
+Sunday,"February 8, 2026",6:00 pm — 12:00 am,16.0,10.0,Clear,45.0,30.22,WNW,390.0,10.564,New York
+Monday,"February 9, 2026",12:00 am — 6:00 am,10.0,10.0,Clear,54.0,30.25,WNW,380.0,6.836,New York
+Monday,"February 9, 2026",6:00 am — 12:00 pm,23.0,10.0,Sunny,45.0,30.28,N,90.0,6.214,New York
+Monday,"February 9, 2026",12:00 pm — 6:00 pm,30.0,27.0,Sunny,32.0,30.2,N,90.0,6.836,New York
+Monday,"February 9, 2026",6:00 pm — 12:00 am,30.0,27.0,Clear,34.0,30.19,N,90.0,3.107,New York
+Tuesday,"February 10, 2026",12:00 am — 6:00 am,27.0,25.0,Clear,40.0,30.15,N,90.0,3.107,New York
+Tuesday,"February 10, 2026",6:00 am — 12:00 pm,34.0,25.0,Overcast,42.0,30.14,NE,140.0,2.486,New York
+Tuesday,"February 10, 2026",12:00 pm — 6:00 pm,36.0,34.0,Sunny,42.0,29.98,SE,230.0,3.728,New York
+Tuesday,"February 10, 2026",6:00 pm — 12:00 am,36.0,34.0,Clear,66.0,29.81,SSE,240.0,1.864,New York
+Wednesday,"February 11, 2026",12:00 am — 6:00 am,36.0,34.0,Passing clouds,73.0,29.69,N,90.0,3.107,New York
+Wednesday,"February 11, 2026",6:00 am — 12:00 pm,41.0,36.0,Overcast,55.0,29.74,N,90.0,6.214,New York
+Wednesday,"February 11, 2026",12:00 pm — 6:00 pm,39.0,37.0,Overcast,48.0,29.75,WNW,380.0,6.214,New York
+Wednesday,"February 11, 2026",6:00 pm — 12:00 am,37.0,36.0,Overcast,47.0,29.82,W,370.0,10.564,New York
+Thursday,"February 12, 2026",12:00 am — 6:00 am,36.0,30.0,Overcast,51.0,29.88,WNW,390.0,8.7,New York
+Thursday,"February 12, 2026",6:00 am — 12:00 pm,34.0,30.0,Partly sunny,48.0,29.96,WNW,390.0,12.428,New York
+Thursday,"February 12, 2026",12:00 pm — 6:00 pm,36.0,34.0,Partly sunny,42.0,29.97,WNW,390.0,10.564,New York
+Thursday,"February 12, 2026",6:00 pm — 12:00 am,32.0,27.0,Passing clouds,50.0,30.05,NW,400.0,6.836,New York
+Friday,"February 13, 2026",12:00 am — 6:00 am,27.0,23.0,Clear,56.0,30.09,NW,400.0,7.457,New York
+Friday,"February 13, 2026",6:00 am — 12:00 pm,32.0,21.0,Sunny,53.0,24.12,N,90.0,3.107,New York
+Friday,"February 13, 2026",12:00 pm — 6:00 pm,37.0,34.0,Sunny,36.0,30.11,W,360.0,4.35,New York
+Friday,"February 13, 2026",6:00 pm — 12:00 am,36.0,30.0,Clear,44.0,30.13,N,90.0,4.971,New York
+Saturday,"February 14, 2026",12:00 am — 6:00 am,32.0,28.0,Light snow. Mostly cloudy,56.0,30.12,N,90.0,3.107,New York
+Saturday,"February 14, 2026",6:00 am — 12:00 pm,39.0,32.0,Passing clouds,46.0,30.08,N,90.0,3.728,New York
+Saturday,"February 14, 2026",12:00 pm — 6:00 pm,46.0,43.0,Sunny,42.0,30.03,WNW,390.0,5.593,New York
+Saturday,"February 14, 2026",6:00 pm — 12:00 am,43.0,37.0,Clear,52.0,30.08,N,90.0,1.864,New York
+Sunday,"February 15, 2026",12:00 am — 6:00 am,37.0,34.0,Clear,63.0,30.04,WNW,,0.621,New York
+Sunday,"February 15, 2026",6:00 am — 12:00 pm,39.0,34.0,Sunny,63.0,30.08,NE,140.0,3.107,New York
+Sunday,"February 15, 2026",12:00 pm — 6:00 pm,39.0,37.0,Overcast,59.0,30.07,N,90.0,6.836,New York
+Sunday,"February 15, 2026",6:00 pm — 12:00 am,36.0,32.0,Light snow. Ice fog,77.0,30.09,ENE,150.0,6.836,New York
+Monday,"February 16, 2026",12:00 am — 6:00 am,30.0,28.0,Light snow. Ice fog,92.0,30.07,ENE,150.0,11.185,New York
+Monday,"February 16, 2026",6:00 am — 12:00 pm,36.0,30.0,Overcast,75.0,30.14,NE,140.0,9.321,New York
+Monday,"February 16, 2026",12:00 pm — 6:00 pm,37.0,37.0,Overcast,56.0,30.13,N,90.0,3.728,New York
+Monday,"February 16, 2026",6:00 pm — 12:00 am,37.0,36.0,Passing clouds,63.0,30.17,N,90.0,2.486,New York
+Tuesday,"February 17, 2026",12:00 am — 6:00 am,36.0,36.0,Mostly cloudy,76.0,30.15,SW,320.0,2.486,New York
+Tuesday,"February 17, 2026",6:00 am — 12:00 pm,39.0,36.0,Fog,85.0,30.14,N,90.0,4.35,New York
+Tuesday,"February 17, 2026",12:00 pm — 6:00 pm,46.0,39.0,Sunny,71.0,30.08,N,90.0,4.35,New York
+Tuesday,"February 17, 2026",6:00 pm — 12:00 am,45.0,39.0,Clear,78.0,30.07,N,90.0,1.864,New York
+Wednesday,"February 18, 2026",12:00 am — 6:00 am,39.0,37.0,Fog,86.0,30.0,WSW,340.0,3.107,New York
+Wednesday,"February 18, 2026",6:00 am — 12:00 pm,39.0,37.0,Light rain. Fog,90.0,29.91,N,90.0,3.107,New York
+Wednesday,"February 18, 2026",12:00 pm — 6:00 pm,41.0,39.0,Fog,90.0,29.77,ENE,150.0,3.728,New York
+Wednesday,"February 18, 2026",6:00 pm — 12:00 am,39.0,37.0,Fog,96.0,29.82,N,90.0,4.35,New York
+Thursday,"February 19, 2026",12:00 am — 6:00 am,37.0,36.0,Overcast,82.0,29.94,ENE,150.0,6.836,New York
+Thursday,"February 19, 2026",6:00 am — 12:00 pm,39.0,36.0,Overcast,62.0,30.06,ENE,150.0,5.593,New York
+Thursday,"February 19, 2026",12:00 pm — 6:00 pm,41.0,37.0,Overcast,56.0,30.05,NE,140.0,7.457,New York
+Thursday,"February 19, 2026",6:00 pm — 12:00 am,37.0,36.0,Overcast,70.0,30.03,N,90.0,4.971,New York
+Friday,"February 20, 2026",12:00 am — 6:00 am,36.0,34.0,Overcast,84.0,29.95,ENE,150.0,8.7,New York
+Friday,"February 20, 2026",6:00 am — 12:00 pm,36.0,34.0,Light rain. Fog,94.0,29.84,ENE,160.0,9.943,New York
+Friday,"February 20, 2026",12:00 pm — 6:00 pm,36.0,34.0,Light rain. Fog,95.0,29.67,ENE,150.0,14.293,New York
+Friday,"February 20, 2026",6:00 pm — 12:00 am,36.0,36.0,Low clouds,94.0,29.67,N,100.0,3.728,New York
+Saturday,"February 21, 2026",12:00 am — 6:00 am,37.0,36.0,Mostly cloudy,89.0,29.79,N,90.0,2.486,New York
+Saturday,"February 21, 2026",6:00 am — 12:00 pm,45.0,37.0,Overcast,66.0,29.94,W,360.0,5.593,New York
+Saturday,"February 21, 2026",12:00 pm — 6:00 pm,46.0,45.0,Partly sunny,52.0,29.99,WNW,380.0,4.971,New York
+Saturday,"February 21, 2026",6:00 pm — 12:00 am,45.0,39.0,Mostly cloudy,62.0,30.08,N,90.0,4.35,New York
+Sunday,"February 22, 2026",12:00 am — 6:00 am,37.0,36.0,Low clouds,89.0,30.09,ENE,150.0,6.836,New York
+Sunday,"February 22, 2026",6:00 am — 12:00 pm,36.0,32.0,Light snow. Fog,93.0,30.07,ENE,150.0,9.321,New York
+Sunday,"February 22, 2026",12:00 pm — 6:00 pm,32.0,30.0,Light snow. Ice fog,94.0,29.96,ENE,150.0,16.157,New York
+Sunday,"February 22, 2026",6:00 pm — 12:00 am,30.0,30.0,Snow. Ice fog,96.0,29.79,NE,130.0,13.05,New York
+Monday,"February 23, 2026",12:00 am — 6:00 am,30.0,28.0,Snow. Ice fog,95.0,29.53,N,90.0,11.807,New York
+Monday,"February 23, 2026",6:00 am — 12:00 pm,30.0,28.0,Snow. Ice fog,97.0,29.51,N,90.0,4.971,New York
+Monday,"February 23, 2026",12:00 pm — 6:00 pm,34.0,30.0,Light snow. Fog,90.0,29.6,N,90.0,6.836,New York
+Monday,"February 23, 2026",6:00 pm — 12:00 am,34.0,30.0,Haze,62.0,29.72,WNW,390.0,8.078,New York
+Tuesday,"February 24, 2026",12:00 am — 6:00 am,30.0,27.0,Chilly,63.0,29.8,W,370.0,4.35,New York
+Tuesday,"February 24, 2026",6:00 am — 12:00 pm,30.0,23.0,Chilly,56.0,29.89,W,370.0,5.593,New York
+Tuesday,"February 24, 2026",12:00 pm — 6:00 pm,30.0,28.0,Chilly,45.0,29.88,W,370.0,10.564,New York
+Tuesday,"February 24, 2026",6:00 pm — 12:00 am,27.0,27.0,Chilly,50.0,29.91,N,90.0,3.107,New York
+Wednesday,"February 25, 2026",12:00 am — 6:00 am,34.0,28.0,Chilly,61.0,29.81,N,90.0,5.593,New York
+Wednesday,"February 25, 2026",6:00 am — 12:00 pm,36.0,30.0,Snow. Ice fog,87.0,29.72,N,90.0,4.35,New York
+Wednesday,"February 25, 2026",12:00 pm — 6:00 pm,43.0,39.0,Scattered clouds,56.0,29.64,SW,320.0,5.593,New York
+Wednesday,"February 25, 2026",6:00 pm — 12:00 am,45.0,43.0,Passing clouds,55.0,29.69,N,90.0,4.971,New York
+Thursday,"February 26, 2026",12:00 am — 6:00 am,39.0,37.0,Clear,64.0,29.77,N,90.0,3.728,New York
+Thursday,"February 26, 2026",6:00 am — 12:00 pm,43.0,39.0,Sunny,50.0,29.88,WNW,380.0,6.836,New York
+Thursday,"February 26, 2026",12:00 pm — 6:00 pm,48.0,43.0,Sunny,37.0,29.85,N,90.0,1.864,New York
+Thursday,"February 26, 2026",6:00 pm — 12:00 am,43.0,36.0,Passing clouds,53.0,29.91,NNE,110.0,3.728,New York
+Friday,"February 27, 2026",12:00 am — 6:00 am,34.0,30.0,Clear,61.0,30.0,NNE,120.0,3.728,New York
+Friday,"February 27, 2026",6:00 am — 12:00 pm,41.0,30.0,Sunny,50.0,30.11,N,90.0,4.35,New York
+Friday,"February 27, 2026",12:00 pm — 6:00 pm,45.0,39.0,Sunny,55.0,30.1,SSE,240.0,3.728,New York
+Friday,"February 27, 2026",6:00 pm — 12:00 am,39.0,37.0,Clear,76.0,30.14,SE,220.0,3.107,New York
+Saturday,"February 28, 2026",12:00 am — 6:00 am,37.0,34.0,Fog,91.0,30.12,NNE,120.0,1.864,New York
+Saturday,"February 28, 2026",6:00 am — 12:00 pm,48.0,34.0,Fog,85.0,30.13,NE,140.0,3.728,New York
+Saturday,"February 28, 2026",12:00 pm — 6:00 pm,54.0,48.0,Sunny,59.0,30.03,N,90.0,2.486,New York
+Saturday,"February 28, 2026",6:00 pm — 12:00 am,46.0,43.0,Clear,79.0,30.02,NE,,0.621,New York
+Thursday,"January 1, 2026",12:00 am — 6:00 am,36.0,32.0,Overcast,57.0,29.57,N,90.0,3.728,New York
+Thursday,"January 1, 2026",6:00 am — 12:00 pm,32.0,25.0,Sunny,59.0,29.67,WNW,390.0,10.564,New York
+Thursday,"January 1, 2026",12:00 pm — 6:00 pm,27.0,25.0,Sunny,32.0,29.8,WNW,380.0,8.7,New York
+Thursday,"January 1, 2026",6:00 pm — 12:00 am,23.0,21.0,Clear,41.0,29.87,WNW,380.0,5.593,New York
+Friday,"January 2, 2026",12:00 am — 6:00 am,21.0,19.0,Overcast,63.0,29.83,N,90.0,3.728,New York
+Friday,"January 2, 2026",6:00 am — 12:00 pm,27.0,21.0,Overcast,57.0,29.79,N,90.0,5.593,New York
+Friday,"January 2, 2026",12:00 pm — 6:00 pm,30.0,28.0,Overcast,45.0,29.74,N,90.0,5.593,New York
+Friday,"January 2, 2026",6:00 pm — 12:00 am,28.0,27.0,Passing clouds,48.0,29.83,W,360.0,5.593,New York
+Saturday,"January 3, 2026",12:00 am — 6:00 am,27.0,25.0,Clear,42.0,29.9,W,370.0,6.836,New York
+Saturday,"January 3, 2026",6:00 am — 12:00 pm,28.0,23.0,Sunny,43.0,29.97,N,90.0,3.728,New York
+Saturday,"January 3, 2026",12:00 pm — 6:00 pm,30.0,28.0,Sunny,40.0,29.96,N,90.0,6.214,New York
+Saturday,"January 3, 2026",6:00 pm — 12:00 am,30.0,28.0,Passing clouds,46.0,29.98,NW,400.0,3.728,New York
+Sunday,"January 4, 2026",12:00 am — 6:00 am,28.0,27.0,Mostly cloudy,57.0,29.99,WNW,380.0,4.35,New York
+Sunday,"January 4, 2026",6:00 am — 12:00 pm,32.0,27.0,Sunny,66.0,30.05,N,90.0,3.728,New York
+Sunday,"January 4, 2026",12:00 pm — 6:00 pm,34.0,30.0,Scattered clouds,48.0,30.07,N,90.0,6.214,New York
+Sunday,"January 4, 2026",6:00 pm — 12:00 am,32.0,30.0,Passing clouds,52.0,30.15,N,90.0,3.107,New York
+Monday,"January 5, 2026",12:00 am — 6:00 am,30.0,28.0,Clear,53.0,30.18,N,90.0,4.971,New York
+Monday,"January 5, 2026",6:00 am — 12:00 pm,34.0,30.0,Mostly cloudy,52.0,30.21,S,260.0,1.864,New York
+Monday,"January 5, 2026",12:00 pm — 6:00 pm,36.0,34.0,Overcast,51.0,30.1,N,90.0,3.728,New York
+Monday,"January 5, 2026",6:00 pm — 12:00 am,39.0,37.0,Overcast,62.0,30.02,WSW,330.0,3.728,New York
+Tuesday,"January 6, 2026",12:00 am — 6:00 am,37.0,36.0,Clear,66.0,29.97,W,350.0,2.486,New York
+Tuesday,"January 6, 2026",6:00 am — 12:00 pm,41.0,37.0,Sunny,61.0,29.96,N,90.0,2.486,New York
+Tuesday,"January 6, 2026",12:00 pm — 6:00 pm,43.0,37.0,Sunny,65.0,29.86,ENE,150.0,5.593,New York
+Tuesday,"January 6, 2026",6:00 pm — 12:00 am,39.0,37.0,Fog,86.0,29.76,ENE,150.0,7.457,New York
+Wednesday,"January 7, 2026",12:00 am — 6:00 am,37.0,37.0,Fog,93.0,29.66,ENE,160.0,4.35,New York
+Wednesday,"January 7, 2026",6:00 am — 12:00 pm,48.0,37.0,Fog,82.0,29.68,N,90.0,3.728,New York
+Wednesday,"January 7, 2026",12:00 pm — 6:00 pm,48.0,46.0,Overcast,54.0,29.8,N,90.0,6.836,New York
+Wednesday,"January 7, 2026",6:00 pm — 12:00 am,45.0,43.0,Overcast,63.0,29.97,N,90.0,6.836,New York
+Thursday,"January 8, 2026",12:00 am — 6:00 am,45.0,43.0,Overcast,65.0,30.06,WNW,390.0,8.078,New York
+Thursday,"January 8, 2026",6:00 am — 12:00 pm,48.0,43.0,Sunny,58.0,30.17,N,90.0,4.971,New York
+Thursday,"January 8, 2026",12:00 pm — 6:00 pm,48.0,46.0,Sunny,48.0,30.21,NW,400.0,4.35,New York
+Thursday,"January 8, 2026",6:00 pm — 12:00 am,46.0,43.0,Clear,56.0,30.28,NNE,120.0,2.486,New York
+Friday,"January 9, 2026",12:00 am — 6:00 am,43.0,39.0,Clear,74.0,30.29,SE,220.0,1.243,New York
+Friday,"January 9, 2026",6:00 am — 12:00 pm,48.0,39.0,Passing clouds,73.0,30.25,N,,0.0,New York
+Friday,"January 9, 2026",12:00 pm — 6:00 pm,48.0,48.0,Partly sunny,76.0,30.12,SSE,,0.621,New York
+Friday,"January 9, 2026",6:00 pm — 12:00 am,54.0,48.0,Overcast,82.0,30.07,N,,0.0,New York
+Saturday,"January 10, 2026",12:00 am — 6:00 am,52.0,45.0,Clear,71.0,30.15,N,,0.0,New York
+Saturday,"January 10, 2026",6:00 am — 12:00 pm,45.0,43.0,Sunny,60.0,30.19,N,,0.0,New York
+Saturday,"January 10, 2026",12:00 pm — 6:00 pm,43.0,39.0,Light rain. Overcast,80.0,30.07,N,,0.0,New York
+Saturday,"January 10, 2026",6:00 pm — 12:00 am,41.0,39.0,Light rain. Fog,89.0,29.85,N,,0.0,New York
+Sunday,"January 11, 2026",12:00 am — 6:00 am,43.0,41.0,Overcast,89.0,29.76,N,,0.0,New York
+Sunday,"January 11, 2026",6:00 am — 12:00 pm,46.0,43.0,Passing clouds,66.0,29.8,N,,0.0,New York
+Sunday,"January 11, 2026",12:00 pm — 6:00 pm,46.0,37.0,Passing clouds,46.0,29.77,W,370.0,3.728,New York
+Sunday,"January 11, 2026",6:00 pm — 12:00 am,37.0,34.0,Passing clouds,50.0,29.92,WNW,380.0,12.428,New York
+Monday,"January 12, 2026",12:00 am — 6:00 am,34.0,32.0,Clear,46.0,30.05,W,370.0,11.807,New York
+Monday,"January 12, 2026",6:00 am — 12:00 pm,37.0,32.0,Sunny,46.0,30.17,N,90.0,5.593,New York
+Monday,"January 12, 2026",12:00 pm — 6:00 pm,39.0,39.0,Sunny,42.0,30.1,W,350.0,8.7,New York
+Monday,"January 12, 2026",6:00 pm — 12:00 am,37.0,37.0,Clear,46.0,30.11,N,90.0,3.107,New York
+Tuesday,"January 13, 2026",12:00 am — 6:00 am,37.0,36.0,Clear,48.0,30.09,N,90.0,3.728,New York
+Tuesday,"January 13, 2026",6:00 am — 12:00 pm,43.0,36.0,Sunny,45.0,30.07,N,90.0,2.486,New York
+Tuesday,"January 13, 2026",12:00 pm — 6:00 pm,46.0,45.0,Sunny,43.0,29.9,S,280.0,5.593,New York
+Tuesday,"January 13, 2026",6:00 pm — 12:00 am,45.0,45.0,Clear,49.0,29.76,N,90.0,2.486,New York
+Wednesday,"January 14, 2026",12:00 am — 6:00 am,46.0,45.0,Clear,45.0,29.67,N,90.0,4.35,New York
+Wednesday,"January 14, 2026",6:00 am — 12:00 pm,52.0,48.0,Overcast,37.0,29.66,SW,310.0,5.593,New York
+Wednesday,"January 14, 2026",12:00 pm — 6:00 pm,52.0,48.0,Overcast,45.0,29.56,ENE,150.0,3.107,New York
+Wednesday,"January 14, 2026",6:00 pm — 12:00 am,46.0,45.0,Mostly cloudy,65.0,29.45,N,90.0,1.864,New York
+Thursday,"January 15, 2026",12:00 am — 6:00 am,46.0,45.0,Mostly cloudy,63.0,29.35,WSW,330.0,6.836,New York
+Thursday,"January 15, 2026",6:00 am — 12:00 pm,43.0,37.0,Cloudy,57.0,29.41,WSW,330.0,8.078,New York
+Thursday,"January 15, 2026",12:00 pm — 6:00 pm,37.0,28.0,Sunny,37.0,29.47,W,360.0,8.7,New York
+Thursday,"January 15, 2026",6:00 pm — 12:00 am,28.0,25.0,Clear,37.0,29.54,W,370.0,10.564,New York
+Friday,"January 16, 2026",12:00 am — 6:00 am,23.0,21.0,Clear,44.0,29.64,W,370.0,11.807,New York
+Friday,"January 16, 2026",6:00 am — 12:00 pm,28.0,21.0,Sunny,41.0,29.83,W,370.0,6.836,New York
+Friday,"January 16, 2026",12:00 pm — 6:00 pm,32.0,30.0,Scattered clouds,36.0,29.95,N,90.0,5.593,New York
+Friday,"January 16, 2026",6:00 pm — 12:00 am,34.0,30.0,Overcast,38.0,30.05,N,90.0,4.971,New York
+Saturday,"January 17, 2026",12:00 am — 6:00 am,36.0,34.0,Mostly cloudy,44.0,30.06,N,90.0,4.35,New York
+Saturday,"January 17, 2026",6:00 am — 12:00 pm,39.0,34.0,Light snow. Mostly cloudy,58.0,30.06,N,90.0,4.971,New York
+Saturday,"January 17, 2026",12:00 pm — 6:00 pm,34.0,32.0,Snow. Fog,92.0,30.05,N,90.0,3.107,New York
+Saturday,"January 17, 2026",6:00 pm — 12:00 am,34.0,32.0,Fog,87.0,30.1,W,360.0,4.35,New York
+Sunday,"January 18, 2026",12:00 am — 6:00 am,36.0,34.0,Fog,86.0,30.06,WNW,380.0,1.864,New York
+Sunday,"January 18, 2026",6:00 am — 12:00 pm,36.0,32.0,Light snow. Fog,95.0,30.07,NNE,110.0,2.486,New York
+Sunday,"January 18, 2026",12:00 pm — 6:00 pm,34.0,32.0,Light snow. Fog,91.0,29.89,NNE,110.0,6.836,New York
+Sunday,"January 18, 2026",6:00 pm — 12:00 am,32.0,30.0,Light snow. Ice fog,94.0,29.85,N,90.0,3.728,New York
+Monday,"January 19, 2026",12:00 am — 6:00 am,28.0,25.0,Passing clouds,88.0,29.85,W,360.0,5.593,New York
+Monday,"January 19, 2026",6:00 am — 12:00 pm,28.0,21.0,Sunny,71.0,29.93,W,350.0,6.214,New York
+Monday,"January 19, 2026",12:00 pm — 6:00 pm,30.0,30.0,Passing clouds,52.0,29.94,W,360.0,6.836,New York
+Monday,"January 19, 2026",6:00 pm — 12:00 am,30.0,27.0,Clear,48.0,30.04,N,90.0,6.836,New York
+Tuesday,"January 20, 2026",12:00 am — 6:00 am,25.0,18.0,Clear,45.0,30.16,W,370.0,8.7,New York
+Tuesday,"January 20, 2026",6:00 am — 12:00 pm,19.0,16.0,Sunny,44.0,30.28,W,350.0,9.321,New York
+Tuesday,"January 20, 2026",12:00 pm — 6:00 pm,21.0,19.0,Sunny,34.0,30.32,W,370.0,8.7,New York
+Tuesday,"January 20, 2026",6:00 pm — 12:00 am,19.0,18.0,Clear,39.0,30.47,N,90.0,6.836,New York
+Wednesday,"January 21, 2026",12:00 am — 6:00 am,18.0,18.0,Clear,40.0,30.51,WNW,380.0,1.864,New York
+Wednesday,"January 21, 2026",6:00 am — 12:00 pm,27.0,18.0,Sunny,38.0,30.52,N,90.0,4.971,New York
+Wednesday,"January 21, 2026",12:00 pm — 6:00 pm,36.0,28.0,Sunny,44.0,30.32,N,90.0,3.728,New York
+Wednesday,"January 21, 2026",6:00 pm — 12:00 am,39.0,36.0,Overcast,52.0,30.18,N,90.0,4.35,New York
+Thursday,"January 22, 2026",12:00 am — 6:00 am,39.0,39.0,Overcast,46.0,30.01,SSW,290.0,4.35,New York
+Thursday,"January 22, 2026",6:00 am — 12:00 pm,45.0,37.0,Sunny,46.0,30.01,N,90.0,3.728,New York
+Thursday,"January 22, 2026",12:00 pm — 6:00 pm,46.0,46.0,Sunny,34.0,29.98,WSW,340.0,6.836,New York
+Thursday,"January 22, 2026",6:00 pm — 12:00 am,45.0,37.0,Clear,25.0,30.06,W,360.0,4.971,New York
+Friday,"January 23, 2026",12:00 am — 6:00 am,37.0,30.0,Clear,28.0,30.1,W,370.0,8.7,New York
+Friday,"January 23, 2026",6:00 am — 12:00 pm,34.0,30.0,Sunny,34.0,30.15,N,90.0,8.078,New York
+Friday,"January 23, 2026",12:00 pm — 6:00 pm,36.0,34.0,Sunny,25.0,30.09,WSW,340.0,9.321,New York
+Friday,"January 23, 2026",6:00 pm — 12:00 am,30.0,14.0,Clear,31.0,30.34,WNW,390.0,11.185,New York
+Saturday,"January 24, 2026",12:00 am — 6:00 am,12.0,9.0,Clear,24.0,30.51,WNW,390.0,9.321,New York
+Saturday,"January 24, 2026",6:00 am — 12:00 pm,12.0,9.0,Sunny,25.0,30.63,N,90.0,3.728,New York
+Saturday,"January 24, 2026",12:00 pm — 6:00 pm,18.0,16.0,Sunny,22.0,30.62,N,90.0,4.971,New York
+Saturday,"January 24, 2026",6:00 pm — 12:00 am,18.0,16.0,Clear,24.0,30.66,N,90.0,4.971,New York
+Sunday,"January 25, 2026",12:00 am — 6:00 am,14.0,10.0,Mostly cloudy,41.0,30.61,NE,140.0,9.321,New York
+Sunday,"January 25, 2026",6:00 am — 12:00 pm,12.0,10.0,Snow. Ice fog,83.0,30.51,NE,140.0,9.321,New York
+Sunday,"January 25, 2026",12:00 pm — 6:00 pm,19.0,12.0,Light snow. Ice fog,85.0,30.11,NE,130.0,11.185,New York
+Sunday,"January 25, 2026",6:00 pm — 12:00 am,21.0,19.0,Light snow. Ice fog,88.0,29.79,NNE,110.0,7.457,New York
+Monday,"January 26, 2026",12:00 am — 6:00 am,19.0,19.0,Light snow. Ice fog,88.0,29.77,N,90.0,4.971,New York
+Monday,"January 26, 2026",6:00 am — 12:00 pm,21.0,18.0,Overcast,84.0,29.79,N,90.0,4.35,New York
+Monday,"January 26, 2026",12:00 pm — 6:00 pm,27.0,21.0,Overcast,64.0,29.75,WNW,390.0,7.457,New York
+Monday,"January 26, 2026",6:00 pm — 12:00 am,21.0,18.0,Passing clouds,49.0,29.92,WNW,380.0,8.078,New York
+Tuesday,"January 27, 2026",12:00 am — 6:00 am,18.0,16.0,Clear,49.0,30.04,W,370.0,8.078,New York
+Tuesday,"January 27, 2026",6:00 am — 12:00 pm,19.0,16.0,Sunny,48.0,30.09,WSW,330.0,3.728,New York
+Tuesday,"January 27, 2026",12:00 pm — 6:00 pm,21.0,19.0,Mostly cloudy,45.0,29.96,SW,320.0,8.078,New York
+Tuesday,"January 27, 2026",6:00 pm — 12:00 am,19.0,18.0,Clear,51.0,30.02,W,370.0,8.7,New York
+Wednesday,"January 28, 2026",12:00 am — 6:00 am,16.0,16.0,Clear,54.0,30.09,W,370.0,7.457,New York
+Wednesday,"January 28, 2026",6:00 am — 12:00 pm,21.0,16.0,Sunny,46.0,30.15,W,360.0,6.214,New York
+Wednesday,"January 28, 2026",12:00 pm — 6:00 pm,23.0,21.0,Sunny,36.0,30.03,N,90.0,3.728,New York
+Wednesday,"January 28, 2026",6:00 pm — 12:00 am,19.0,14.0,Clear,46.0,30.03,N,90.0,6.214,New York
+Thursday,"January 29, 2026",12:00 am — 6:00 am,14.0,12.0,Clear,54.0,30.04,WNW,380.0,3.728,New York
+Thursday,"January 29, 2026",6:00 am — 12:00 pm,18.0,10.0,Sunny,51.0,30.1,W,370.0,5.593,New York
+Thursday,"January 29, 2026",12:00 pm — 6:00 pm,23.0,19.0,Sunny,39.0,30.07,W,370.0,8.078,New York
+Thursday,"January 29, 2026",6:00 pm — 12:00 am,21.0,16.0,Clear,46.0,30.13,W,370.0,6.836,New York
+Friday,"January 30, 2026",12:00 am — 6:00 am,16.0,10.0,Clear,49.0,30.14,N,90.0,6.836,New York
+Friday,"January 30, 2026",6:00 am — 12:00 pm,14.0,9.0,Sunny,45.0,30.17,WNW,380.0,9.321,New York
+Friday,"January 30, 2026",12:00 pm — 6:00 pm,18.0,16.0,Sunny,34.0,30.13,W,370.0,8.7,New York
+Friday,"January 30, 2026",6:00 pm — 12:00 am,16.0,10.0,Clear,44.0,30.18,N,90.0,6.214,New York
+Saturday,"January 31, 2026",12:00 am — 6:00 am,10.0,10.0,Clear,55.0,30.17,WNW,380.0,4.35,New York
+Saturday,"January 31, 2026",6:00 am — 12:00 pm,19.0,10.0,Partly sunny,58.0,30.17,N,90.0,4.35,New York
+Saturday,"January 31, 2026",12:00 pm — 6:00 pm,25.0,21.0,Sunny,45.0,30.09,N,90.0,3.107,New York
+Saturday,"January 31, 2026",6:00 pm — 12:00 am,21.0,16.0,Clear,51.0,30.04,N,90.0,8.7,New York

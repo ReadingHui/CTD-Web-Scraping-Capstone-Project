@@ -1,0 +1,46 @@
+Weekday,Date,Temp High,Temp Low,Condition,Feels Like,Humidity,Precipitation_Rain,Precipitation_Snow,Precipitation Chance,Wind Direction,Wind Degree,Wind Speed,City
+Wed,May 27,65.0,54.0,Passing showers. Mostly cloudy,65.0,55.0,0.03,0.0,24.0,SSW,290.0,10.0,Los Angeles
+Thu,May 28,68.0,54.0,Showers late. Broken clouds,66.0,51.0,0.0,0.0,21.0,SW,320.0,12.0,Los Angeles
+Fri,May 29,69.0,54.0,Mostly sunny,68.0,51.0,0.0,0.0,5.0,SW,320.0,12.0,Los Angeles
+Sat,May 30,74.0,55.0,Sunny,77.0,51.0,0.0,0.0,0.0,SW,320.0,11.0,Los Angeles
+Sun,May 31,80.0,57.0,Sunny,79.0,43.0,0.0,0.0,0.0,SW,320.0,10.0,Los Angeles
+Mon,Jun 1,82.0,58.0,Sunny,80.0,41.0,0.0,0.0,0.0,SW,310.0,10.0,Los Angeles
+Tue,Jun 2,82.0,61.0,Afternoon clouds,80.0,42.0,0.0,0.0,0.0,SW,320.0,9.0,Los Angeles
+Wed,Jun 3,84.0,62.0,Sunny,82.0,41.0,0.0,0.0,1.0,SW,310.0,9.0,Los Angeles
+Thu,Jun 4,80.0,66.0,Sunny,79.0,35.0,0.0,0.0,1.0,S,280.0,9.0,Los Angeles
+Fri,Jun 5,80.0,66.0,Increasing cloudiness,79.0,38.0,0.0,0.0,5.0,SW,310.0,9.0,Los Angeles
+Sat,Jun 6,79.0,66.0,Sunny,79.0,40.0,0.0,0.0,6.0,SSW,290.0,9.0,Los Angeles
+Sun,Jun 7,80.0,67.0,Broken clouds,80.0,40.0,0.0,0.0,5.0,SW,310.0,9.0,Los Angeles
+Mon,Jun 8,84.0,67.0,Breaks of sun late,83.0,40.0,0.0,0.0,6.0,SW,320.0,10.0,Los Angeles
+Tue,Jun 9,86.0,67.0,Sunny,84.0,35.0,0.0,0.0,4.0,SW,320.0,9.0,Los Angeles
+Wed,Jun 10,84.0,67.0,Partly cloudy,82.0,30.0,0.0,0.0,3.0,S,270.0,9.0,Los Angeles
+Wed,May 27,80.0,72.0,Thunderstorms. Overcast,82.0,72.0,0.95,0.0,99.0,S,260.0,3.0,Houston
+Thu,May 28,88.0,70.0,Showers late. Mostly sunny,90.0,53.0,0.03,0.0,24.0,SSW,290.0,3.0,Houston
+Fri,May 29,89.0,73.0,Scattered clouds,93.0,55.0,0.0,0.0,5.0,S,270.0,5.0,Houston
+Sat,May 30,91.0,73.0,Mostly cloudy,96.0,52.0,0.0,0.0,0.0,S,260.0,7.0,Houston
+Sun,May 31,91.0,75.0,Overcast,96.0,54.0,0.0,0.0,0.0,SSW,290.0,10.0,Houston
+Mon,Jun 1,93.0,74.0,Cloudy,99.0,49.0,0.0,0.0,1.0,SSW,290.0,7.0,Houston
+Tue,Jun 2,94.0,76.0,Cloudy,97.0,44.0,0.0,0.0,0.0,ENE,160.0,8.0,Houston
+Wed,Jun 3,91.0,76.0,Tstorms early. Broken clouds,95.0,49.0,0.02,0.0,17.0,ENE,150.0,9.0,Houston
+Thu,Jun 4,90.0,76.0,Sunny,86.0,24.0,0.0,0.0,5.0,ENE,150.0,8.0,Houston
+Fri,Jun 5,90.0,76.0,Increasing cloudiness,89.0,33.0,0.0,0.0,4.0,E,180.0,7.0,Houston
+Sat,Jun 6,90.0,76.0,Sunny,87.0,25.0,0.0,0.0,5.0,NE,140.0,7.0,Houston
+Sun,Jun 7,90.0,76.0,Sunny,87.0,25.0,0.0,0.0,4.0,NNE,120.0,8.0,Houston
+Mon,Jun 8,90.0,76.0,Sunny,87.0,25.0,0.0,0.0,4.0,NNE,110.0,9.0,Houston
+Tue,Jun 9,91.0,76.0,Increasing cloudiness,87.0,19.0,0.0,0.0,4.0,N,100.0,10.0,Houston
+Wed,Jun 10,91.0,77.0,Overcast,88.0,26.0,0.0,0.0,6.0,WNW,380.0,8.0,Houston
+Wed,May 27,85.0,65.0,Isolated tstorms late. Overcast,83.0,48.0,0.02,0.0,52.0,WSW,330.0,10.0,New York
+Thu,May 28,76.0,64.0,Partly cloudy,77.0,35.0,0.02,0.0,48.0,NNW,420.0,13.0,New York
+Fri,May 29,77.0,58.0,Scattered clouds,78.0,30.0,0.0,0.0,0.0,WSW,340.0,13.0,New York
+Sat,May 30,69.0,56.0,Sprinkles early. Scattered clouds,67.0,33.0,0.02,0.0,19.0,N,90.0,17.0,New York
+Sun,May 31,75.0,53.0,Cloudy,76.0,28.0,0.0,0.0,0.0,WNW,380.0,5.0,New York
+Mon,Jun 1,67.0,58.0,Passing showers. Overcast,66.0,53.0,0.18,0.0,55.0,SE,220.0,8.0,New York
+Tue,Jun 2,65.0,54.0,Isolated tstorms. Overcast,64.0,59.0,0.27,0.0,51.0,N,100.0,11.0,New York
+Wed,Jun 3,67.0,52.0,Passing showers. Overcast,65.0,50.0,0.35,0.0,62.0,NW,400.0,12.0,New York
+Thu,Jun 4,73.0,57.0,Scattered clouds,76.0,29.0,0.0,0.0,5.0,NW,400.0,10.0,New York
+Fri,Jun 5,81.0,63.0,Cloudy,80.0,36.0,0.0,0.0,4.0,SSW,290.0,10.0,New York
+Sat,Jun 6,82.0,64.0,Showers early. Morning clouds,82.0,46.0,0.04,0.0,66.0,WSW,340.0,15.0,New York
+Sun,Jun 7,82.0,65.0,Scattered clouds,81.0,33.0,0.0,0.0,5.0,NW,400.0,13.0,New York
+Mon,Jun 8,81.0,65.0,Sunny,79.0,25.0,0.0,0.0,4.0,NW,410.0,13.0,New York
+Tue,Jun 9,85.0,65.0,Sunny,83.0,32.0,0.0,0.0,4.0,N,90.0,11.0,New York
+Wed,Jun 10,80.0,64.0,Cloudy,78.0,26.0,0.0,0.0,5.0,W,350.0,4.0,New York
