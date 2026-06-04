@@ -137,7 +137,7 @@ with c_wdir_col:
 if past_weather_plot:
     st.divider()
     # Past temp info
-    st.subheader(f'Past Weather Graph from {start_date} to {end_date}')  # Subheading for the chart
+    st.subheader(f'Past Weather Graph from {start_date} to {end_date - timedelta(days=1)}')  # Subheading for the chart, convert back to user selected end date
     past_df['Temp High'] = past_df.groupby('Date')['Temp High'].transform('max')
     past_df['Temp Low'] = past_df.groupby('Date')['Temp Low'].transform('min')
     past_df['Average Temp'] = past_df.groupby('Date')['Average Temp'].transform('mean')
