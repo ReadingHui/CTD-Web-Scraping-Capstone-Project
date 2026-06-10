@@ -20,6 +20,62 @@ FLAGS = {
     'New York': 'https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_New_York_City.svg'
 }
 
+WIND_DIR_COLORS = {
+    'N': '#FF0000',    # Red
+    'NNE': '#FF4000',  # Orange-Red
+    'NE': '#FF8000',   # Orange
+    'ENE': '#FFC000',  # Amber
+    'E': '#FFFF00',    # Yellow
+    'ESE': '#80FF00',  # Yellow-Green
+    'SE': '#00FF00',   # Green
+    'SSE': '#00FF80',  # Blue-Green
+    'S': '#00FFFF',    # Cyan
+    'SSW': '#0080FF',  # Sky Blue
+    'SW': '#0000FF',   # Blue
+    'WSW': '#8000FF',  # Violet
+    'W': '#FF00FF',    # Magenta
+    'WNW': '#FF0080',  # Pink
+    'NW': '#E6005C',   # Red-Violet
+    'NNW': '#FF0033'   # Crimson
+}
+
+WEATHER_COND_COLORS = {
+    'Sunny': '#FFD700',
+    'Clear': '#4A90E2',
+    'Overcast': '#A0AEC0',
+    'Passing clouds': '#CBD5E0',
+    'Light rain, Fog': '#4FD1C5',
+    'Fog': '#81E6D9',
+    'Mostly cloudy': '#718096',
+    'Partly sunny': '#F6AD55',
+    'Low clouds': '#667EEA',
+    'Light rain, Mostly cloudy': '#63B3ED',
+    'Scattered clouds': '#E2E8F0',
+    'Light rain, Overcast': '#3182CE',
+    'More clouds than sun': '#A0AEC0',
+    'Broken clouds': '#97A9B6'
+}
+
+COLUMN_UNITS = {
+    'Temp High': 'Temp High (°F)', 
+    'Temp Low': 'Temp Low (°F)',
+    'Average Temp': 'Average Temp (°F)',
+    'Humidity': 'Humidity (%)',
+    'Air Pressure': 'Air Pressure ("Hg)',
+    'Wind Speed': 'Wind Speed (mph)',
+    'High Temp': 'High Temp (°F)',
+    'Mean Temp': 'Mean Temp (°F)',
+    'Low Temp': 'Low Temp (°F)',
+    'Precipitation': 'Precipitation (in)',
+    'Dew Point': 'Dew Point (°F)',
+    'Wind': 'Wind Speed (mph)',
+    'Pressure': 'Pressure ("Hg)',
+    'Visibility': 'Visibility (mi)'
+}
+
+
+
+# Update current time at 1s interval
 @st.fragment(run_every='1s')
 def live_clock(tz):
     now = datetime.now(tz=tz)
@@ -94,6 +150,8 @@ try:
             cursor.execute(past_temp_query, (city, start_date, end_date))
             columns = [description[0] for description in cursor.description]
             past_df = pd.DataFrame(cursor.fetchall(), columns=columns)
+            past_df['Date'] = pd.to_datetime(past_df['Date'])
+            past_df['Date'] = past_df['Date'].dt.strftime("%Y-%m-%d")  # Convert Date column to string format for consistent x-axis formatting
         if climate_plot:
             cursor.execute(climate_query, (city,))        
             columns = [description[0] for description in cursor.description]
@@ -105,6 +163,7 @@ except sqlite3.Error as e:
 # ============================
 # Main app content starts here
 # ============================
+unique_dates = sorted(past_df['Date'].unique())
 st.title(f'{city} Weather Dashboard')  # Big title for the dashboard
 st.subheader('Current Weather')
 
@@ -147,6 +206,11 @@ if past_weather_plot:
         past_temp_graph = px.line(past_df.sort_values('Date'), x='Date', y=past_temp_plot_data, title='Past Temperature Graph')  # Line graph
     past_temp_graph.update_traces(mode="markers+lines", hovertemplate=None)
     past_temp_graph.update_layout(hovermode="x unified")
+    past_temp_graph.update_xaxes(
+        type='category',
+        nticks=10
+    )
+    past_temp_graph.update_yaxes(title_text='Temperature (°F)')  # Update y-axis title with units
     if past_temp_plot_data:
         st.plotly_chart(past_temp_graph, key='past_temp_graph')  # Render the chart in the app
 
@@ -162,8 +226,8 @@ if past_weather_plot:
             past_weather_graph = px.line(past_df.sort_values('Date'), x='Date', y=[f for f in past_weather_plot_data if f != 'Wind Speed'], title='Past Other Info Graph')  # Line graph
         if 'Wind Speed' in past_weather_plot_data:
             past_weather_graph.add_trace(go.Scatter(
-                x=past_df['Date'],
-                y=past_df['Wind Speed'],
+                x=past_df.sort_values(by='Date')['Date'],
+                y=past_df.sort_values(by='Date')['Wind Speed'],
                 mode='lines',
                 name='Wind Speed',
                 customdata=past_df['Wind Direction'],
@@ -173,6 +237,11 @@ if past_weather_plot:
 
             ))
         past_weather_graph.update_traces(mode='lines+markers')
+        past_weather_graph.for_each_trace(lambda t: t.update(name=COLUMN_UNITS.get(t.name, t.name)))  # Update legend names with units
+        past_weather_graph.update_xaxes(
+            type='category',
+            nticks=10
+        )
         st.plotly_chart(past_weather_graph)  # Render the chart in the app
 
     # Past Wind Directions and Conditions
@@ -180,11 +249,11 @@ if past_weather_plot:
     p_wdir_col, p_cond_col = st.columns(2)
     with p_wdir_col:
         past_wdir = pd.DataFrame((past_df['Wind Direction'].value_counts() / 4).reset_index())
-        past_wdir_graph = px.pie(past_wdir, names='Wind Direction', values='count', title='Wind Directions')
+        past_wdir_graph = px.pie(past_wdir, names='Wind Direction', values='count', title='Wind Directions', color='Wind Direction', color_discrete_map=WIND_DIR_COLORS)
         st.plotly_chart(past_wdir_graph, key='past_wdir_graph')
     with p_cond_col:
         past_cond = pd.DataFrame((past_df['Condition'].value_counts() / 4).reset_index())
-        past_cond_graph = px.pie(past_cond, names='Condition', values='count', title='Conditions')
+        past_cond_graph = px.pie(past_cond, names='Condition', values='count', title='Conditions', color='Condition', color_discrete_map=WEATHER_COND_COLORS)
         st.plotly_chart(past_cond_graph, key='past_cond_graph')
 
 # Climate info
