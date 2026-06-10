@@ -163,7 +163,8 @@ except sqlite3.Error as e:
 # ============================
 # Main app content starts here
 # ============================
-unique_dates = sorted(past_df['Date'].unique())
+if past_weather_plot:
+    unique_dates = sorted(past_df['Date'].unique())
 st.title(f'{city} Weather Dashboard')  # Big title for the dashboard
 st.subheader('Current Weather')
 
