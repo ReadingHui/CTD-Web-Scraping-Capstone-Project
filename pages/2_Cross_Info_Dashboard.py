@@ -30,6 +30,59 @@ WEATHER_FEATURES = [
         'Wind Speed'
         ]
 
+WIND_DIR_COLORS = {
+    'N': '#FF0000',    # Red
+    'NNE': '#FF4000',  # Orange-Red
+    'NE': '#FF8000',   # Orange
+    'ENE': '#FFC000',  # Amber
+    'E': '#FFFF00',    # Yellow
+    'ESE': '#80FF00',  # Yellow-Green
+    'SE': '#00FF00',   # Green
+    'SSE': '#00FF80',  # Blue-Green
+    'S': '#00FFFF',    # Cyan
+    'SSW': '#0080FF',  # Sky Blue
+    'SW': '#0000FF',   # Blue
+    'WSW': '#8000FF',  # Violet
+    'W': '#FF00FF',    # Magenta
+    'WNW': '#FF0080',  # Pink
+    'NW': '#E6005C',   # Red-Violet
+    'NNW': '#FF0033'   # Crimson
+}
+
+WEATHER_COND_COLORS = {
+    'Sunny': '#FFD700',
+    'Clear': '#4A90E2',
+    'Overcast': '#A0AEC0',
+    'Passing clouds': '#CBD5E0',
+    'Light rain, Fog': '#4FD1C5',
+    'Fog': '#81E6D9',
+    'Mostly cloudy': '#718096',
+    'Partly sunny': '#F6AD55',
+    'Low clouds': '#667EEA',
+    'Light rain, Mostly cloudy': '#63B3ED',
+    'Scattered clouds': '#E2E8F0',
+    'Light rain, Overcast': '#3182CE',
+    'More clouds than sun': '#A0AEC0',
+    'Broken clouds': '#97A9B6'
+}
+
+COLUMN_UNITS = {
+    'Temp High': 'Temp High (°F)', 
+    'Temp Low': 'Temp Low (°F)',
+    'Average Temp': 'Average Temp (°F)',
+    'Humidity': 'Humidity (%)',
+    'Air Pressure': 'Air Pressure ("Hg)',
+    'Wind Speed': 'Wind Speed (mph)',
+    'High Temp': 'High Temp (°F)',
+    'Mean Temp': 'Mean Temp (°F)',
+    'Low Temp': 'Low Temp (°F)',
+    'Precipitation': 'Precipitation (in)',
+    'Dew Point': 'Dew Point (°F)',
+    'Wind': 'Wind Speed (mph)',
+    'Pressure': 'Pressure ("Hg)',
+    'Visibility': 'Visibility (mi)'
+}
+
 # ===============
 # Sidebar filters
 # ===============
@@ -64,7 +117,11 @@ try:
         if not error_flag:
             cursor.execute(query, (city, start_date, end_date))
             columns = [description[0] for description in cursor.description]
+            columns = [COLUMN_UNITS.get(col, col) for col in columns]  # Update column names with units
+            first_data = COLUMN_UNITS.get(first_data, first_data)  # Update first_data with units
+            second_data = COLUMN_UNITS.get(second_data, second_data)  # Update second_data with units
             weather_df = pd.DataFrame(cursor.fetchall(), columns=columns)
+            weather_df['Month'] = weather_df['Month'].astype('category')  # Convert Month to categorical type for better plotting
             weather_dtype = weather_df.dtypes.to_list()
 
 except sqlite3.Error as e:
@@ -77,18 +134,18 @@ st.title(f'{city} Weather Analysis')  # Big title for the dashboard
 if not error_flag:
     if weather_dtype[0] == np.float64 and weather_dtype[1] == np.float64:
         plot = px.scatter(weather_df, x=first_data, y=second_data, title=f'Scatter plot of {first_data} against {second_data}', color='Month')
-        st.plotly_chart(plot)
-        st.metric('Correlation coefficient', f"{weather_df[first_data].corr(weather_df[second_data]):.2f}")
+        
     elif isinstance(weather_dtype[0], pd.StringDtype) and weather_dtype[1] == np.float64:
-        plot = px.box(weather_df, x=first_data, y=second_data, title=f'Box plot of {first_data} against {second_data}', color=first_data)
+        plot = px.box(weather_df, x=first_data, y=second_data, title=f'Box plot of {first_data} against {second_data}', color=first_data, color_discrete_map=WIND_DIR_COLORS if 'Wind Direction' in first_data else WEATHER_COND_COLORS)
         plot.update_layout(showlegend=False)
-        st.plotly_chart(plot)
     elif weather_dtype[0] == np.float64 and isinstance(weather_dtype[1], pd.StringDtype):
-        plot = px.box(weather_df, x=first_data, y=second_data, title=f'Box plot of {first_data} against {second_data}', color=second_data, orientation='h')
+        plot = px.box(weather_df, x=first_data, y=second_data, title=f'Box plot of {first_data} against {second_data}', color=second_data, color_discrete_map=WIND_DIR_COLORS if 'Wind Direction' in second_data else WEATHER_COND_COLORS, orientation='h')
         plot.update_layout(showlegend=False)
-        st.plotly_chart(plot)
     else:
-        plot = px.histogram(weather_df, x=first_data, color=second_data, barmode='group')
-        st.plotly_chart(plot)
+        plot = px.histogram(weather_df, x=first_data, color=second_data, barmode='group')  
+    plot.for_each_trace(lambda t: t.update(name=COLUMN_UNITS.get(t.name, t.name)))
+    st.plotly_chart(plot)
+    if weather_dtype[0] == np.float64 and weather_dtype[1] == np.float64:
+        st.metric('Correlation coefficient', f"{weather_df[first_data].corr(weather_df[second_data]):.2f}")
 else:
     st.write("Select data on the left to begin.")
