@@ -4,7 +4,7 @@ st.set_page_config(
     page_title="Front Page"
 )
 
-st.write("# Welcome to my web scrapping project!")
+st.write("# Welcome to my web scraping project!")
 
 st.sidebar.success("Select a demo above.")
 
